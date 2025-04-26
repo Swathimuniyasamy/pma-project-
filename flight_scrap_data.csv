@@ -1,0 +1,2286 @@
+Airline,Date,Flight_Duration,Stops,Time_total,class_type,Flight_price
+Spirit Airlines,2023-12-01,12h 44mBOS-ORD,1 stop,9:44 pm – 9:28 am+1,Economy,$82
+American Airlines,2023-12-01,2h 48mBOS-ORD,nonstop,6:52 am – 8:40 am,Basic Economy,$89
+Spirit Airlines,2023-12-01,12h 44mBOS-ORD,1 stop,9:44 pm – 9:28 am+1,Economy,$82
+JetBlue,2023-12-01,3h 01mBOS-ORD,nonstop,4:54 pm – 6:55 pm,Blue Basic,$109
+United Airlines,2023-12-01,2h 57mBOS-ORD,nonstop,6:00 am – 7:57 am,Basic Economy,$106
+JetBlue,2023-12-01,3h 00mBOS-ORD,nonstop,7:05 am – 9:05 am,Blue Basic,$119
+Delta,2023-12-01,3h 05mBOS-ORD,nonstop,5:45 pm – 7:50 pm,Basic Economy,$139
+Delta,2023-12-01,2h 59mBOS-ORD,nonstop,6:05 am – 8:04 am,Basic Economy,$139
+American Airlines,2023-12-01,2h 58mBOS-ORD,nonstop,5:40 pm – 7:38 pm,Basic Economy,$144
+United Airlines,2023-12-01,2h 57mBOS-ORD,nonstop,6:28 pm – 8:25 pm,Basic Economy,$142
+United Airlines,2023-12-01,2h 57mBOS-ORD,nonstop,4:16 pm – 6:13 pm,Basic Economy,$143
+Delta,2023-12-01,2h 55mBOS-ORD,nonstop,2:25 pm – 4:20 pm,Basic Economy,$149
+United Airlines,2023-12-01,2h 57mBOS-ORD,nonstop,11:35 am – 1:32 pm,Basic Economy,$169
+Delta,2023-12-01,3h 04mBOS-ORD,nonstop,10:20 am – 12:24 pm,Basic Economy,$179
+United Airlines,2023-12-01,2h 57mBOS-ORD,nonstop,9:46 am – 11:43 am,Basic Economy,$191
+American Airlines,2023-12-01,3h 02mBOS-ORD,nonstop,3:30 pm – 5:32 pm,Main Cabin,$219
+American Airlines,2023-12-01,2h 59mBOS-ORD,nonstop,8:30 am – 10:29 am,Main Cabin,$219
+Spirit Airlines,2023-12-02,12h 44mBOS-ORD,1 stop,9:44 pm – 9:28 am+1,Economy,$82
+JetBlue,2023-12-02,3h 01mBOS-ORD,nonstop,4:54 pm – 6:55 pm,Blue Basic,$89
+Spirit Airlines,2023-12-02,12h 44mBOS-ORD,1 stop,9:44 pm – 9:28 am+1,Economy,$82
+JetBlue,2023-12-02,3h 00mBOS-ORD,nonstop,7:05 am – 9:05 am,Blue Basic,$89
+American Airlines,2023-12-02,2h 59mBOS-ORD,nonstop,8:30 am – 10:29 am,Basic Economy,$89
+American Airlines,2023-12-02,2h 58mBOS-ORD,nonstop,5:40 pm – 7:38 pm,Basic Economy,$89
+United Airlines,2023-12-02,2h 57mBOS-ORD,nonstop,6:28 pm – 8:25 pm,Basic Economy,$89
+United Airlines,2023-12-02,2h 57mBOS-ORD,nonstop,4:16 pm – 6:13 pm,Basic Economy,$89
+American Airlines,2023-12-02,2h 48mBOS-ORD,nonstop,6:52 am – 8:40 am,Basic Economy,$89
+United Airlines,2023-12-02,2h 57mBOS-ORD,nonstop,9:46 am – 11:43 am,Basic Economy,$89
+United Airlines,2023-12-02,2h 57mBOS-ORD,nonstop,6:00 am – 7:57 am,Basic Economy,$89
+United Airlines,2023-12-02,2h 57mBOS-ORD,nonstop,11:32 am – 1:29 pm,Basic Economy,$89
+American Airlines,2023-12-02,3h 02mBOS-ORD,nonstop,3:30 pm – 5:32 pm,Basic Economy,$119
+Delta,2023-12-02,3h 05mBOS-ORD,nonstop,5:45 pm – 7:50 pm,Basic Economy,$139
+Delta,2023-12-02,2h 56mBOS-ORD,nonstop,2:10 pm – 4:06 pm,Basic Economy,$139
+Delta,2023-12-02,2h 55mBOS-ORD,nonstop,9:55 am – 11:50 am,Basic Economy,$139
+JetBlue,2023-12-02,4h 53mBOS-ORD,1 stop,1:30 pm – 5:23 pm,Blue Basic,$99
+Spirit Airlines,2023-12-03,12h 59mBOS-ORD,1 stop,9:44 pm – 9:43 am+1,Economy,$82
+JetBlue,2023-12-03,3h 00mBOS-ORD,nonstop,7:05 am – 9:05 am,Blue Basic,$89
+Spirit Airlines,2023-12-03,12h 59mBOS-ORD,1 stop,9:44 pm – 9:43 am+1,Economy,$82
+American Airlines,2023-12-03,2h 59mBOS-ORD,nonstop,8:30 am – 10:29 am,Basic Economy,$99
+United Airlines,2023-12-03,2h 57mBOS-ORD,nonstop,9:46 am – 11:43 am,Basic Economy,$89
+United Airlines,2023-12-03,2h 57mBOS-ORD,nonstop,6:00 am – 7:57 am,Basic Economy,$89
+American Airlines,2023-12-03,2h 48mBOS-ORD,nonstop,6:59 am – 8:47 am,Basic Economy,$99
+United Airlines,2023-12-03,2h 57mBOS-ORD,nonstop,11:36 am – 1:33 pm,Basic Economy,$117
+United Airlines,2023-12-03,2h 57mBOS-ORD,nonstop,8:55 pm – 10:52 pm,Basic Economy,$117
+Delta,2023-12-03,3h 05mBOS-ORD,nonstop,5:45 pm – 7:50 pm,Basic Economy,$139
+Delta,2023-12-03,3h 04mBOS-ORD,nonstop,10:20 am – 12:24 pm,Basic Economy,$139
+JetBlue,2023-12-03,3h 01mBOS-ORD,nonstop,4:54 pm – 6:55 pm,Blue Basic,$134
+United Airlines,2023-12-03,2h 57mBOS-ORD,nonstop,6:28 pm – 8:25 pm,Basic Economy,$169
+American Airlines,2023-12-03,3h 02mBOS-ORD,nonstop,3:30 pm – 5:32 pm,Basic Economy,$179
+American Airlines,2023-12-03,2h 58mBOS-ORD,nonstop,5:40 pm – 7:38 pm,Basic Economy,$179
+United Airlines,2023-12-03,2h 57mBOS-ORD,nonstop,3:01 pm – 4:58 pm,Basic Economy,$181
+Delta,2023-12-03,2h 55mBOS-ORD,nonstop,2:25 pm – 4:20 pm,Basic Economy,$179
+Frontier,2023-12-04,10h 08mBOS-MDW,1 stop,8:33 am – 5:41 pm,Economy,$70
+JetBlue,2023-12-04,3h 01mBOS-ORD,nonstop,4:54 pm – 6:55 pm,Blue Basic,$89
+Frontier,2023-12-04,10h 08mBOS-MDW,1 stop,8:33 am – 5:41 pm,Economy,$57
+JetBlue,2023-12-04,3h 00mBOS-ORD,nonstop,7:05 am – 9:05 am,Blue Basic,$89
+American Airlines,2023-12-04,2h 59mBOS-ORD,nonstop,8:30 am – 10:29 am,Basic Economy,$89
+United Airlines,2023-12-04,2h 57mBOS-ORD,nonstop,6:28 pm – 8:25 pm,Basic Economy,$89
+American Airlines,2023-12-04,2h 58mBOS-ORD,nonstop,5:40 pm – 7:38 pm,Basic Economy,$89
+United Airlines,2023-12-04,2h 57mBOS-ORD,nonstop,6:00 am – 7:57 am,Basic Economy,$89
+American Airlines,2023-12-04,2h 48mBOS-ORD,nonstop,6:52 am – 8:40 am,Basic Economy,$89
+American Airlines,2023-12-04,3h 02mBOS-ORD,nonstop,3:30 pm – 5:32 pm,Basic Economy,$119
+United Airlines,2023-12-04,2h 57mBOS-ORD,nonstop,4:16 pm – 6:13 pm,Basic Economy,$112
+United Airlines,2023-12-04,2h 57mBOS-ORD,nonstop,11:35 am – 1:32 pm,Basic Economy,$117
+United Airlines,2023-12-04,2h 57mBOS-ORD,nonstop,9:46 am – 11:43 am,Basic Economy,$117
+Delta,2023-12-04,3h 05mBOS-ORD,nonstop,5:45 pm – 7:50 pm,Basic Economy,$139
+Delta,2023-12-04,2h 59mBOS-ORD,nonstop,6:05 am – 8:04 am,Basic Economy,$139
+Delta,2023-12-04,2h 55mBOS-ORD,nonstop,2:25 pm – 4:20 pm,Basic Economy,$139
+American Airlines,2023-12-04,3h 02mBOS-ORD,nonstop,12:22 pm – 2:24 pm,Main Cabin,$219
+Spirit Airlines,2023-12-05,7h 39mBOS-ORD,1 stop,12:30 pm – 7:09 pm,Economy,$82
+American Airlines,2023-12-05,3h 07mBOS-ORD,nonstop,3:30 pm – 5:37 pm,Basic Economy,$79
+Spirit Airlines,2023-12-05,14h 13mBOS-ORD,1 stop,9:37 pm – 10:50 am+1,Economy,$60
+American Airlines,2023-12-05,3h 07mBOS-ORD,nonstop,7:50 am – 9:57 am,Basic Economy,$79
+JetBlue,2023-12-05,3h 01mBOS-ORD,nonstop,4:54 pm – 6:55 pm,Blue Basic,$79
+American Airlines,2023-12-05,3h 05mBOS-ORD,nonstop,6:50 am – 8:55 am,Basic Economy,$79
+JetBlue,2023-12-05,3h 00mBOS-ORD,nonstop,7:05 am – 9:05 am,Blue Basic,$79
+United Airlines,2023-12-05,2h 57mBOS-ORD,nonstop,6:28 pm – 8:25 pm,Basic Economy,$79
+United Airlines,2023-12-05,2h 57mBOS-ORD,nonstop,4:16 pm – 6:13 pm,Basic Economy,$79
+United Airlines,2023-12-05,2h 57mBOS-ORD,nonstop,11:35 am – 1:32 pm,Basic Economy,$79
+United Airlines,2023-12-05,2h 57mBOS-ORD,nonstop,9:46 am – 11:43 am,Basic Economy,$79
+United Airlines,2023-12-05,2h 57mBOS-ORD,nonstop,6:00 am – 7:57 am,Basic Economy,$79
+Delta,2023-12-05,3h 05mBOS-ORD,nonstop,5:45 pm – 7:50 pm,Basic Economy,$104
+Delta,2023-12-05,2h 59mBOS-ORD,nonstop,6:05 am – 8:04 am,Basic Economy,$104
+Delta,2023-12-05,2h 55mBOS-ORD,nonstop,2:25 pm – 4:20 pm,Basic Economy,$104
+American Airlines,2023-12-05,3h 07mBOS-ORD,nonstop,12:22 pm – 2:29 pm,Basic Economy,$119
+Delta,2023-12-05,3h 04mBOS-ORD,nonstop,10:20 am – 12:24 pm,Basic Economy,$119
+Frontier,2023-12-06,10h 08mBOS-MDW,1 stop,8:33 am – 5:41 pm,Economy,$60
+American Airlines,2023-12-06,3h 07mBOS-ORD,nonstop,7:50 am – 9:57 am,Basic Economy,$79
+Frontier,2023-12-06,10h 08mBOS-MDW,1 stop,8:33 am – 5:41 pm,Economy,$45
+American Airlines,2023-12-06,3h 04mBOS-ORD,nonstop,6:50 am – 8:54 am,Basic Economy,$79
+JetBlue,2023-12-06,3h 01mBOS-ORD,nonstop,4:54 pm – 6:55 pm,Blue Basic,$79
+JetBlue,2023-12-06,2h 59mBOS-ORD,nonstop,7:00 am – 8:59 am,Blue Basic,$79
+United Airlines,2023-12-06,2h 57mBOS-ORD,nonstop,11:35 am – 1:32 pm,Basic Economy,$79
+United Airlines,2023-12-06,2h 57mBOS-ORD,nonstop,9:46 am – 11:43 am,Basic Economy,$79
+United Airlines,2023-12-06,2h 57mBOS-ORD,nonstop,6:00 am – 7:57 am,Basic Economy,$79
+Delta,2023-12-06,3h 05mBOS-ORD,nonstop,5:45 pm – 7:50 pm,Basic Economy,$104
+Delta,2023-12-06,3h 04mBOS-ORD,nonstop,10:20 am – 12:24 pm,Basic Economy,$104
+Delta,2023-12-06,2h 59mBOS-ORD,nonstop,6:05 am – 8:04 am,Basic Economy,$104
+Delta,2023-12-06,2h 55mBOS-ORD,nonstop,2:25 pm – 4:20 pm,Basic Economy,$104
+American Airlines,2023-12-06,3h 07mBOS-ORD,nonstop,12:22 pm – 2:29 pm,Basic Economy,$119
+United Airlines,2023-12-06,2h 57mBOS-ORD,nonstop,6:28 pm – 8:25 pm,Basic Economy,$115
+United Airlines,2023-12-06,2h 57mBOS-ORD,nonstop,4:16 pm – 6:13 pm,Basic Economy,$164
+Spirit Airlines,2023-12-07,12h 56mBOS-ORD,1 stop,9:47 pm – 9:43 am+1,Economy,$82
+American Airlines,2023-12-07,3h 07mBOS-ORD,nonstop,7:50 am – 9:57 am,Basic Economy,$84
+Spirit Airlines,2023-12-07,14h 13mBOS-ORD,1 stop,9:37 pm – 10:50 am+1,Economy,$74
+American Airlines,2023-12-07,3h 04mBOS-ORD,nonstop,6:50 am – 8:54 am,Basic Economy,$84
+JetBlue,2023-12-07,3h 01mBOS-ORD,nonstop,4:54 pm – 6:55 pm,Blue Basic,$84
+United Airlines,2023-12-07,2h 57mBOS-ORD,nonstop,6:00 am – 7:57 am,Basic Economy,$89
+JetBlue,2023-12-07,2h 59mBOS-ORD,nonstop,7:00 am – 8:59 am,Blue Basic,$94
+American Airlines,2023-12-07,3h 07mBOS-ORD,nonstop,12:22 pm – 2:29 pm,Basic Economy,$119
+Delta,2023-12-07,3h 05mBOS-ORD,nonstop,8:25 pm – 10:30 pm,Basic Economy,$119
+Delta,2023-12-07,2h 59mBOS-ORD,nonstop,6:05 am – 8:04 am,Basic Economy,$119
+Delta,2023-12-07,2h 58mBOS-ORD,nonstop,10:05 am – 12:03 pm,Basic Economy,$119
+United Airlines,2023-12-07,2h 57mBOS-ORD,nonstop,9:46 am – 11:43 am,Basic Economy,$119
+Delta,2023-12-07,2h 57mBOS-ORD,nonstop,2:30 pm – 4:27 pm,Basic Economy,$119
+American Airlines,2023-12-07,3h 07mBOS-ORD,nonstop,3:30 pm – 5:37 pm,Basic Economy,$144
+Delta,2023-12-07,3h 06mBOS-ORD,nonstop,5:25 pm – 7:31 pm,Basic Economy,$149
+United Airlines,2023-12-07,2h 57mBOS-ORD,nonstop,11:35 am – 1:32 pm,Basic Economy,$148
+American Airlines,2023-12-07,3h 07mBOS-ORD,nonstop,5:49 pm – 7:56 pm,Main Cabin,$219
+United Airlines,2023-12-08,2h 57mBOS-ORD,nonstop,6:28 pm – 8:25 pm,Basic Economy,$89
+Spirit Airlines,2023-12-08,14h 13mBOS-ORD,1 stop,9:37 pm – 10:50 am+1,Economy,$60
+United Airlines,2023-12-08,2h 57mBOS-ORD,nonstop,6:00 am – 7:57 am,Basic Economy,$89
+American Airlines,2023-12-08,3h 07mBOS-ORD,nonstop,5:49 pm – 7:56 pm,Basic Economy,$84
+American Airlines,2023-12-08,3h 04mBOS-ORD,nonstop,6:50 am – 8:54 am,Basic Economy,$84
+American Airlines,2023-12-08,3h 07mBOS-ORD,nonstop,7:50 am – 9:57 am,Basic Economy,$84
+United Airlines,2023-12-08,2h 57mBOS-ORD,nonstop,4:16 pm – 6:13 pm,Basic Economy,$119
+JetBlue,2023-12-08,3h 01mBOS-ORD,nonstop,4:54 pm – 6:55 pm,Blue Basic,$84
+JetBlue,2023-12-08,2h 59mBOS-ORD,nonstop,7:00 am – 8:59 am,Blue Basic,$109
+Delta,2023-12-08,2h 58mBOS-ORD,nonstop,10:05 am – 12:03 pm,Basic Economy,$119
+American Airlines,2023-12-08,3h 07mBOS-ORD,nonstop,3:30 pm – 5:37 pm,Basic Economy,$144
+Delta,2023-12-08,3h 02mBOS-ORD,nonstop,8:20 pm – 10:22 pm,Basic Economy,$119
+Delta,2023-12-08,2h 59mBOS-ORD,nonstop,6:05 am – 8:04 am,Basic Economy,$119
+Delta,2023-12-08,3h 06mBOS-ORD,nonstop,5:25 pm – 7:31 pm,Basic Economy,$119
+American Airlines,2023-12-08,4h 35mBOS-ORD,1 stop,7:43 am – 11:18 am,Basic Economy,$104
+United Airlines,2023-12-08,2h 57mBOS-ORD,nonstop,11:35 am – 1:32 pm,Basic Economy,$169
+United Airlines,2023-12-09,2h 57mBOS-ORD,nonstop,6:28 pm – 8:25 pm,Basic Economy,$79
+Spirit Airlines,2023-12-09,14h 13mBOS-ORD,1 stop,9:37 pm – 10:50 am+1,Economy,$74
+United Airlines,2023-12-09,2h 57mBOS-ORD,nonstop,4:16 pm – 6:13 pm,Basic Economy,$79
+JetBlue,2023-12-09,3h 01mBOS-ORD,nonstop,4:54 pm – 6:55 pm,Blue Basic,$79
+United Airlines,2023-12-09,2h 57mBOS-ORD,nonstop,11:32 am – 1:29 pm,Basic Economy,$79
+United Airlines,2023-12-09,2h 57mBOS-ORD,nonstop,9:46 am – 11:43 am,Basic Economy,$79
+United Airlines,2023-12-09,2h 57mBOS-ORD,nonstop,6:00 am – 7:57 am,Basic Economy,$79
+JetBlue,2023-12-09,2h 59mBOS-ORD,nonstop,7:00 am – 8:59 am,Blue Basic,$79
+American Airlines,2023-12-09,3h 07mBOS-ORD,nonstop,3:30 pm – 5:37 pm,Basic Economy,$79
+American Airlines,2023-12-09,3h 07mBOS-ORD,nonstop,7:50 am – 9:57 am,Basic Economy,$79
+American Airlines,2023-12-09,3h 13mBOS-ORD,nonstop,6:15 am – 8:28 am,Basic Economy,$79
+American Airlines,2023-12-09,3h 12mBOS-ORD,nonstop,12:31 pm – 2:43 pm,Basic Economy,$89
+Delta,2023-12-09,2h 57mBOS-ORD,nonstop,2:00 pm – 3:57 pm,Basic Economy,$104
+Delta,2023-12-09,2h 58mBOS-ORD,nonstop,9:35 am – 11:33 am,Basic Economy,$104
+Delta,2023-12-09,3h 07mBOS-ORD,nonstop,5:00 pm – 7:07 pm,Basic Economy,$104
+JetBlue,2023-12-09,4h 56mBOS-ORD,1 stop,1:26 pm – 5:22 pm,Blue Basic,$89
+JetBlue,2023-12-10,2h 59mBOS-ORD,nonstop,7:00 am – 8:59 am,Blue Basic,$84
+Spirit Airlines,2023-12-10,14h 13mBOS-ORD,1 stop,9:37 pm – 10:50 am+1,Economy,$81
+United Airlines,2023-12-10,2h 57mBOS-ORD,nonstop,6:00 am – 7:57 am,Basic Economy,$89
+American Airlines,2023-12-10,3h 04mBOS-ORD,nonstop,6:50 am – 8:54 am,Basic Economy,$94
+American Airlines,2023-12-10,3h 07mBOS-ORD,nonstop,7:50 am – 9:57 am,Basic Economy,$94
+United Airlines,2023-12-10,2h 57mBOS-ORD,nonstop,8:55 pm – 10:52 pm,Basic Economy,$119
+JetBlue,2023-12-10,3h 01mBOS-ORD,nonstop,4:54 pm – 6:55 pm,Blue Basic,$134
+United Airlines,2023-12-10,2h 57mBOS-ORD,nonstop,9:46 am – 11:43 am,Basic Economy,$169
+United Airlines,2023-12-10,2h 57mBOS-ORD,nonstop,6:28 pm – 8:25 pm,Basic Economy,$178
+American Airlines,2023-12-10,4h 35mBOS-ORD,1 stop,7:43 am – 11:18 am,Basic Economy,$114
+Delta,2023-12-10,2h 58mBOS-ORD,nonstop,10:05 am – 12:03 pm,Basic Economy,$149
+Delta,2023-12-10,3h 06mBOS-ORD,nonstop,5:25 pm – 7:31 pm,Basic Economy,$149
+American Airlines,2023-12-10,3h 07mBOS-ORD,nonstop,5:49 pm – 7:56 pm,Basic Economy,$179
+Delta,2023-12-10,2h 57mBOS-ORD,nonstop,2:30 pm – 4:27 pm,Basic Economy,$179
+American Airlines,2023-12-10,5h 27mBOS-ORD,1 stop,7:00 am – 11:27 am,Basic Economy,$114
+Delta,2023-12-10,3h 05mBOS-ORD,nonstop,8:25 pm – 10:30 pm,Basic Economy,$179
+United Airlines,2023-12-11,2h 57mBOS-ORD,nonstop,6:28 pm – 8:25 pm,Basic Economy,$89
+Frontier,2023-12-11,10h 08mBOS-MDW,1 stop,8:33 am – 5:41 pm,Economy,$55
+American Airlines,2023-12-11,3h 04mBOS-ORD,nonstop,6:50 am – 8:54 am,Basic Economy,$84
+American Airlines,2023-12-11,3h 07mBOS-ORD,nonstop,7:50 am – 9:57 am,Basic Economy,$84
+United Airlines,2023-12-11,2h 57mBOS-ORD,nonstop,6:00 am – 7:57 am,Basic Economy,$89
+United Airlines,2023-12-11,2h 57mBOS-ORD,nonstop,4:16 pm – 6:13 pm,Basic Economy,$107
+JetBlue,2023-12-11,3h 01mBOS-ORD,nonstop,4:54 pm – 6:55 pm,Blue Basic,$84
+JetBlue,2023-12-11,2h 59mBOS-ORD,nonstop,7:00 am – 8:59 am,Blue Basic,$84
+United Airlines,2023-12-11,2h 57mBOS-ORD,nonstop,11:35 am – 1:32 pm,Basic Economy,$119
+United Airlines,2023-12-11,2h 57mBOS-ORD,nonstop,9:46 am – 11:43 am,Basic Economy,$119
+American Airlines,2023-12-11,3h 07mBOS-ORD,nonstop,12:22 pm – 2:29 pm,Basic Economy,$119
+American Airlines,2023-12-11,4h 36mBOS-ORD,1 stop,7:43 am – 11:19 am,Basic Economy,$104
+Delta,2023-12-11,2h 57mBOS-ORD,nonstop,2:30 pm – 4:27 pm,Basic Economy,$119
+Delta,2023-12-11,3h 02mBOS-ORD,nonstop,8:20 pm – 10:22 pm,Basic Economy,$119
+Delta,2023-12-11,3h 06mBOS-ORD,nonstop,5:25 pm – 7:31 pm,Basic Economy,$119
+Delta,2023-12-11,2h 59mBOS-ORD,nonstop,6:05 am – 8:04 am,Basic Economy,$119
+United Airlines,2023-12-12,2h 57mBOS-ORD,nonstop,6:28 pm – 8:25 pm,Basic Economy,$79
+Spirit Airlines,2023-12-12,14h 13mBOS-ORD,1 stop,9:37 pm – 10:50 am+1,Economy,$60
+United Airlines,2023-12-12,2h 57mBOS-ORD,nonstop,4:16 pm – 6:13 pm,Basic Economy,$79
+JetBlue,2023-12-12,3h 01mBOS-ORD,nonstop,4:54 pm – 6:55 pm,Blue Basic,$79
+United Airlines,2023-12-12,2h 57mBOS-ORD,nonstop,11:35 am – 1:32 pm,Basic Economy,$79
+United Airlines,2023-12-12,2h 57mBOS-ORD,nonstop,9:46 am – 11:43 am,Basic Economy,$79
+United Airlines,2023-12-12,2h 57mBOS-ORD,nonstop,6:00 am – 7:57 am,Basic Economy,$79
+JetBlue,2023-12-12,2h 59mBOS-ORD,nonstop,7:00 am – 8:59 am,Blue Basic,$79
+American Airlines,2023-12-12,3h 07mBOS-ORD,nonstop,3:30 pm – 5:37 pm,Basic Economy,$79
+American Airlines,2023-12-12,3h 04mBOS-ORD,nonstop,6:50 am – 8:54 am,Basic Economy,$79
+American Airlines,2023-12-12,3h 07mBOS-ORD,nonstop,7:50 am – 9:57 am,Basic Economy,$79
+American Airlines,2023-12-12,3h 07mBOS-ORD,nonstop,12:22 pm – 2:29 pm,Basic Economy,$119
+Delta,2023-12-12,2h 57mBOS-ORD,nonstop,2:30 pm – 4:27 pm,Basic Economy,$104
+Delta,2023-12-12,2h 58mBOS-ORD,nonstop,10:05 am – 12:03 pm,Basic Economy,$104
+Delta,2023-12-12,3h 05mBOS-ORD,nonstop,8:25 pm – 10:30 pm,Basic Economy,$104
+Delta,2023-12-12,2h 59mBOS-ORD,nonstop,6:05 am – 8:04 am,Basic Economy,$104
+United Airlines,2023-12-13,2h 57mBOS-ORD,nonstop,6:28 pm – 8:25 pm,Basic Economy,$79
+Frontier,2023-12-13,10h 08mBOS-MDW,1 stop,8:33 am – 5:41 pm,Economy,$45
+JetBlue,2023-12-13,3h 01mBOS-ORD,nonstop,4:54 pm – 6:55 pm,Blue Basic,$79
+United Airlines,2023-12-13,2h 57mBOS-ORD,nonstop,11:35 am – 1:32 pm,Basic Economy,$79
+United Airlines,2023-12-13,2h 57mBOS-ORD,nonstop,9:46 am – 11:43 am,Basic Economy,$79
+United Airlines,2023-12-13,2h 57mBOS-ORD,nonstop,6:00 am – 7:57 am,Basic Economy,$79
+JetBlue,2023-12-13,2h 59mBOS-ORD,nonstop,7:00 am – 8:59 am,Blue Basic,$79
+American Airlines,2023-12-13,3h 04mBOS-ORD,nonstop,6:50 am – 8:54 am,Basic Economy,$79
+American Airlines,2023-12-13,3h 07mBOS-ORD,nonstop,7:50 am – 9:57 am,Basic Economy,$79
+United Airlines,2023-12-13,2h 57mBOS-ORD,nonstop,4:16 pm – 6:13 pm,Basic Economy,$115
+American Airlines,2023-12-13,3h 07mBOS-ORD,nonstop,3:30 pm – 5:37 pm,Basic Economy,$119
+American Airlines,2023-12-13,3h 07mBOS-ORD,nonstop,12:22 pm – 2:29 pm,Basic Economy,$119
+Delta,2023-12-13,2h 57mBOS-ORD,nonstop,2:30 pm – 4:27 pm,Basic Economy,$104
+Delta,2023-12-13,3h 02mBOS-ORD,nonstop,8:20 pm – 10:22 pm,Basic Economy,$104
+Delta,2023-12-13,2h 58mBOS-ORD,nonstop,10:05 am – 12:03 pm,Basic Economy,$104
+Delta,2023-12-13,2h 59mBOS-ORD,nonstop,6:05 am – 8:04 am,Basic Economy,$104
+JetBlue,2023-12-14,2h 59mBOS-ORD,nonstop,7:00 am – 8:59 am,Blue Basic,$84
+Frontier,2023-12-14,25h 09mBOS-ORD,1 stop,9:06 am – 9:15 am+1,Economy,$55
+American Airlines,2023-12-14,3h 07mBOS-ORD,nonstop,5:49 pm – 7:56 pm,Basic Economy,$84
+American Airlines,2023-12-14,3h 04mBOS-ORD,nonstop,6:50 am – 8:54 am,Basic Economy,$84
+American Airlines,2023-12-14,3h 07mBOS-ORD,nonstop,7:50 am – 9:57 am,Basic Economy,$84
+United Airlines,2023-12-14,2h 57mBOS-ORD,nonstop,9:46 am – 11:43 am,Basic Economy,$107
+United Airlines,2023-12-14,2h 57mBOS-ORD,nonstop,6:00 am – 7:57 am,Basic Economy,$107
+United Airlines,2023-12-14,2h 57mBOS-ORD,nonstop,11:35 am – 1:32 pm,Basic Economy,$119
+Delta,2023-12-14,2h 59mBOS-ORD,nonstop,6:05 am – 8:04 am,Basic Economy,$89
+Delta,2023-12-14,2h 58mBOS-ORD,nonstop,10:05 am – 12:03 pm,Basic Economy,$94
+JetBlue,2023-12-14,3h 01mBOS-ORD,nonstop,4:54 pm – 6:55 pm,Blue Basic,$134
+JetBlue,2023-12-14,4h 56mBOS-ORD,1 stop,7:06 am – 11:02 am,Blue Basic,$94
+American Airlines,2023-12-14,4h 46mBOS-ORD,1 stop,8:30 am – 12:16 pm,Basic Economy,$104
+American Airlines,2023-12-14,5h 20mBOS-ORD,1 stop,10:05 am – 2:25 pm,Basic Economy,$102
+American Airlines,2023-12-14,5h 41mBOS-ORD,1 stop,8:40 am – 1:21 pm,Basic Economy,$104
+American Airlines,2023-12-14,5h 47mBOS-ORD,1 stop,8:00 am – 12:47 pm,Basic Economy,$102
+American Airlines,2023-12-15,3h 04mBOS-ORD,nonstop,6:50 am – 8:54 am,Basic Economy,$119
+Spirit Airlines,2023-12-15,14h 13mBOS-ORD,1 stop,9:37 pm – 10:50 am+1,Economy,$60
+JetBlue,2023-12-15,3h 00mBOS-ORD,nonstop,6:00 am – 8:00 am,Blue Basic,$134
+United Airlines,2023-12-15,2h 57mBOS-ORD,nonstop,6:00 am – 7:57 am,Basic Economy,$143
+United Airlines,2023-12-15,2h 57mBOS-ORD,nonstop,6:28 pm – 8:25 pm,Basic Economy,$159
+American Airlines,2023-12-15,5h 08mBOS-ORD,1 stop,6:24 pm – 10:32 pm,Basic Economy,$104
+American Airlines,2023-12-15,3h 07mBOS-ORD,nonstop,5:49 pm – 7:56 pm,Basic Economy,$169
+United Airlines,2023-12-15,2h 57mBOS-ORD,nonstop,11:35 am – 1:32 pm,Basic Economy,$168
+American Airlines,2023-12-15,3h 07mBOS-ORD,nonstop,7:50 am – 9:57 am,Basic Economy,$169
+Delta,2023-12-15,3h 05mBOS-ORD,nonstop,8:20 pm – 10:25 pm,Basic Economy,$149
+American Airlines,2023-12-15,4h 35mBOS-ORD,1 stop,7:43 am – 11:18 am,Basic Economy,$129
+United Airlines,2023-12-15,2h 57mBOS-ORD,nonstop,9:46 am – 11:43 am,Basic Economy,$192
+American Airlines,2023-12-15,6h 18mBOS-ORD,1 stop,10:41 am – 3:59 pm,Basic Economy,$104
+American Airlines,2023-12-15,5h 47mBOS-ORD,1 stop,8:00 am – 12:47 pm,Basic Economy,$127
+Spirit Airlines,2023-12-15,7h 20mBOS-ORD,1 stop,12:49 pm – 7:09 pm,Economy,$75
+American Airlines,2023-12-15,3h 07mBOS-ORD,nonstop,3:30 pm – 5:37 pm,Main Cabin,$219
+JetBlue,2023-12-16,3h 00mBOS-ORD,nonstop,6:00 am – 8:00 am,Blue Basic,$94
+Spirit Airlines,2023-12-16,14h 13mBOS-ORD,1 stop,9:37 pm – 10:50 am+1,Economy,$60
+United Airlines,2023-12-16,2h 57mBOS-ORD,nonstop,6:28 pm – 8:25 pm,Basic Economy,$115
+United Airlines,2023-12-16,2h 57mBOS-ORD,nonstop,6:00 am – 7:57 am,Basic Economy,$115
+JetBlue,2023-12-16,3h 00mBOS-ORD,nonstop,1:45 pm – 3:45 pm,Blue Basic,$119
+American Airlines,2023-12-16,3h 13mBOS-ORD,nonstop,6:15 am – 8:28 am,Basic Economy,$119
+United Airlines,2023-12-16,2h 57mBOS-ORD,nonstop,9:46 am – 11:43 am,Basic Economy,$143
+American Airlines,2023-12-16,3h 07mBOS-ORD,nonstop,3:30 pm – 5:37 pm,Basic Economy,$144
+American Airlines,2023-12-16,3h 07mBOS-ORD,nonstop,7:50 am – 9:57 am,Basic Economy,$144
+United Airlines,2023-12-16,2h 57mBOS-ORD,nonstop,11:32 am – 1:29 pm,Basic Economy,$154
+United Airlines,2023-12-16,2h 57mBOS-ORD,nonstop,4:16 pm – 6:13 pm,Basic Economy,$159
+American Airlines,2023-12-16,4h 57mBOS-ORD,1 stop,3:40 pm – 7:37 pm,Basic Economy,$104
+American Airlines,2023-12-16,5h 11mBOS-ORD,1 stop,5:26 pm – 9:37 pm,Basic Economy,$104
+United Airlines,2023-12-16,5h 47mBOS-ORD,1 stop,6:43 pm – 11:30 pm,Basic Economy,$89
+Delta,2023-12-16,3h 06mBOS-ORD,nonstop,1:25 pm – 3:31 pm,Basic Economy,$149
+Delta,2023-12-16,3h 14mBOS-ORD,nonstop,5:40 pm – 7:54 pm,Basic Economy,$149
+United Airlines,2023-12-17,2h 57mBOS-ORD,nonstop,8:55 pm – 10:52 pm,Basic Economy,$89
+Spirit Airlines,2023-12-17,14h 13mBOS-ORD,1 stop,9:37 pm – 10:50 am+1,Economy,$68
+JetBlue,2023-12-17,3h 00mBOS-ORD,nonstop,6:00 am – 8:00 am,Blue Basic,$84
+United Airlines,2023-12-17,2h 57mBOS-ORD,nonstop,6:00 am – 7:57 am,Basic Economy,$89
+American Airlines,2023-12-17,3h 07mBOS-ORD,nonstop,7:50 am – 9:57 am,Basic Economy,$94
+United Airlines,2023-12-17,2h 57mBOS-ORD,nonstop,9:46 am – 11:43 am,Basic Economy,$110
+United Airlines,2023-12-17,2h 57mBOS-ORD,nonstop,11:35 am – 1:32 pm,Basic Economy,$119
+American Airlines,2023-12-17,3h 07mBOS-ORD,nonstop,5:49 pm – 7:56 pm,Basic Economy,$129
+Delta,2023-12-17,3h 13mBOS-ORD,nonstop,7:25 pm – 9:38 pm,Basic Economy,$119
+Delta,2023-12-17,3h 09mBOS-ORD,nonstop,8:55 am – 11:04 am,Basic Economy,$119
+American Airlines,2023-12-17,3h 06mBOS-ORD,nonstop,12:22 pm – 2:28 pm,Basic Economy,$154
+United Airlines,2023-12-17,2h 57mBOS-ORD,nonstop,6:28 pm – 8:25 pm,Basic Economy,$169
+American Airlines,2023-12-17,4h 46mBOS-ORD,1 stop,8:30 am – 12:16 pm,Basic Economy,$114
+Delta,2023-12-17,2h 55mBOS-ORD,nonstop,1:25 pm – 3:20 pm,Basic Economy,$149
+JetBlue,2023-12-17,3h 00mBOS-ORD,nonstop,1:45 pm – 3:45 pm,Blue Basic,$154
+United Airlines,2023-12-17,2h 57mBOS-ORD,nonstop,4:16 pm – 6:13 pm,Basic Economy,$192
+JetBlue,2023-12-18,3h 00mBOS-ORD,nonstop,6:00 am – 8:00 am,Blue Basic,$84
+Frontier,2023-12-18,10h 18mBOS-MDW,1 stop,8:23 am – 5:41 pm,Economy,$55
+United Airlines,2023-12-18,2h 57mBOS-ORD,nonstop,4:16 pm – 6:13 pm,Basic Economy,$115
+American Airlines,2023-12-18,3h 04mBOS-ORD,nonstop,6:50 am – 8:54 am,Basic Economy,$119
+American Airlines,2023-12-18,3h 07mBOS-ORD,nonstop,7:50 am – 9:57 am,Basic Economy,$119
+United Airlines,2023-12-18,2h 57mBOS-ORD,nonstop,9:46 am – 11:43 am,Basic Economy,$143
+United Airlines,2023-12-18,2h 57mBOS-ORD,nonstop,6:00 am – 7:57 am,Basic Economy,$143
+Delta,2023-12-18,3h 09mBOS-ORD,nonstop,8:55 am – 11:04 am,Basic Economy,$114
+American Airlines,2023-12-18,4h 57mBOS-ORD,1 stop,3:40 pm – 7:37 pm,Basic Economy,$104
+United Airlines,2023-12-18,2h 57mBOS-ORD,nonstop,11:35 am – 1:32 pm,Basic Economy,$173
+American Airlines,2023-12-18,5h 28mBOS-ORD,1 stop,5:26 pm – 9:54 pm,Basic Economy,$104
+United Airlines,2023-12-18,5h 46mBOS-ORD,1 stop,6:30 pm – 11:16 pm,Basic Economy,$99
+United Airlines,2023-12-18,5h 47mBOS-ORD,1 stop,6:43 pm – 11:30 pm,Basic Economy,$99
+American Airlines,2023-12-18,4h 46mBOS-ORD,1 stop,8:30 am – 12:16 pm,Basic Economy,$129
+Delta,2023-12-18,3h 13mBOS-ORD,nonstop,7:25 pm – 9:38 pm,Basic Economy,$149
+American Airlines,2023-12-18,5h 41mBOS-ORD,1 stop,8:40 am – 1:21 pm,Basic Economy,$104
+JetBlue,2023-12-19,3h 00mBOS-ORD,nonstop,6:00 am – 8:00 am,Blue Basic,$94
+Spirit Airlines,2023-12-19,13h 25mBOS-ORD,1 stop,10:25 pm – 10:50 am+1,Economy,$60
+American Airlines,2023-12-19,3h 07mBOS-ORD,nonstop,7:50 am – 9:57 am,Basic Economy,$119
+United Airlines,2023-12-19,2h 57mBOS-ORD,nonstop,6:00 am – 7:57 am,Basic Economy,$143
+American Airlines,2023-12-19,3h 04mBOS-ORD,nonstop,6:50 am – 8:54 am,Basic Economy,$144
+United Airlines,2023-12-19,2h 57mBOS-ORD,nonstop,6:28 pm – 8:25 pm,Basic Economy,$159
+United Airlines,2023-12-19,2h 57mBOS-ORD,nonstop,11:35 am – 1:32 pm,Basic Economy,$159
+United Airlines,2023-12-19,2h 57mBOS-ORD,nonstop,9:56 am – 11:53 am,Basic Economy,$159
+American Airlines,2023-12-19,4h 57mBOS-ORD,1 stop,3:40 pm – 7:37 pm,Basic Economy,$104
+American Airlines,2023-12-19,5h 08mBOS-ORD,1 stop,6:24 pm – 10:32 pm,Basic Economy,$104
+United Airlines,2023-12-19,5h 47mBOS-ORD,1 stop,6:43 pm – 11:30 pm,Basic Economy,$89
+American Airlines,2023-12-19,5h 28mBOS-ORD,1 stop,5:26 pm – 9:54 pm,Basic Economy,$104
+American Airlines,2023-12-19,5h 41mBOS-ORD,1 stop,8:40 am – 1:21 pm,Basic Economy,$104
+American Airlines,2023-12-19,4h 46mBOS-ORD,1 stop,8:30 am – 12:16 pm,Basic Economy,$129
+American Airlines,2023-12-19,5h 45mBOS-ORD,1 stop,6:30 am – 11:15 am,Basic Economy,$104
+American Airlines,2023-12-19,5h 46mBOS-ORD,1 stop,7:30 am – 12:16 pm,Basic Economy,$104
+United Airlines,2023-12-20,2h 57mBOS-ORD,nonstop,6:00 am – 7:57 am,Basic Economy,$170
+Spirit Airlines,2023-12-20,14h 13mBOS-ORD,1 stop,9:37 pm – 10:50 am+1,Economy,$85
+United Airlines,2023-12-20,2h 57mBOS-ORD,nonstop,6:28 pm – 8:25 pm,Basic Economy,$202
+United Airlines,2023-12-20,2h 57mBOS-ORD,nonstop,11:37 am – 1:34 pm,Basic Economy,$202
+United Airlines,2023-12-20,2h 57mBOS-ORD,nonstop,9:46 am – 11:43 am,Basic Economy,$202
+American Airlines,2023-12-20,3h 06mBOS-ORD,nonstop,8:00 am – 10:06 am,Main Cabin,$219
+JetBlue,2023-12-20,3h 00mBOS-ORD,nonstop,6:00 am – 8:00 am,Blue Basic,$194
+American Airlines,2023-12-20,5h 47mBOS-ORD,1 stop,7:44 am – 12:31 pm,Basic Economy,$129
+American Airlines,2023-12-20,5h 48mBOS-ORD,1 stop,7:33 am – 12:21 pm,Basic Economy,$129
+Delta,2023-12-20,3h 06mBOS-ORD,nonstop,1:25 pm – 3:31 pm,Basic Economy,$219
+American Airlines,2023-12-20,4h 48mBOS-ORD,1 stop,8:33 am – 12:21 pm,Basic Economy,$179
+United Airlines,2023-12-20,2h 57mBOS-ORD,nonstop,4:16 pm – 6:13 pm,Economy,$259
+Delta,2023-12-20,3h 09mBOS-ORD,nonstop,8:55 am – 11:04 am,Basic Economy,$219
+American Airlines,2023-12-20,5h 39mBOS-ORD,1 stop,6:08 pm – 10:47 pm,Basic Economy,$154
+United Airlines,2023-12-20,5h 47mBOS-ORD,1 stop,6:43 pm – 11:30 pm,Basic Economy,$157
+United Airlines,2023-12-20,5h 42mBOS-ORD,1 stop,6:43 pm – 11:25 pm,Basic Economy,$165
+Spirit Airlines,2023-12-21,7h 44mBOS-ORD,1 stop,4:45 pm – 11:29 pm,Economy,$171
+JetBlue,2023-12-21,3h 00mBOS-ORD,nonstop,6:00 am – 8:00 am,Blue Basic,$194
+"Spirit Airlines, Frontier",2023-12-21,19h 29mBOS-MDW,1 stop,6:06 pm – 12:35 pm+1,Economy,$119
+American Airlines,2023-12-21,3h 06mBOS-ORD,nonstop,8:00 am – 10:06 am,Main Cabin,$219
+American Airlines,2023-12-21,3h 04mBOS-ORD,nonstop,6:50 am – 8:54 am,Main Cabin,$219
+Delta,2023-12-21,3h 09mBOS-ORD,nonstop,8:55 am – 11:04 am,Main Cabin,$259
+United Airlines,2023-12-21,3h 01mBOS-ORD,nonstop,9:45 am – 11:46 am,Economy,$243
+United Airlines,2023-12-21,3h 01mBOS-ORD,nonstop,6:00 am – 8:01 am,Economy,$244
+United Airlines,2023-12-21,3h 02mBOS-ORD,nonstop,3:20 pm – 5:22 pm,Economy,$255
+United Airlines,2023-12-21,3h 01mBOS-ORD,nonstop,11:31 am – 1:32 pm,Economy,$259
+JetBlue,2023-12-21,3h 00mBOS-ORD,nonstop,1:45 pm – 3:45 pm,Blue Basic,$259
+American Airlines,2023-12-21,3h 07mBOS-ORD,nonstop,5:19 pm – 7:26 pm,Main Cabin,$279
+American Airlines,2023-12-21,3h 05mBOS-ORD,nonstop,3:30 pm – 5:35 pm,Main Cabin,$279
+Delta,2023-12-21,3h 13mBOS-ORD,nonstop,7:25 pm – 9:38 pm,Main Cabin,$299
+United Airlines,2023-12-21,3h 03mBOS-ORD,nonstop,6:22 pm – 8:25 pm,Economy,$292
+Delta,2023-12-21,3h 06mBOS-ORD,nonstop,1:25 pm – 3:31 pm,Main Cabin,$299
+American Airlines,2023-12-21,3h 05mBOS-ORD,nonstop,12:09 pm – 2:14 pm,Main Cabin,$359
+Spirit Airlines,2023-12-22,8h 50mBOS-ORD,1 stop,3:39 pm – 11:29 pm,Economy,$225
+United Airlines,2023-12-22,3h 01mBOS-ORD,nonstop,6:00 am – 8:01 am,Economy,$255
+Frontier,2023-12-22,10h 08mBOS-MDW,1 stop,8:33 am – 5:41 pm,Economy,$180
+United Airlines,2023-12-22,3h 03mBOS-ORD,nonstop,6:22 pm – 8:25 pm,Economy,$259
+United Airlines,2023-12-22,3h 02mBOS-ORD,nonstop,3:20 pm – 5:22 pm,Economy,$259
+United Airlines,2023-12-22,3h 02mBOS-ORD,nonstop,7:35 am – 9:37 am,Economy,$259
+JetBlue,2023-12-22,3h 00mBOS-ORD,nonstop,6:00 am – 8:00 am,Blue Basic,$259
+United Airlines,2023-12-22,3h 01mBOS-ORD,nonstop,9:45 am – 11:46 am,Economy,$292
+American Airlines,2023-12-22,3h 07mBOS-ORD,nonstop,5:19 pm – 7:26 pm,Main Cabin,$359
+Delta,2023-12-22,3h 06mBOS-ORD,nonstop,1:25 pm – 3:31 pm,Main Cabin,$359
+American Airlines,2023-12-22,3h 06mBOS-ORD,nonstop,8:00 am – 10:06 am,Main Cabin,$359
+American Airlines,2023-12-22,3h 05mBOS-ORD,nonstop,3:30 pm – 5:35 pm,Main Cabin,$359
+American Airlines,2023-12-22,3h 04mBOS-ORD,nonstop,6:50 am – 8:54 am,Main Cabin,$359
+JetBlue,2023-12-22,3h 00mBOS-ORD,nonstop,1:45 pm – 3:45 pm,Blue Basic,$388
+Delta,2023-12-22,3h 13mBOS-ORD,nonstop,7:25 pm – 9:38 pm,Main Cabin,$439
+Delta,2023-12-22,3h 09mBOS-ORD,nonstop,8:55 am – 11:04 am,Main Cabin,$439
+American Airlines,2023-12-22,3h 05mBOS-ORD,nonstop,12:09 pm – 2:14 pm,Main Cabin,$539
+United Airlines,2023-12-23,3h 03mBOS-ORD,nonstop,6:22 pm – 8:25 pm,Economy,$255
+Spirit Airlines,2023-12-23,14h 13mBOS-ORD,1 stop,9:37 pm – 10:50 am+1,Economy,$139
+United Airlines,2023-12-23,3h 02mBOS-ORD,nonstop,3:20 pm – 5:22 pm,Economy,$281
+American Airlines,2023-12-23,3h 07mBOS-ORD,nonstop,5:19 pm – 7:26 pm,Main Cabin,$279
+United Airlines,2023-12-23,3h 02mBOS-ORD,nonstop,7:35 am – 9:37 am,Economy,$281
+JetBlue,2023-12-23,3h 00mBOS-ORD,nonstop,6:00 am – 8:00 am,Blue Basic,$259
+United Airlines,2023-12-23,3h 01mBOS-ORD,nonstop,6:00 am – 8:01 am,Economy,$292
+Delta,2023-12-23,3h 13mBOS-ORD,nonstop,7:25 pm – 9:38 pm,Main Cabin,$319
+United Airlines,2023-12-23,3h 01mBOS-ORD,nonstop,9:45 am – 11:46 am,Economy,$331
+Delta,2023-12-23,3h 06mBOS-ORD,nonstop,1:25 pm – 3:31 pm,Main Cabin,$359
+American Airlines,2023-12-23,3h 04mBOS-ORD,nonstop,6:50 am – 8:54 am,Main Cabin,$359
+United Airlines,2023-12-23,5h 46mBOS-ORD,1 stop,6:44 pm – 11:30 pm,Basic Economy,$187
+American Airlines,2023-12-23,3h 05mBOS-ORD,nonstop,3:30 pm – 5:35 pm,Main Cabin,$439
+Delta,2023-12-23,3h 09mBOS-ORD,nonstop,8:55 am – 11:04 am,Main Cabin,$439
+JetBlue,2023-12-23,3h 00mBOS-ORD,nonstop,1:45 pm – 3:45 pm,Blue Basic,$427
+Delta,2023-12-23,4h 49mBOS-ORD,1 stop,4:55 pm – 8:44 pm,Main Cabin,$339
+United Airlines,2023-12-24,3h 03mBOS-ORD,nonstop,6:22 pm – 8:25 pm,Basic Economy,$141
+American Airlines,2023-12-24,6h 35mBOS-ORD,1 stop,6:07 am – 11:42 am,Basic Economy,$139
+American Airlines,2023-12-24,3h 04mBOS-ORD,nonstop,6:50 am – 8:54 am,Basic Economy,$179
+United Airlines,2023-12-24,3h 02mBOS-ORD,nonstop,3:08 pm – 5:10 pm,Basic Economy,$188
+United Airlines,2023-12-24,3h 01mBOS-ORD,nonstop,6:00 am – 8:01 am,Basic Economy,$188
+United Airlines,2023-12-24,3h 02mBOS-ORD,nonstop,7:35 am – 9:37 am,Basic Economy,$188
+United Airlines,2023-12-24,3h 01mBOS-ORD,nonstop,9:45 am – 11:46 am,Basic Economy,$202
+JetBlue,2023-12-24,3h 00mBOS-ORD,nonstop,6:00 am – 8:00 am,Blue Basic,$194
+JetBlue,2023-12-24,5h 05mBOS-ORD,1 stop,7:15 am – 11:20 am,Blue Basic,$144
+American Airlines,2023-12-24,3h 05mBOS-ORD,nonstop,2:31 pm – 4:36 pm,Main Cabin,$229
+American Airlines,2023-12-24,3h 06mBOS-ORD,nonstop,8:00 am – 10:06 am,Main Cabin,$229
+Delta,2023-12-24,5h 04mBOS-ORD,1 stop,4:55 pm – 8:59 pm,Basic Economy,$159
+American Airlines,2023-12-24,5h 24mBOS-ORD,1 stop,11:49 am – 4:13 pm,Basic Economy,$189
+American Airlines,2023-12-24,3h 08mBOS-ORD,nonstop,12:19 pm – 2:27 pm,Main Cabin,$289
+American Airlines,2023-12-24,5h 47mBOS-ORD,1 stop,7:44 am – 12:31 pm,Basic Economy,$189
+JetBlue,2023-12-25,3h 00mBOS-ORD,nonstop,6:00 am – 8:00 am,Blue Basic,$84
+United Airlines,2023-12-25,3h 01mBOS-ORD,nonstop,11:31 am – 1:32 pm,Basic Economy,$119
+United Airlines,2023-12-25,3h 01mBOS-ORD,nonstop,9:45 am – 11:46 am,Basic Economy,$119
+American Airlines,2023-12-25,3h 04mBOS-ORD,nonstop,6:50 am – 8:54 am,Basic Economy,$119
+American Airlines,2023-12-25,3h 06mBOS-ORD,nonstop,8:00 am – 10:06 am,Basic Economy,$119
+United Airlines,2023-12-25,3h 03mBOS-ORD,nonstop,6:22 pm – 8:25 pm,Basic Economy,$154
+United Airlines,2023-12-25,3h 02mBOS-ORD,nonstop,3:20 pm – 5:22 pm,Basic Economy,$183
+Delta,2023-12-25,3h 07mBOS-ORD,nonstop,9:20 am – 11:27 am,Basic Economy,$179
+United Airlines,2023-12-25,5h 46mBOS-ORD,1 stop,6:44 pm – 11:30 pm,Basic Economy,$118
+American Airlines,2023-12-25,3h 05mBOS-ORD,nonstop,3:30 pm – 5:35 pm,Main Cabin,$219
+American Airlines,2023-12-25,5h 48mBOS-ORD,1 stop,7:33 am – 12:21 pm,Basic Economy,$129
+American Airlines,2023-12-25,6h 05mBOS-ORD,1 stop,6:54 pm – 11:59 pm,Basic Economy,$127
+American Airlines,2023-12-25,5h 15mBOS-ORD,1 stop,10:09 am – 2:24 pm,Basic Economy,$154
+Delta,2023-12-25,3h 09mBOS-ORD,nonstop,3:20 pm – 5:29 pm,Basic Economy,$219
+Delta,2023-12-25,5h 04mBOS-MDW,1 stop,12:25 pm – 4:29 pm,Basic Economy,$159
+United Airlines,2023-12-26,3h 02mBOS-ORD,nonstop,7:35 am – 9:37 am,Basic Economy,$183
+Delta,2023-12-26,4h 23mBOS-MDW,1 stop,5:25 am – 8:48 am,Basic Economy,$159
+United Airlines,2023-12-26,3h 03mBOS-ORD,nonstop,6:22 pm – 8:25 pm,Basic Economy,$202
+United Airlines,2023-12-26,3h 01mBOS-ORD,nonstop,9:45 am – 11:46 am,Basic Economy,$197
+United Airlines,2023-12-26,3h 02mBOS-ORD,nonstop,3:20 pm – 5:22 pm,Basic Economy,$202
+United Airlines,2023-12-26,3h 01mBOS-ORD,nonstop,6:00 am – 8:01 am,Basic Economy,$202
+Delta,2023-12-26,3h 13mBOS-ORD,nonstop,7:25 pm – 9:38 pm,Basic Economy,$179
+JetBlue,2023-12-26,3h 00mBOS-ORD,nonstop,6:00 am – 8:00 am,Blue Basic,$194
+American Airlines,2023-12-26,3h 04mBOS-ORD,nonstop,6:50 am – 8:54 am,Main Cabin,$219
+American Airlines,2023-12-26,3h 06mBOS-ORD,nonstop,8:00 am – 10:06 am,Main Cabin,$219
+United Airlines,2023-12-26,3h 01mBOS-ORD,nonstop,11:31 am – 1:32 pm,Economy,$243
+American Airlines,2023-12-26,3h 07mBOS-ORD,nonstop,5:19 pm – 7:26 pm,Main Cabin,$279
+Delta,2023-12-26,3h 06mBOS-ORD,nonstop,1:25 pm – 3:31 pm,Basic Economy,$279
+Delta,2023-12-26,3h 07mBOS-ORD,nonstop,9:20 am – 11:27 am,Basic Economy,$279
+American Airlines,2023-12-26,3h 05mBOS-ORD,nonstop,3:30 pm – 5:35 pm,Main Cabin,$359
+American Airlines,2023-12-26,3h 05mBOS-ORD,nonstop,12:09 pm – 2:14 pm,Main Cabin,$359
+United Airlines,2023-12-27,3h 01mBOS-ORD,nonstop,6:00 am – 8:01 am,Basic Economy,$159
+Spirit Airlines,2023-12-27,14h 13mBOS-ORD,1 stop,9:37 pm – 10:50 am+1,Economy,$125
+United Airlines,2023-12-27,3h 02mBOS-ORD,nonstop,7:35 am – 9:37 am,Basic Economy,$159
+JetBlue,2023-12-27,3h 00mBOS-ORD,nonstop,6:00 am – 8:00 am,Blue Basic,$179
+American Airlines,2023-12-27,3h 04mBOS-ORD,nonstop,6:50 am – 8:54 am,Main Cabin,$219
+American Airlines,2023-12-27,3h 06mBOS-ORD,nonstop,8:00 am – 10:06 am,Main Cabin,$219
+United Airlines,2023-12-27,3h 03mBOS-ORD,nonstop,6:22 pm – 8:25 pm,Economy,$243
+United Airlines,2023-12-27,3h 01mBOS-ORD,nonstop,9:45 am – 11:46 am,Economy,$243
+United Airlines,2023-12-27,3h 01mBOS-ORD,nonstop,11:31 am – 1:32 pm,Economy,$259
+Delta,2023-12-27,3h 07mBOS-ORD,nonstop,9:20 am – 11:27 am,Basic Economy,$239
+United Airlines,2023-12-27,3h 02mBOS-ORD,nonstop,3:20 pm – 5:22 pm,Economy,$281
+American Airlines,2023-12-27,3h 07mBOS-ORD,nonstop,5:19 pm – 7:26 pm,Main Cabin,$279
+Delta,2023-12-27,3h 06mBOS-ORD,nonstop,1:25 pm – 3:31 pm,Main Cabin,$279
+Delta,2023-12-27,3h 13mBOS-ORD,nonstop,7:25 pm – 9:38 pm,Main Cabin,$279
+American Airlines,2023-12-27,5h 29mBOS-ORD,1 stop,7:00 am – 11:29 am,Basic Economy,$154
+American Airlines,2023-12-27,3h 05mBOS-ORD,nonstop,12:09 pm – 2:14 pm,Main Cabin,$359
+United Airlines,2023-12-28,3h 01mBOS-ORD,nonstop,6:00 am – 8:01 am,Basic Economy,$107
+Spirit Airlines,2023-12-28,14h 13mBOS-ORD,1 stop,9:37 pm – 10:50 am+1,Economy,$97
+United Airlines,2023-12-28,3h 02mBOS-ORD,nonstop,7:35 am – 9:37 am,Basic Economy,$119
+American Airlines,2023-12-28,3h 04mBOS-ORD,nonstop,6:50 am – 8:54 am,Basic Economy,$119
+American Airlines,2023-12-28,3h 06mBOS-ORD,nonstop,8:00 am – 10:06 am,Basic Economy,$119
+United Airlines,2023-12-28,3h 01mBOS-ORD,nonstop,9:45 am – 11:46 am,Basic Economy,$141
+JetBlue,2023-12-28,3h 00mBOS-ORD,nonstop,6:00 am – 8:00 am,Blue Basic,$119
+American Airlines,2023-12-28,3h 07mBOS-ORD,nonstop,5:19 pm – 7:26 pm,Basic Economy,$169
+American Airlines,2023-12-28,3h 05mBOS-ORD,nonstop,3:30 pm – 5:35 pm,Basic Economy,$169
+United Airlines,2023-12-28,3h 01mBOS-ORD,nonstop,11:31 am – 1:32 pm,Basic Economy,$180
+United Airlines,2023-12-28,3h 03mBOS-ORD,nonstop,6:22 pm – 8:25 pm,Basic Economy,$188
+United Airlines,2023-12-28,3h 02mBOS-ORD,nonstop,3:20 pm – 5:22 pm,Basic Economy,$188
+American Airlines,2023-12-28,3h 05mBOS-ORD,nonstop,12:09 pm – 2:14 pm,Main Cabin,$219
+Delta,2023-12-28,3h 06mBOS-ORD,nonstop,1:25 pm – 3:31 pm,Basic Economy,$219
+Delta,2023-12-28,3h 13mBOS-ORD,nonstop,7:25 pm – 9:38 pm,Basic Economy,$219
+Delta,2023-12-28,3h 07mBOS-ORD,nonstop,9:20 am – 11:27 am,Basic Economy,$219
+United Airlines,2023-12-29,3h 01mBOS-ORD,nonstop,6:00 am – 8:01 am,Basic Economy,$89
+American Airlines,2023-12-29,3h 04mBOS-ORD,nonstop,6:50 am – 8:54 am,Basic Economy,$89
+United Airlines,2023-12-29,3h 02mBOS-ORD,nonstop,7:35 am – 9:37 am,Basic Economy,$119
+American Airlines,2023-12-29,3h 06mBOS-ORD,nonstop,8:00 am – 10:06 am,Basic Economy,$119
+United Airlines,2023-12-29,3h 02mBOS-ORD,nonstop,3:20 pm – 5:22 pm,Basic Economy,$143
+United Airlines,2023-12-29,3h 01mBOS-ORD,nonstop,9:45 am – 11:46 am,Basic Economy,$154
+American Airlines,2023-12-29,3h 07mBOS-ORD,nonstop,5:19 pm – 7:26 pm,Basic Economy,$169
+JetBlue,2023-12-29,3h 00mBOS-ORD,nonstop,6:00 am – 8:00 am,Blue Basic,$154
+United Airlines,2023-12-29,3h 03mBOS-ORD,nonstop,6:22 pm – 8:25 pm,Basic Economy,$202
+American Airlines,2023-12-29,3h 05mBOS-ORD,nonstop,3:30 pm – 5:35 pm,Main Cabin,$219
+American Airlines,2023-12-29,3h 05mBOS-ORD,nonstop,12:09 pm – 2:14 pm,Main Cabin,$219
+Delta,2023-12-29,3h 06mBOS-ORD,nonstop,1:25 pm – 3:31 pm,Basic Economy,$219
+Delta,2023-12-29,3h 13mBOS-ORD,nonstop,7:25 pm – 9:38 pm,Basic Economy,$219
+American Airlines,2023-12-29,5h 29mBOS-ORD,1 stop,7:00 am – 11:29 am,Basic Economy,$104
+American Airlines,2023-12-29,5h 42mBOS-ORD,1 stop,7:00 am – 11:42 am,Basic Economy,$129
+United Airlines,2023-12-30,3h 01mBOS-ORD,nonstop,6:00 am – 8:01 am,Basic Economy,$89
+American Airlines,2023-12-30,3h 04mBOS-ORD,nonstop,6:50 am – 8:54 am,Basic Economy,$89
+United Airlines,2023-12-30,3h 02mBOS-ORD,nonstop,7:35 am – 9:37 am,Basic Economy,$119
+JetBlue,2023-12-30,3h 00mBOS-ORD,nonstop,6:00 am – 8:00 am,Blue Basic,$134
+United Airlines,2023-12-30,3h 03mBOS-ORD,nonstop,6:22 pm – 8:25 pm,Basic Economy,$154
+American Airlines,2023-12-30,3h 07mBOS-ORD,nonstop,5:19 pm – 7:26 pm,Basic Economy,$169
+United Airlines,2023-12-30,3h 01mBOS-ORD,nonstop,9:45 am – 11:46 am,Basic Economy,$175
+Delta,2023-12-30,3h 13mBOS-ORD,nonstop,7:25 pm – 9:38 pm,Basic Economy,$179
+American Airlines,2023-12-30,3h 05mBOS-ORD,nonstop,3:30 pm – 5:35 pm,Main Cabin,$219
+American Airlines,2023-12-30,6h 31mBOS-ORD,1 stop,7:00 am – 12:31 pm,Basic Economy,$104
+Delta,2023-12-30,3h 06mBOS-ORD,nonstop,1:25 pm – 3:31 pm,Basic Economy,$219
+Delta,2023-12-30,3h 07mBOS-ORD,nonstop,9:20 am – 11:27 am,Basic Economy,$219
+United Airlines,2023-12-30,3h 02mBOS-ORD,nonstop,3:20 pm – 5:22 pm,Economy,$259
+United Airlines,2023-12-30,5h 46mBOS-ORD,1 stop,6:44 pm – 11:30 pm,Basic Economy,$157
+American Airlines,2023-12-30,3h 05mBOS-ORD,nonstop,1:09 pm – 3:14 pm,Main Cabin,$279
+Frontier,2023-12-01,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$79
+United Airlines,2023-12-01,4h 39mORD-SFO,nonstop,4:05 pm – 6:44 pm,Basic Economy,$149
+United Airlines,2023-12-01,4h 47mORD-SFO,nonstop,7:45 pm – 10:32 pm,Basic Economy,$149
+American Airlines,2023-12-01,4h 52mORD-SFO,nonstop,7:01 pm – 9:53 pm,Basic Economy,$149
+United Airlines,2023-12-01,4h 47mORD-SFO,nonstop,2:07 pm – 4:54 pm,Basic Economy,$149
+American Airlines,2023-12-01,4h 46mORD-SFO,nonstop,1:35 pm – 4:21 pm,Basic Economy,$149
+Alaska Airlines,2023-12-01,5h 00mORD-SFO,nonstop,2:34 pm – 5:34 pm,Saver,$149
+United Airlines,2023-12-01,4h 52mORD-SFO,nonstop,6:00 pm – 8:52 pm,Basic Economy,$149
+American Airlines,2023-12-01,4h 43mORD-SFO,nonstop,8:45 am – 11:28 am,Basic Economy,$149
+United Airlines,2023-12-01,4h 44mORD-SFO,nonstop,9:05 am – 11:49 am,Basic Economy,$179
+United Airlines,2023-12-01,4h 49mORD-SFO,nonstop,12:46 pm – 3:35 pm,Basic Economy,$149
+United Airlines,2023-12-01,4h 48mORD-SFO,nonstop,7:00 am – 9:48 am,Basic Economy,$149
+United Airlines,2023-12-01,4h 51mORD-SFO,nonstop,11:05 am – 1:56 pm,Basic Economy,$149
+Frontier,2023-12-01,8h 04mMDW-SFO,1 stop,8:35 am – 2:39 pm,Economy,$99
+United Airlines,2023-12-01,6h 31mORD-SFO,1 stop,3:55 pm – 8:26 pm,Basic Economy,$159
+Frontier,2023-12-02,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$74
+Frontier,2023-12-02,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$69
+United Airlines,2023-12-02,4h 39mORD-SFO,nonstop,4:05 pm – 6:44 pm,Basic Economy,$149
+American Airlines,2023-12-02,4h 46mORD-SFO,nonstop,1:35 pm – 4:21 pm,Basic Economy,$149
+United Airlines,2023-12-02,4h 47mORD-SFO,nonstop,7:45 pm – 10:32 pm,Basic Economy,$149
+United Airlines,2023-12-02,4h 47mORD-SFO,nonstop,2:07 pm – 4:54 pm,Basic Economy,$149
+United Airlines,2023-12-02,4h 48mORD-SFO,nonstop,7:00 am – 9:48 am,Basic Economy,$149
+United Airlines,2023-12-02,4h 49mORD-SFO,nonstop,12:46 pm – 3:35 pm,Basic Economy,$149
+American Airlines,2023-12-02,4h 52mORD-SFO,nonstop,7:01 pm – 9:53 pm,Basic Economy,$149
+United Airlines,2023-12-02,4h 55mORD-SFO,nonstop,6:17 pm – 9:12 pm,Basic Economy,$149
+Alaska Airlines,2023-12-02,5h 00mORD-SFO,nonstop,2:34 pm – 5:34 pm,Saver,$149
+United Airlines,2023-12-02,4h 44mORD-SFO,nonstop,9:05 am – 11:49 am,Basic Economy,$179
+Frontier,2023-12-02,7h 45mMDW-SFO,1 stop,8:55 am – 2:40 pm,Economy,$99
+Frontier,2023-12-02,9h 08mMDW-SFO,1 stop,11:09 am – 6:17 pm,Economy,$79
+Frontier,2023-12-02,9h 17mMDW-SFO,1 stop,1:42 pm – 8:59 pm,Economy,$99
+United Airlines,2023-12-02,6h 31mORD-SFO,1 stop,3:55 pm – 8:26 pm,Basic Economy,$159
+Frontier,2023-12-03,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$94
+Frontier,2023-12-03,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$89
+United Airlines,2023-12-03,4h 48mORD-SFO,nonstop,7:00 am – 9:48 am,Basic Economy,$149
+American Airlines,2023-12-03,4h 43mORD-SFO,nonstop,8:45 am – 11:28 am,Basic Economy,$159
+American Airlines,2023-12-03,4h 52mORD-SFO,nonstop,7:01 pm – 9:53 pm,Basic Economy,$159
+United Airlines,2023-12-03,4h 51mORD-SFO,nonstop,11:05 am – 1:56 pm,Basic Economy,$179
+United Airlines,2023-12-03,4h 52mORD-SFO,nonstop,6:00 pm – 8:52 pm,Basic Economy,$189
+United Airlines,2023-12-03,4h 44mORD-SFO,nonstop,9:05 am – 11:49 am,Basic Economy,$189
+United Airlines,2023-12-03,4h 47mORD-SFO,nonstop,7:45 pm – 10:32 pm,Basic Economy,$189
+United Airlines,2023-12-03,4h 49mORD-SFO,nonstop,12:46 pm – 3:35 pm,Basic Economy,$189
+Alaska Airlines,2023-12-03,5h 00mORD-SFO,nonstop,2:34 pm – 5:34 pm,Saver,$219
+United Airlines,2023-12-03,4h 47mORD-SFO,nonstop,2:07 pm – 4:54 pm,Basic Economy,$218
+American Airlines,2023-12-03,4h 46mORD-SFO,nonstop,1:35 pm – 4:21 pm,Basic Economy,$255
+United Airlines,2023-12-03,4h 39mORD-SFO,nonstop,4:05 pm – 6:44 pm,Basic Economy,$261
+Frontier,2023-12-03,7h 44mMDW-SFO,1 stop,8:55 am – 2:39 pm,Economy,$99
+United Airlines,2023-12-03,6h 47mORD-SFO,1 stop,7:10 am – 11:57 am,Basic Economy,$159
+Frontier,2023-12-04,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$56
+American Airlines,2023-12-04,4h 43mORD-SFO,nonstop,8:45 am – 11:28 am,Basic Economy,$149
+United Airlines,2023-12-04,4h 47mORD-SFO,nonstop,2:07 pm – 4:54 pm,Basic Economy,$149
+United Airlines,2023-12-04,4h 47mORD-SFO,nonstop,7:45 pm – 10:32 pm,Basic Economy,$149
+Alaska Airlines,2023-12-04,5h 00mORD-SFO,nonstop,2:34 pm – 5:34 pm,Saver,$149
+American Airlines,2023-12-04,4h 52mORD-SFO,nonstop,7:01 pm – 9:53 pm,Basic Economy,$149
+United Airlines,2023-12-04,4h 51mORD-SFO,nonstop,11:05 am – 1:56 pm,Basic Economy,$189
+United Airlines,2023-12-04,4h 49mORD-SFO,nonstop,12:46 pm – 3:35 pm,Basic Economy,$189
+United Airlines,2023-12-04,4h 39mORD-SFO,nonstop,4:05 pm – 6:44 pm,Basic Economy,$189
+United Airlines,2023-12-04,4h 52mORD-SFO,nonstop,6:00 pm – 8:52 pm,Basic Economy,$234
+American Airlines,2023-12-04,4h 46mORD-SFO,nonstop,1:35 pm – 4:21 pm,Basic Economy,$245
+United Airlines,2023-12-04,4h 44mORD-SFO,nonstop,9:05 am – 11:49 am,Basic Economy,$277
+Frontier,2023-12-04,7h 59mMDW-SFO,1 stop,8:40 am – 2:39 pm,Economy,$99
+Frontier,2023-12-04,8h 53mMDW-SFO,1 stop,11:09 am – 6:02 pm,Economy,$82
+United Airlines,2023-12-04,6h 31mORD-SFO,1 stop,3:55 pm – 8:26 pm,Basic Economy,$159
+Frontier,2023-12-05,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$44
+Frontier,2023-12-05,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$39
+United Airlines,2023-12-05,4h 39mORD-SFO,nonstop,4:05 pm – 6:44 pm,Basic Economy,$109
+United Airlines,2023-12-05,4h 47mORD-SFO,nonstop,7:45 pm – 10:32 pm,Basic Economy,$109
+United Airlines,2023-12-05,4h 47mORD-SFO,nonstop,2:07 pm – 4:54 pm,Basic Economy,$109
+American Airlines,2023-12-05,4h 50mORD-SFO,nonstop,1:33 pm – 4:23 pm,Basic Economy,$109
+United Airlines,2023-12-05,4h 52mORD-SFO,nonstop,6:00 pm – 8:52 pm,Basic Economy,$109
+Alaska Airlines,2023-12-05,5h 00mORD-SFO,nonstop,2:34 pm – 5:34 pm,Saver,$109
+American Airlines,2023-12-05,5h 01mORD-SFO,nonstop,6:55 pm – 9:56 pm,Basic Economy,$109
+United Airlines,2023-12-05,4h 49mORD-SFO,nonstop,12:46 pm – 3:35 pm,Basic Economy,$181
+Frontier,2023-12-05,7h 55mMDW-SFO,1 stop,8:45 am – 2:40 pm,Economy,$56
+United Airlines,2023-12-05,6h 31mORD-SFO,1 stop,3:55 pm – 8:26 pm,Basic Economy,$119
+Delta,2023-12-05,6h 33mORD-SFO,1 stop,8:59 am – 1:32 pm,Basic Economy,$119
+United Airlines,2023-12-05,6h 45mORD-SFO,1 stop,12:55 pm – 5:40 pm,Basic Economy,$119
+American Airlines,2023-12-05,6h 50mORD-SFO,1 stop,7:15 am – 12:05 pm,Basic Economy,$119
+Delta,2023-12-05,6h 48mMDW-SFO,1 stop,6:28 am – 11:16 am,Basic Economy,$119
+Frontier,2023-12-06,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$44
+Frontier,2023-12-06,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$39
+United Airlines,2023-12-06,4h 39mORD-SFO,nonstop,4:05 pm – 6:44 pm,Basic Economy,$109
+United Airlines,2023-12-06,4h 47mORD-SFO,nonstop,7:45 pm – 10:32 pm,Basic Economy,$109
+United Airlines,2023-12-06,4h 47mORD-SFO,nonstop,2:07 pm – 4:54 pm,Basic Economy,$109
+American Airlines,2023-12-06,4h 50mORD-SFO,nonstop,1:33 pm – 4:23 pm,Basic Economy,$109
+Alaska Airlines,2023-12-06,5h 00mORD-SFO,nonstop,2:34 pm – 5:34 pm,Saver,$109
+American Airlines,2023-12-06,5h 01mORD-SFO,nonstop,6:55 pm – 9:56 pm,Basic Economy,$109
+United Airlines,2023-12-06,4h 49mORD-SFO,nonstop,12:46 pm – 3:35 pm,Basic Economy,$173
+Frontier,2023-12-06,7h 45mMDW-SFO,1 stop,8:55 am – 2:40 pm,Economy,$56
+Frontier,2023-12-06,8h 04mMDW-SFO,1 stop,6:00 am – 12:04 pm,Economy,$56
+United Airlines,2023-12-06,6h 31mORD-SFO,1 stop,3:55 pm – 8:26 pm,Basic Economy,$119
+United Airlines,2023-12-06,6h 45mORD-SFO,1 stop,12:55 pm – 5:40 pm,Basic Economy,$119
+Delta,2023-12-06,6h 48mMDW-SFO,1 stop,6:28 am – 11:16 am,Basic Economy,$119
+American Airlines,2023-12-06,6h 50mORD-SFO,1 stop,7:15 am – 12:05 pm,Basic Economy,$119
+United Airlines,2023-12-06,6h 47mORD-SFO,1 stop,7:10 am – 11:57 am,Basic Economy,$119
+Frontier,2023-12-07,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$54
+Frontier,2023-12-07,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$49
+United Airlines,2023-12-07,4h 39mORD-SFO,nonstop,4:05 pm – 6:44 pm,Basic Economy,$119
+United Airlines,2023-12-07,4h 47mORD-SFO,nonstop,7:45 pm – 10:32 pm,Basic Economy,$119
+United Airlines,2023-12-07,4h 47mORD-SFO,nonstop,2:07 pm – 4:54 pm,Basic Economy,$119
+United Airlines,2023-12-07,4h 48mORD-SFO,nonstop,7:00 am – 9:48 am,Basic Economy,$119
+United Airlines,2023-12-07,4h 49mORD-SFO,nonstop,12:46 pm – 3:35 pm,Basic Economy,$119
+American Airlines,2023-12-07,4h 50mORD-SFO,nonstop,1:33 pm – 4:23 pm,Basic Economy,$119
+American Airlines,2023-12-07,4h 52mORD-SFO,nonstop,8:45 am – 11:37 am,Basic Economy,$119
+American Airlines,2023-12-07,5h 01mORD-SFO,nonstop,6:55 pm – 9:56 pm,Basic Economy,$119
+Alaska Airlines,2023-12-07,5h 00mORD-SFO,nonstop,2:34 pm – 5:34 pm,Saver,$119
+United Airlines,2023-12-07,4h 51mORD-SFO,nonstop,11:05 am – 1:56 pm,Basic Economy,$149
+United Airlines,2023-12-07,4h 44mORD-SFO,nonstop,9:05 am – 11:49 am,Basic Economy,$187
+United Airlines,2023-12-07,4h 52mORD-SFO,nonstop,6:00 pm – 8:52 pm,Basic Economy,$187
+United Airlines,2023-12-07,6h 31mORD-SFO,1 stop,3:55 pm – 8:26 pm,Basic Economy,$129
+Frontier,2023-12-07,9h 12mMDW-SFO,1 stop,8:45 am – 3:57 pm,Economy,$99
+Frontier,2023-12-08,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$64
+Frontier,2023-12-08,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$59
+United Airlines,2023-12-08,4h 47mORD-SFO,nonstop,7:45 pm – 10:32 pm,Basic Economy,$129
+United Airlines,2023-12-08,4h 47mORD-SFO,nonstop,2:07 pm – 4:54 pm,Basic Economy,$129
+American Airlines,2023-12-08,4h 50mORD-SFO,nonstop,1:33 pm – 4:23 pm,Basic Economy,$129
+American Airlines,2023-12-08,4h 52mORD-SFO,nonstop,8:45 am – 11:37 am,Basic Economy,$129
+American Airlines,2023-12-08,5h 01mORD-SFO,nonstop,6:55 pm – 9:56 pm,Basic Economy,$129
+Alaska Airlines,2023-12-08,5h 00mORD-SFO,nonstop,2:34 pm – 5:34 pm,Saver,$129
+United Airlines,2023-12-08,4h 49mORD-SFO,nonstop,12:46 pm – 3:35 pm,Basic Economy,$143
+United Airlines,2023-12-08,4h 39mORD-SFO,nonstop,4:05 pm – 6:44 pm,Basic Economy,$149
+United Airlines,2023-12-08,4h 48mORD-SFO,nonstop,7:00 am – 9:48 am,Basic Economy,$182
+United Airlines,2023-12-08,4h 44mORD-SFO,nonstop,9:05 am – 11:49 am,Basic Economy,$187
+United Airlines,2023-12-08,4h 51mORD-SFO,nonstop,11:05 am – 1:56 pm,Basic Economy,$187
+United Airlines,2023-12-08,4h 52mORD-SFO,nonstop,6:00 pm – 8:52 pm,Basic Economy,$187
+Frontier,2023-12-08,8h 45mMDW-SFO,1 stop,11:09 am – 5:54 pm,Economy,$82
+United Airlines,2023-12-08,6h 31mORD-SFO,1 stop,3:55 pm – 8:26 pm,Basic Economy,$139
+Frontier,2023-12-09,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$44
+Frontier,2023-12-09,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$39
+United Airlines,2023-12-09,4h 47mORD-SFO,nonstop,7:45 pm – 10:32 pm,Basic Economy,$109
+United Airlines,2023-12-09,4h 48mORD-SFO,nonstop,4:05 pm – 6:53 pm,Basic Economy,$109
+American Airlines,2023-12-09,4h 50mORD-SFO,nonstop,1:33 pm – 4:23 pm,Basic Economy,$109
+United Airlines,2023-12-09,4h 55mORD-SFO,nonstop,6:17 pm – 9:12 pm,Basic Economy,$109
+Alaska Airlines,2023-12-09,5h 00mORD-SFO,nonstop,2:34 pm – 5:34 pm,Saver,$109
+American Airlines,2023-12-09,5h 01mORD-SFO,nonstop,6:55 pm – 9:56 pm,Basic Economy,$109
+United Airlines,2023-12-09,4h 49mORD-SFO,nonstop,12:46 pm – 3:35 pm,Basic Economy,$181
+United Airlines,2023-12-09,4h 44mORD-SFO,nonstop,9:05 am – 11:49 am,Basic Economy,$189
+Frontier,2023-12-09,8h 45mMDW-SFO,1 stop,11:09 am – 5:54 pm,Economy,$56
+Frontier,2023-12-09,7h 45mMDW-SFO,1 stop,8:55 am – 2:40 pm,Economy,$87
+United Airlines,2023-12-09,6h 31mORD-SFO,1 stop,3:55 pm – 8:26 pm,Basic Economy,$119
+United Airlines,2023-12-09,6h 45mORD-SFO,1 stop,12:55 pm – 5:40 pm,Basic Economy,$119
+American Airlines,2023-12-09,6h 56mORD-SFO,1 stop,6:11 am – 11:07 am,Basic Economy,$119
+Delta,2023-12-09,7h 02mMDW-SFO,1 stop,6:29 am – 11:31 am,Basic Economy,$119
+Frontier,2023-12-10,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$74
+Frontier,2023-12-10,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$69
+American Airlines,2023-12-10,4h 52mORD-SFO,nonstop,8:45 am – 11:37 am,Basic Economy,$169
+American Airlines,2023-12-10,5h 01mORD-SFO,nonstop,6:55 pm – 9:56 pm,Basic Economy,$204
+Alaska Airlines,2023-12-10,5h 00mORD-SFO,nonstop,2:34 pm – 5:34 pm,Saver,$209
+United Airlines,2023-12-10,4h 47mORD-SFO,nonstop,7:45 pm – 10:32 pm,Basic Economy,$217
+United Airlines,2023-12-10,4h 52mORD-SFO,nonstop,6:00 pm – 8:52 pm,Basic Economy,$264
+United Airlines,2023-12-10,4h 48mORD-SFO,nonstop,7:00 am – 9:48 am,Basic Economy,$271
+United Airlines,2023-12-10,4h 49mORD-SFO,nonstop,12:46 pm – 3:35 pm,Basic Economy,$279
+United Airlines,2023-12-10,4h 44mORD-SFO,nonstop,9:05 am – 11:49 am,Basic Economy,$279
+United Airlines,2023-12-10,4h 51mORD-SFO,nonstop,2:07 pm – 4:58 pm,Basic Economy,$286
+American Airlines,2023-12-10,4h 50mORD-SFO,nonstop,1:33 pm – 4:23 pm,Basic Economy,$314
+United Airlines,2023-12-10,4h 51mORD-SFO,nonstop,11:05 am – 1:56 pm,Economy,$349
+United Airlines,2023-12-10,4h 48mORD-SFO,nonstop,4:05 pm – 6:53 pm,Economy,$349
+Delta,2023-12-10,6h 46mORD-SFO,1 stop,7:25 pm – 12:11 am+1,Basic Economy,$139
+United Airlines,2023-12-10,7h 24mORD-SFO,1 stop,6:35 pm – 11:59 pm,Basic Economy,$153
+Frontier,2023-12-11,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$54
+Frontier,2023-12-11,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$49
+United Airlines,2023-12-11,4h 47mORD-SFO,nonstop,7:45 pm – 10:32 pm,Basic Economy,$119
+American Airlines,2023-12-11,5h 01mORD-SFO,nonstop,6:55 pm – 9:56 pm,Basic Economy,$119
+Alaska Airlines,2023-12-11,5h 00mORD-SFO,nonstop,2:34 pm – 5:34 pm,Saver,$119
+American Airlines,2023-12-11,4h 50mORD-SFO,nonstop,1:33 pm – 4:23 pm,Basic Economy,$119
+United Airlines,2023-12-11,4h 52mORD-SFO,nonstop,6:00 pm – 8:52 pm,Basic Economy,$149
+United Airlines,2023-12-11,4h 51mORD-SFO,nonstop,2:07 pm – 4:58 pm,Basic Economy,$149
+American Airlines,2023-12-11,4h 52mORD-SFO,nonstop,8:45 am – 11:37 am,Basic Economy,$159
+United Airlines,2023-12-11,4h 48mORD-SFO,nonstop,4:05 pm – 6:53 pm,Basic Economy,$171
+United Airlines,2023-12-11,4h 49mORD-SFO,nonstop,12:46 pm – 3:35 pm,Basic Economy,$182
+United Airlines,2023-12-11,4h 51mORD-SFO,nonstop,11:05 am – 1:56 pm,Basic Economy,$187
+Frontier,2023-12-11,8h 33mMDW-SFO,1 stop,11:09 am – 5:42 pm,Economy,$79
+Frontier,2023-12-11,7h 59mMDW-SFO,1 stop,8:40 am – 2:39 pm,Economy,$90
+Delta,2023-12-11,6h 27mORD-SFO,1 stop,1:55 pm – 6:22 pm,Basic Economy,$129
+United Airlines,2023-12-11,6h 31mORD-SFO,1 stop,3:55 pm – 8:26 pm,Basic Economy,$129
+Frontier,2023-12-12,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$44
+Frontier,2023-12-12,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$39
+United Airlines,2023-12-12,4h 47mORD-SFO,nonstop,7:45 pm – 10:32 pm,Basic Economy,$109
+Frontier,2023-12-12,7h 55mMDW-SFO,1 stop,8:45 am – 2:40 pm,Economy,$56
+United Airlines,2023-12-12,4h 48mORD-SFO,nonstop,4:05 pm – 6:53 pm,Basic Economy,$109
+United Airlines,2023-12-12,4h 52mORD-SFO,nonstop,6:00 pm – 8:52 pm,Basic Economy,$109
+United Airlines,2023-12-12,4h 51mORD-SFO,nonstop,2:07 pm – 4:58 pm,Basic Economy,$109
+American Airlines,2023-12-12,4h 50mORD-SFO,nonstop,1:33 pm – 4:23 pm,Basic Economy,$109
+American Airlines,2023-12-12,5h 01mORD-SFO,nonstop,6:55 pm – 9:56 pm,Basic Economy,$109
+United Airlines,2023-12-12,4h 49mORD-SFO,nonstop,12:46 pm – 3:35 pm,Basic Economy,$127
+Alaska Airlines,2023-12-12,5h 00mORD-SFO,nonstop,2:34 pm – 5:34 pm,Saver,$109
+United Airlines,2023-12-12,4h 44mORD-SFO,nonstop,9:05 am – 11:49 am,Basic Economy,$143
+United Airlines,2023-12-12,6h 31mORD-SFO,1 stop,3:55 pm – 8:26 pm,Basic Economy,$119
+United Airlines,2023-12-12,6h 45mORD-SFO,1 stop,12:55 pm – 5:40 pm,Basic Economy,$119
+American Airlines,2023-12-12,6h 50mORD-SFO,1 stop,7:15 am – 12:05 pm,Basic Economy,$119
+American Airlines,2023-12-12,6h 56mORD-SFO,1 stop,6:11 am – 11:07 am,Basic Economy,$119
+Frontier,2023-12-13,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$44
+Frontier,2023-12-13,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$39
+United Airlines,2023-12-13,4h 47mORD-SFO,nonstop,7:45 pm – 10:32 pm,Basic Economy,$109
+United Airlines,2023-12-13,4h 48mORD-SFO,nonstop,7:00 am – 9:48 am,Basic Economy,$109
+American Airlines,2023-12-13,4h 50mORD-SFO,nonstop,1:33 pm – 4:23 pm,Basic Economy,$109
+United Airlines,2023-12-13,4h 51mORD-SFO,nonstop,2:07 pm – 4:58 pm,Basic Economy,$109
+American Airlines,2023-12-13,5h 01mORD-SFO,nonstop,6:55 pm – 9:56 pm,Basic Economy,$109
+Alaska Airlines,2023-12-13,5h 00mORD-SFO,nonstop,2:34 pm – 5:34 pm,Saver,$109
+United Airlines,2023-12-13,4h 49mORD-SFO,nonstop,12:46 pm – 3:35 pm,Basic Economy,$127
+United Airlines,2023-12-13,4h 44mORD-SFO,nonstop,9:05 am – 11:49 am,Basic Economy,$143
+United Airlines,2023-12-13,4h 52mORD-SFO,nonstop,4:05 pm – 6:57 pm,Basic Economy,$143
+Frontier,2023-12-13,7h 45mMDW-SFO,1 stop,8:55 am – 2:40 pm,Economy,$56
+Frontier,2023-12-13,8h 04mMDW-SFO,1 stop,6:00 am – 12:04 pm,Economy,$56
+Delta,2023-12-13,6h 27mORD-SFO,1 stop,1:55 pm – 6:22 pm,Basic Economy,$119
+United Airlines,2023-12-13,6h 31mORD-SFO,1 stop,3:55 pm – 8:26 pm,Basic Economy,$119
+Delta,2023-12-13,6h 46mORD-SFO,1 stop,7:25 pm – 12:11 am+1,Basic Economy,$119
+Frontier,2023-12-14,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$54
+Frontier,2023-12-14,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$49
+United Airlines,2023-12-14,4h 40mORD-SFO,nonstop,4:05 pm – 6:45 pm,Basic Economy,$119
+United Airlines,2023-12-14,4h 41mORD-SFO,nonstop,2:20 pm – 5:01 pm,Basic Economy,$119
+United Airlines,2023-12-14,4h 48mORD-SFO,nonstop,7:00 am – 9:48 am,Basic Economy,$119
+United Airlines,2023-12-14,4h 49mORD-SFO,nonstop,12:46 pm – 3:35 pm,Basic Economy,$119
+American Airlines,2023-12-14,4h 50mORD-SFO,nonstop,1:33 pm – 4:23 pm,Basic Economy,$119
+United Airlines,2023-12-14,4h 51mORD-SFO,nonstop,11:05 am – 1:56 pm,Basic Economy,$119
+American Airlines,2023-12-14,4h 52mORD-SFO,nonstop,8:45 am – 11:37 am,Basic Economy,$119
+American Airlines,2023-12-14,5h 01mORD-SFO,nonstop,6:55 pm – 9:56 pm,Basic Economy,$119
+Alaska Airlines,2023-12-14,4h 56mORD-SFO,nonstop,2:30 pm – 5:26 pm,Saver,$119
+United Airlines,2023-12-14,4h 44mORD-SFO,nonstop,9:00 am – 11:44 am,Basic Economy,$138
+United Airlines,2023-12-14,4h 47mORD-SFO,nonstop,7:50 pm – 10:37 pm,Basic Economy,$149
+United Airlines,2023-12-14,4h 52mORD-SFO,nonstop,6:00 pm – 8:52 pm,Basic Economy,$187
+Frontier,2023-12-14,8h 40mMDW-SFO,1 stop,11:14 am – 5:54 pm,Economy,$79
+Frontier,2023-12-14,9h 12mMDW-SFO,1 stop,8:45 am – 3:57 pm,Economy,$90
+Frontier,2023-12-15,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$64
+Frontier,2023-12-15,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$59
+American Airlines,2023-12-15,4h 50mORD-SFO,nonstop,1:33 pm – 4:23 pm,Basic Economy,$129
+American Airlines,2023-12-15,5h 01mORD-SFO,nonstop,6:55 pm – 9:56 pm,Basic Economy,$129
+United Airlines,2023-12-15,4h 49mORD-SFO,nonstop,12:46 pm – 3:35 pm,Basic Economy,$147
+United Airlines,2023-12-15,4h 41mORD-SFO,nonstop,2:20 pm – 5:01 pm,Basic Economy,$171
+United Airlines,2023-12-15,4h 48mORD-SFO,nonstop,4:10 pm – 6:58 pm,Basic Economy,$171
+United Airlines,2023-12-15,4h 48mORD-SFO,nonstop,7:00 am – 9:48 am,Basic Economy,$143
+United Airlines,2023-12-15,4h 51mORD-SFO,nonstop,11:05 am – 1:56 pm,Basic Economy,$149
+Alaska Airlines,2023-12-15,4h 56mORD-SFO,nonstop,2:30 pm – 5:26 pm,Saver,$189
+American Airlines,2023-12-15,7h 36mORD-SFO,1 stop,3:15 pm – 8:51 pm,Basic Economy,$139
+American Airlines,2023-12-15,4h 52mORD-SFO,nonstop,8:45 am – 11:37 am,Basic Economy,$194
+Delta,2023-12-15,6h 27mORD-SFO,1 stop,1:55 pm – 6:22 pm,Basic Economy,$139
+United Airlines,2023-12-15,4h 47mORD-SFO,nonstop,7:50 pm – 10:37 pm,Basic Economy,$208
+United Airlines,2023-12-15,4h 44mORD-SFO,nonstop,9:00 am – 11:44 am,Basic Economy,$208
+Delta,2023-12-15,6h 55mORD-SFO,1 stop,7:25 pm – 12:20 am+1,Basic Economy,$139
+Frontier,2023-12-16,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$39
+Frontier,2023-12-16,9h 02mMDW-SFO,1 stop,11:09 am – 6:11 pm,Economy,$71
+United Airlines,2023-12-16,4h 47mORD-SFO,nonstop,7:50 pm – 10:37 pm,Basic Economy,$143
+United Airlines,2023-12-16,4h 50mORD-SFO,nonstop,7:00 am – 9:50 am,Basic Economy,$143
+American Airlines,2023-12-16,6h 56mORD-SFO,1 stop,6:11 am – 11:07 am,Basic Economy,$119
+American Airlines,2023-12-16,5h 01mORD-SFO,nonstop,6:55 pm – 9:56 pm,Basic Economy,$159
+United Airlines,2023-12-16,4h 42mORD-SFO,nonstop,9:00 pm – 11:42 pm,Economy,$154
+United Airlines,2023-12-16,4h 52mORD-SFO,nonstop,6:00 pm – 8:52 pm,Basic Economy,$173
+United Airlines,2023-12-16,4h 48mORD-SFO,nonstop,4:05 pm – 6:53 pm,Basic Economy,$175
+"Spirit Airlines, Frontier",2023-12-16,9h 51mORD-SFO,1 stop,10:48 pm – 6:39 am+1,Economy,$72
+United Airlines,2023-12-16,8h 00mORD-SFO,1 stop,12:46 pm – 6:46 pm,Basic Economy,$136
+United Airlines,2023-12-16,4h 45mORD-SFO,nonstop,9:00 am – 11:45 am,Basic Economy,$186
+Delta,2023-12-16,7h 36mORD-SFO,1 stop,6:03 am – 11:39 am,Basic Economy,$119
+United Airlines,2023-12-16,4h 41mORD-SFO,nonstop,2:20 pm – 5:01 pm,Basic Economy,$189
+United Airlines,2023-12-16,10h 11mORD-SFO,1 stop,10:35 am – 6:46 pm,Basic Economy,$119
+Frontier,2023-12-17,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$74
+Frontier,2023-12-17,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$69
+United Airlines,2023-12-17,4h 47mORD-SFO,nonstop,7:50 pm – 10:37 pm,Basic Economy,$149
+United Airlines,2023-12-17,4h 52mORD-SFO,nonstop,6:00 pm – 8:52 pm,Basic Economy,$149
+Alaska Airlines,2023-12-17,4h 56mORD-SFO,nonstop,2:30 pm – 5:26 pm,Saver,$159
+United Airlines,2023-12-17,4h 39mORD-SFO,nonstop,4:05 pm – 6:44 pm,Basic Economy,$171
+United Airlines,2023-12-17,4h 41mORD-SFO,nonstop,2:20 pm – 5:01 pm,Basic Economy,$171
+United Airlines,2023-12-17,4h 51mORD-SFO,nonstop,11:05 am – 1:56 pm,Basic Economy,$187
+United Airlines,2023-12-17,4h 49mORD-SFO,nonstop,12:46 pm – 3:35 pm,Basic Economy,$187
+United Airlines,2023-12-17,4h 44mORD-SFO,nonstop,9:00 am – 11:44 am,Basic Economy,$187
+American Airlines,2023-12-17,4h 52mORD-SFO,nonstop,8:45 am – 11:37 am,Basic Economy,$204
+American Airlines,2023-12-17,4h 50mORD-SFO,nonstop,1:33 pm – 4:23 pm,Basic Economy,$204
+American Airlines,2023-12-17,5h 01mORD-SFO,nonstop,6:55 pm – 9:56 pm,Basic Economy,$255
+United Airlines,2023-12-17,4h 50mORD-SFO,nonstop,7:00 am – 9:50 am,Basic Economy,$279
+Frontier,2023-12-17,8h 33mMDW-SFO,1 stop,11:09 am – 5:42 pm,Economy,$79
+American Airlines,2023-12-17,7h 05mORD-SFO,1 stop,8:35 am – 1:40 pm,Basic Economy,$149
+Frontier,2023-12-18,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$79
+American Airlines,2023-12-18,4h 50mORD-SFO,nonstop,1:33 pm – 4:23 pm,Basic Economy,$119
+American Airlines,2023-12-18,4h 52mORD-SFO,nonstop,8:45 am – 11:37 am,Basic Economy,$119
+Alaska Airlines,2023-12-18,4h 56mORD-SFO,nonstop,2:30 pm – 5:26 pm,Saver,$119
+American Airlines,2023-12-18,5h 01mORD-SFO,nonstop,6:55 pm – 9:56 pm,Basic Economy,$159
+United Airlines,2023-12-18,4h 47mORD-SFO,nonstop,7:50 pm – 10:37 pm,Basic Economy,$171
+United Airlines,2023-12-18,6h 31mORD-SFO,1 stop,3:55 pm – 8:26 pm,Basic Economy,$129
+United Airlines,2023-12-18,4h 51mORD-SFO,nonstop,11:05 am – 1:56 pm,Basic Economy,$171
+United Airlines,2023-12-18,4h 41mORD-SFO,nonstop,2:20 pm – 5:01 pm,Basic Economy,$176
+United Airlines,2023-12-18,4h 39mORD-SFO,nonstop,4:05 pm – 6:44 pm,Basic Economy,$182
+United Airlines,2023-12-18,4h 49mORD-SFO,nonstop,12:46 pm – 3:35 pm,Basic Economy,$182
+United Airlines,2023-12-18,7h 00mORD-SFO,1 stop,3:55 pm – 8:55 pm,Basic Economy,$129
+United Airlines,2023-12-18,4h 52mORD-SFO,nonstop,6:00 pm – 8:52 pm,Basic Economy,$187
+American Airlines,2023-12-18,7h 05mORD-SFO,1 stop,8:35 am – 1:40 pm,Basic Economy,$129
+United Airlines,2023-12-18,7h 18mORD-SFO,1 stop,5:53 pm – 11:11 pm,Basic Economy,$129
+Frontier,2023-12-19,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$61
+United Airlines,2023-12-19,4h 49mORD-SFO,nonstop,12:46 pm – 3:35 pm,Basic Economy,$127
+United Airlines,2023-12-19,4h 41mORD-SFO,nonstop,2:20 pm – 5:01 pm,Basic Economy,$137
+United Airlines,2023-12-19,4h 39mORD-SFO,nonstop,4:05 pm – 6:44 pm,Basic Economy,$143
+United Airlines,2023-12-19,4h 45mORD-SFO,nonstop,9:00 am – 11:45 am,Basic Economy,$143
+American Airlines,2023-12-19,6h 56mORD-SFO,1 stop,6:11 am – 11:07 am,Basic Economy,$119
+United Airlines,2023-12-19,7h 18mORD-SFO,1 stop,5:53 pm – 11:11 pm,Basic Economy,$119
+United Airlines,2023-12-19,4h 47mORD-SFO,nonstop,7:50 pm – 10:37 pm,Basic Economy,$173
+United Airlines,2023-12-19,4h 52mORD-SFO,nonstop,6:00 pm – 8:52 pm,Basic Economy,$173
+American Airlines,2023-12-19,7h 35mORD-SFO,1 stop,12:10 pm – 5:45 pm,Basic Economy,$119
+United Airlines,2023-12-19,4h 50mORD-SFO,nonstop,7:00 am – 9:50 am,Basic Economy,$173
+Delta,2023-12-19,6h 25mORD-SFO,1 stop,2:00 pm – 6:25 pm,Basic Economy,$119
+United Airlines,2023-12-19,6h 41mORD-SFO,1 stop,7:10 am – 11:51 am,Basic Economy,$148
+American Airlines,2023-12-19,4h 50mORD-SFO,nonstop,1:33 pm – 4:23 pm,Basic Economy,$194
+American Airlines,2023-12-19,8h 52mORD-SFO,1 stop,10:53 am – 5:45 pm,Basic Economy,$119
+Frontier,2023-12-20,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$129
+Frontier,2023-12-20,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$111
+Frontier,2023-12-20,36h 14mMDW-SFO,2 stops,7:40 am – 5:54 pm+1,Economy,$97
+United Airlines,2023-12-20,4h 41mORD-SFO,nonstop,2:20 pm – 5:01 pm,Basic Economy,$189
+United Airlines,2023-12-20,4h 48mORD-SFO,nonstop,7:00 am – 9:48 am,Basic Economy,$189
+American Airlines,2023-12-20,4h 56mORD-SFO,nonstop,2:15 pm – 5:11 pm,Basic Economy,$194
+American Airlines,2023-12-20,4h 51mORD-SFO,nonstop,9:55 am – 12:46 pm,Basic Economy,$194
+Alaska Airlines,2023-12-20,4h 56mORD-SFO,nonstop,2:30 pm – 5:26 pm,Saver,$209
+United Airlines,2023-12-20,4h 39mORD-SFO,nonstop,4:05 pm – 6:44 pm,Basic Economy,$210
+United Airlines,2023-12-20,4h 52mORD-SFO,nonstop,6:00 pm – 8:52 pm,Basic Economy,$210
+United Airlines,2023-12-20,4h 45mORD-SFO,nonstop,9:00 am – 11:45 am,Basic Economy,$210
+United Airlines,2023-12-20,4h 47mORD-SFO,nonstop,7:50 pm – 10:37 pm,Basic Economy,$217
+United Airlines,2023-12-20,4h 49mORD-SFO,nonstop,12:46 pm – 3:35 pm,Basic Economy,$228
+Frontier,2023-12-20,9h 14mMDW-SFO,1 stop,11:07 am – 6:21 pm,Economy,$149
+"Spirit Airlines, Frontier",2023-12-20,10h 55mORD-SFO,1 stop,9:25 am – 6:20 pm,Economy,$127
+American Airlines,2023-12-20,8h 10mORD-SFO,1 stop,6:00 am – 12:10 pm,Basic Economy,$169
+United Airlines,2023-12-20,6h 31mORD-SFO,1 stop,3:55 pm – 8:26 pm,Basic Economy,$199
+Frontier,2023-12-21,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$160
+Frontier,2023-12-21,13h 27mMDW-SFO,1 stop,11:15 pm – 10:42 am+1,Economy,$105
+United Airlines,2023-12-21,4h 55mORD-SFO,nonstop,7:10 am – 10:05 am,Basic Economy,$210
+United Airlines,2023-12-21,4h 50mORD-SFO,nonstop,6:15 am – 9:05 am,Basic Economy,$217
+United Airlines,2023-12-21,4h 47mORD-SFO,nonstop,8:06 pm – 10:53 pm,Basic Economy,$228
+United Airlines,2023-12-21,4h 45mORD-SFO,nonstop,8:45 am – 11:30 am,Basic Economy,$228
+Alaska Airlines,2023-12-21,4h 56mORD-SFO,nonstop,2:30 pm – 5:26 pm,Saver,$209
+United Airlines,2023-12-21,4h 52mORD-SFO,nonstop,9:05 pm – 11:57 pm,Basic Economy,$210
+United Airlines,2023-12-21,4h 44mORD-SFO,nonstop,3:55 pm – 6:39 pm,Basic Economy,$263
+United Airlines,2023-12-21,4h 57mORD-SFO,nonstop,6:18 pm – 9:15 pm,Basic Economy,$263
+United Airlines,2023-12-21,4h 54mORD-SFO,nonstop,10:50 am – 1:44 pm,Basic Economy,$282
+Delta,2023-12-21,6h 25mORD-SFO,1 stop,2:00 pm – 6:25 pm,Basic Economy,$189
+American Airlines,2023-12-21,7h 12mORD-SFO,1 stop,6:00 am – 11:12 am,Basic Economy,$205
+United Airlines,2023-12-21,6h 38mORD-SFO,1 stop,7:10 am – 11:48 am,Basic Economy,$229
+American Airlines,2023-12-21,4h 51mORD-SFO,nonstop,9:55 am – 12:46 pm,Main Cabin,$329
+American Airlines,2023-12-21,4h 56mORD-SFO,nonstop,2:15 pm – 5:11 pm,Main Cabin,$329
+Frontier,2023-12-22,26h 15mMDW-SFO,1 stop,7:45 am – 8:00 am+1,Economy,$153
+Frontier,2023-12-22,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$219
+Frontier,2023-12-22,18h 19mMDW-SFO,1 stop,7:45 am – 12:04 am+1,Economy,$114
+United Airlines,2023-12-22,4h 50mORD-SFO,nonstop,7:10 am – 10:00 am,Basic Economy,$264
+United Airlines,2023-12-22,4h 47mORD-SFO,nonstop,8:06 pm – 10:53 pm,Basic Economy,$275
+United Airlines,2023-12-22,4h 45mORD-SFO,nonstop,8:45 am – 11:30 am,Basic Economy,$275
+United Airlines,2023-12-22,4h 44mORD-SFO,nonstop,3:55 pm – 6:39 pm,Basic Economy,$296
+United Airlines,2023-12-22,4h 54mORD-SFO,nonstop,10:50 am – 1:44 pm,Basic Economy,$308
+Alaska Airlines,2023-12-22,4h 56mORD-SFO,nonstop,2:30 pm – 5:26 pm,Saver,$289
+American Airlines,2023-12-22,4h 56mORD-SFO,nonstop,2:15 pm – 5:11 pm,Main Cabin,$329
+United Airlines,2023-12-22,4h 52mORD-SFO,nonstop,9:05 pm – 11:57 pm,Basic Economy,$296
+United Airlines,2023-12-22,4h 57mORD-SFO,nonstop,6:18 pm – 9:15 pm,Economy,$373
+American Airlines,2023-12-22,4h 51mORD-SFO,nonstop,9:55 am – 12:46 pm,Main Cabin,$374
+United Airlines,2023-12-22,6h 38mORD-SFO,1 stop,7:10 am – 11:48 am,Basic Economy,$306
+United Airlines,2023-12-22,4h 53mORD-SFO,nonstop,12:45 pm – 3:38 pm,Economy,$399
+American Airlines,2023-12-22,6h 56mORD-SFO,1 stop,8:01 pm – 12:57 am+1,Main Cabin,$339
+United Airlines,2023-12-22,6h 31mORD-SFO,1 stop,5:50 pm – 10:21 pm,Economy,$391
+Frontier,2023-12-23,13h 27mMDW-SFO,1 stop,11:15 pm – 10:42 am+1,Economy,$110
+Frontier,2023-12-23,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$146
+Frontier,2023-12-23,13h 27mMDW-SFO,1 stop,11:15 pm – 10:42 am+1,Economy,$105
+United Airlines,2023-12-23,4h 52mORD-SFO,nonstop,9:05 pm – 11:57 pm,Basic Economy,$208
+United Airlines,2023-12-23,4h 47mORD-SFO,nonstop,8:06 pm – 10:53 pm,Basic Economy,$217
+United Airlines,2023-12-23,4h 44mORD-SFO,nonstop,3:55 pm – 6:39 pm,Basic Economy,$264
+United Airlines,2023-12-23,4h 57mORD-SFO,nonstop,6:18 pm – 9:15 pm,Basic Economy,$285
+United Airlines,2023-12-23,4h 50mORD-SFO,nonstop,7:10 am – 10:00 am,Basic Economy,$296
+United Airlines,2023-12-23,4h 45mORD-SFO,nonstop,8:45 am – 11:30 am,Basic Economy,$296
+Alaska Airlines,2023-12-23,4h 56mORD-SFO,nonstop,2:30 pm – 5:26 pm,Saver,$329
+American Airlines,2023-12-23,4h 56mORD-SFO,nonstop,2:15 pm – 5:11 pm,Main Cabin,$329
+United Airlines,2023-12-23,4h 54mORD-SFO,nonstop,10:40 am – 1:34 pm,Economy,$416
+United Airlines,2023-12-23,4h 53mORD-SFO,nonstop,12:45 pm – 3:38 pm,Economy,$459
+"Spirit Airlines, Frontier",2023-12-23,10h 01mORD-SFO,1 stop,10:48 pm – 6:49 am+1,Economy,$160
+United Airlines,2023-12-23,6h 31mORD-SFO,1 stop,5:50 pm – 10:21 pm,Basic Economy,$226
+Delta,2023-12-23,6h 25mORD-SFO,1 stop,2:00 pm – 6:25 pm,Basic Economy,$249
+Frontier,2023-12-24,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$84
+Frontier,2023-12-24,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$79
+United Airlines,2023-12-24,5h 00mORD-SFO,nonstop,8:00 pm – 11:00 pm,Basic Economy,$141
+United Airlines,2023-12-24,4h 52mORD-SFO,nonstop,9:05 pm – 11:57 pm,Basic Economy,$150
+United Airlines,2023-12-24,4h 57mORD-SFO,nonstop,6:18 pm – 9:15 pm,Basic Economy,$150
+United Airlines,2023-12-24,4h 44mORD-SFO,nonstop,3:55 pm – 6:39 pm,Basic Economy,$171
+American Airlines,2023-12-24,4h 56mORD-SFO,nonstop,2:15 pm – 5:11 pm,Basic Economy,$205
+Alaska Airlines,2023-12-24,4h 56mORD-SFO,nonstop,2:30 pm – 5:26 pm,Saver,$209
+United Airlines,2023-12-24,4h 54mORD-SFO,nonstop,10:50 am – 1:44 pm,Basic Economy,$228
+United Airlines,2023-12-24,4h 53mORD-SFO,nonstop,12:45 pm – 3:38 pm,Basic Economy,$228
+United Airlines,2023-12-24,4h 50mORD-SFO,nonstop,7:10 am – 10:00 am,Basic Economy,$228
+United Airlines,2023-12-24,4h 50mORD-SFO,nonstop,6:15 am – 9:05 am,Basic Economy,$228
+United Airlines,2023-12-24,4h 44mORD-SFO,nonstop,9:00 am – 11:44 am,Basic Economy,$228
+American Airlines,2023-12-24,4h 51mORD-SFO,nonstop,9:55 am – 12:46 pm,Main Cabin,$339
+Frontier,2023-12-24,13h 27mMDW-SFO,1 stop,11:15 pm – 10:42 am+1,Economy,$109
+United Airlines,2023-12-24,6h 45mORD-SFO,1 stop,2:48 pm – 7:33 pm,Basic Economy,$180
+Frontier,2023-12-25,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$108
+Alaska Airlines,2023-12-25,4h 56mORD-SFO,nonstop,2:30 pm – 5:26 pm,Saver,$189
+United Airlines,2023-12-25,4h 44mORD-SFO,nonstop,3:55 pm – 6:39 pm,Basic Economy,$208
+United Airlines,2023-12-25,4h 48mORD-SFO,nonstop,12:45 pm – 3:33 pm,Basic Economy,$217
+United Airlines,2023-12-25,4h 46mORD-SFO,nonstop,7:00 am – 9:46 am,Basic Economy,$217
+United Airlines,2023-12-25,4h 54mORD-SFO,nonstop,10:50 am – 1:44 pm,Basic Economy,$217
+United Airlines,2023-12-25,4h 52mORD-SFO,nonstop,9:05 pm – 11:57 pm,Basic Economy,$208
+American Airlines,2023-12-25,4h 56mORD-SFO,nonstop,2:15 pm – 5:11 pm,Basic Economy,$245
+American Airlines,2023-12-25,4h 52mORD-SFO,nonstop,10:00 am – 12:52 pm,Basic Economy,$245
+United Airlines,2023-12-25,4h 57mORD-SFO,nonstop,6:18 pm – 9:15 pm,Basic Economy,$265
+United Airlines,2023-12-25,4h 58mORD-SFO,nonstop,8:45 am – 11:43 am,Basic Economy,$265
+United Airlines,2023-12-25,8h 15mORD-SFO,1 stop,6:05 am – 12:20 pm,Basic Economy,$155
+United Airlines,2023-12-25,6h 38mORD-SFO,1 stop,7:10 am – 11:48 am,Basic Economy,$221
+United Airlines,2023-12-25,6h 31mORD-SFO,1 stop,5:50 pm – 10:21 pm,Basic Economy,$274
+American Airlines,2023-12-25,7h 12mORD-SFO,1 stop,6:00 am – 11:12 am,Basic Economy,$255
+Frontier,2023-12-26,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$344
+Frontier,2023-12-26,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$339
+Frontier,2023-12-26,17h 16mORD-SFO,2 stops,9:42 pm – 12:58 pm+1,Economy,$242
+United Airlines,2023-12-26,4h 50mORD-SFO,nonstop,6:15 am – 9:05 am,Economy,$364
+United Airlines,2023-12-26,4h 52mORD-SFO,nonstop,9:05 pm – 11:57 pm,Economy,$364
+United Airlines,2023-12-26,4h 45mORD-SFO,nonstop,8:45 am – 11:30 am,Economy,$399
+United Airlines,2023-12-26,4h 47mORD-SFO,nonstop,8:06 pm – 10:53 pm,Economy,$399
+United Airlines,2023-12-26,4h 50mORD-SFO,nonstop,7:10 am – 10:00 am,Economy,$399
+United Airlines,2023-12-26,4h 54mORD-SFO,nonstop,10:50 am – 1:44 pm,Economy,$459
+United Airlines,2023-12-26,4h 44mORD-SFO,nonstop,3:55 pm – 6:39 pm,Economy,$459
+United Airlines,2023-12-26,4h 57mORD-SFO,nonstop,6:18 pm – 9:15 pm,Economy,$512
+Alaska Airlines,2023-12-26,4h 56mORD-SFO,nonstop,2:30 pm – 5:26 pm,Main,$529
+American Airlines,2023-12-26,4h 51mORD-SFO,nonstop,9:55 am – 12:46 pm,Main Cabin,$529
+American Airlines,2023-12-26,4h 56mORD-SFO,nonstop,2:15 pm – 5:11 pm,Main Cabin,$529
+United Airlines,2023-12-26,4h 53mORD-SFO,nonstop,12:45 pm – 3:38 pm,Economy,$679
+American Airlines,2023-12-26,8h 10mORD-SFO,1 stop,6:00 am – 12:10 pm,Main Cabin,$384
+American Airlines,2023-12-26,7h 04mORD-SFO,1 stop,12:01 pm – 5:05 pm,Main Cabin,$516
+Sun Country Air,2023-12-27,14h 41mORD-SFO,1 stop,7:50 pm – 8:31 am+1,Economy,$337
+Frontier,2023-12-27,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$341
+Frontier,2023-12-27,21h 46mMDW-SFO,2 stops,12:14 pm – 8:00 am+1,Economy,$192
+United Airlines,2023-12-27,4h 50mORD-SFO,nonstop,7:10 am – 10:00 am,Economy,$399
+United Airlines,2023-12-27,4h 50mORD-SFO,nonstop,6:15 am – 9:05 am,Economy,$399
+United Airlines,2023-12-27,4h 52mORD-SFO,nonstop,9:05 pm – 11:57 pm,Economy,$399
+United Airlines,2023-12-27,4h 45mORD-SFO,nonstop,8:45 am – 11:30 am,Economy,$459
+United Airlines,2023-12-27,4h 47mORD-SFO,nonstop,8:06 pm – 10:53 pm,Economy,$459
+American Airlines,2023-12-27,4h 56mORD-SFO,nonstop,2:15 pm – 5:11 pm,Main Cabin,$529
+American Airlines,2023-12-27,4h 51mORD-SFO,nonstop,9:55 am – 12:46 pm,Main Cabin,$529
+United Airlines,2023-12-27,4h 57mORD-SFO,nonstop,6:18 pm – 9:15 pm,Economy,$545
+United Airlines,2023-12-27,4h 54mORD-SFO,nonstop,10:50 am – 1:44 pm,Economy,$545
+United Airlines,2023-12-27,4h 44mORD-SFO,nonstop,3:55 pm – 6:39 pm,Economy,$545
+United Airlines,2023-12-27,4h 53mORD-SFO,nonstop,12:45 pm – 3:38 pm,Economy,$630
+Alaska Airlines,2023-12-27,4h 56mORD-SFO,nonstop,2:30 pm – 5:26 pm,Main,$629
+United Airlines,2023-12-27,6h 24mORD-SFO,1 stop,1:15 pm – 5:39 pm,Economy,$513
+United Airlines,2023-12-27,6h 38mORD-SFO,1 stop,7:10 am – 11:48 am,Economy,$534
+Sun Country Air,2023-12-28,16h 31mORD-SFO,1 stop,7:30 pm – 10:01 am+1,Economy,$362
+United Airlines,2023-12-28,4h 52mORD-SFO,nonstop,9:00 pm – 11:52 pm,Basic Economy,$281
+Frontier,2023-12-28,29h 58mORD-SFO,1 stop,6:20 pm – 10:18 pm+1,Economy,$220
+United Airlines,2023-12-28,4h 50mORD-SFO,nonstop,7:10 am – 10:00 am,Basic Economy,$292
+United Airlines,2023-12-28,4h 50mORD-SFO,nonstop,6:15 am – 9:05 am,Basic Economy,$292
+Frontier,2023-12-28,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$341
+United Airlines,2023-12-28,4h 47mORD-SFO,nonstop,8:06 pm – 10:53 pm,Economy,$364
+American Airlines,2023-12-28,4h 56mORD-SFO,nonstop,2:15 pm – 5:11 pm,Main Cabin,$374
+American Airlines,2023-12-28,4h 51mORD-SFO,nonstop,9:55 am – 12:46 pm,Main Cabin,$374
+United Airlines,2023-12-28,4h 45mORD-SFO,nonstop,8:45 am – 11:30 am,Economy,$399
+United Airlines,2023-12-28,4h 54mORD-SFO,nonstop,10:50 am – 1:44 pm,Economy,$416
+Alaska Airlines,2023-12-28,4h 56mORD-SFO,nonstop,2:30 pm – 5:26 pm,Saver,$429
+United Airlines,2023-12-28,4h 57mORD-SFO,nonstop,6:18 pm – 9:15 pm,Economy,$459
+United Airlines,2023-12-28,4h 44mORD-SFO,nonstop,3:55 pm – 6:39 pm,Economy,$512
+United Airlines,2023-12-28,4h 53mORD-SFO,nonstop,12:45 pm – 3:38 pm,Economy,$679
+American Airlines,2023-12-28,7h 08mORD-SFO,1 stop,5:30 pm – 10:38 pm,Main Cabin,$339
+American Airlines,2023-12-28,6h 50mORD-SFO,1 stop,7:20 am – 12:10 pm,Main Cabin,$384
+Frontier,2023-12-29,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$224
+Frontier,2023-12-29,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$179
+Frontier,2023-12-29,38h 29mORD-SFO,2 stops,6:10 pm – 6:39 am+2,Economy,$176
+United Airlines,2023-12-29,4h 50mORD-SFO,nonstop,6:40 am – 9:30 am,Basic Economy,$217
+United Airlines,2023-12-29,4h 50mORD-SFO,nonstop,6:10 am – 9:00 am,Basic Economy,$265
+United Airlines,2023-12-29,4h 50mORD-SFO,nonstop,7:10 am – 10:00 am,Basic Economy,$276
+United Airlines,2023-12-29,4h 52mORD-SFO,nonstop,9:05 pm – 11:57 pm,Basic Economy,$276
+United Airlines,2023-12-29,4h 45mORD-SFO,nonstop,8:45 am – 11:30 am,Basic Economy,$308
+American Airlines,2023-12-29,4h 56mORD-SFO,nonstop,2:15 pm – 5:11 pm,Main Cabin,$329
+American Airlines,2023-12-29,4h 51mORD-SFO,nonstop,9:55 am – 12:46 pm,Main Cabin,$374
+Alaska Airlines,2023-12-29,4h 56mORD-SFO,nonstop,2:30 pm – 5:26 pm,Saver,$379
+United Airlines,2023-12-29,4h 47mORD-SFO,nonstop,8:06 pm – 10:53 pm,Economy,$373
+United Airlines,2023-12-29,4h 57mORD-SFO,nonstop,6:18 pm – 9:15 pm,Economy,$416
+United Airlines,2023-12-29,4h 54mORD-SFO,nonstop,10:50 am – 1:44 pm,Economy,$416
+United Airlines,2023-12-29,4h 53mORD-SFO,nonstop,12:45 pm – 3:38 pm,Economy,$459
+United Airlines,2023-12-29,4h 44mORD-SFO,nonstop,3:55 pm – 6:39 pm,Economy,$459
+United Airlines,2023-12-29,6h 38mORD-SFO,1 stop,7:10 am – 11:48 am,Economy,$382
+Frontier,2023-12-30,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$234
+Frontier,2023-12-30,4h 58mMDW-SFO,nonstop,6:35 pm – 9:33 pm,Economy,$211
+"Spirit Airlines, Frontier",2023-12-30,9h 51mORD-SFO,1 stop,10:48 pm – 6:39 am+1,Economy,$160
+United Airlines,2023-12-30,4h 50mORD-SFO,nonstop,7:10 am – 10:00 am,Basic Economy,$286
+United Airlines,2023-12-30,4h 52mORD-SFO,nonstop,9:05 pm – 11:57 pm,Basic Economy,$297
+United Airlines,2023-12-30,4h 45mORD-SFO,nonstop,8:45 am – 11:30 am,Economy,$364
+United Airlines,2023-12-30,4h 47mORD-SFO,nonstop,8:06 pm – 10:53 pm,Economy,$364
+American Airlines,2023-12-30,4h 56mORD-SFO,nonstop,2:15 pm – 5:11 pm,Main Cabin,$374
+Alaska Airlines,2023-12-30,4h 56mORD-SFO,nonstop,2:30 pm – 5:26 pm,Saver,$379
+United Airlines,2023-12-30,4h 57mORD-SFO,nonstop,6:18 pm – 9:15 pm,Economy,$383
+United Airlines,2023-12-30,4h 54mORD-SFO,nonstop,10:40 am – 1:34 pm,Economy,$399
+United Airlines,2023-12-30,4h 53mORD-SFO,nonstop,12:45 pm – 3:38 pm,Economy,$459
+United Airlines,2023-12-30,4h 44mORD-SFO,nonstop,3:55 pm – 6:39 pm,Economy,$459
+American Airlines,2023-12-30,7h 04mORD-SFO,1 stop,12:01 pm – 5:05 pm,Main Cabin,$339
+American Airlines,2023-12-30,7h 45mORD-SFO,1 stop,6:51 pm – 12:36 am+1,Main Cabin,$339
+American Airlines,2023-12-30,7h 12mORD-SFO,1 stop,6:00 am – 11:12 am,Main Cabin,$384
+Frontier,2023-12-01,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$74
+Frontier,2023-12-01,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$69
+Spirit Airlines,2023-12-01,4h 05mEWR-DFW,nonstop,10:50 am – 1:55 pm,Economy,$90
+Spirit Airlines,2023-12-01,4h 04mLGA-DFW,nonstop,1:30 pm – 4:34 pm,Economy,$96
+Delta,2023-12-01,4h 21mJFK-DFW,nonstop,8:36 am – 11:57 am,Basic Economy,$139
+Delta,2023-12-01,4h 21mLGA-DFW,nonstop,7:45 pm – 11:06 pm,Basic Economy,$139
+United Airlines,2023-12-01,4h 32mEWR-DFW,nonstop,8:07 am – 11:39 am,Basic Economy,$139
+Delta,2023-12-01,4h 15mLGA-DFW,nonstop,8:20 am – 11:35 am,Basic Economy,$139
+Delta,2023-12-01,4h 21mJFK-DFW,nonstop,5:59 pm – 9:20 pm,Basic Economy,$139
+United Airlines,2023-12-01,4h 08mEWR-DFW,nonstop,6:52 pm – 10:00 pm,Basic Economy,$139
+Delta,2023-12-01,4h 05mLGA-DFW,nonstop,6:00 am – 9:05 am,Basic Economy,$139
+United Airlines,2023-12-01,4h 05mEWR-DFW,nonstop,12:10 pm – 3:15 pm,Basic Economy,$139
+United Airlines,2023-12-01,4h 08mEWR-DFW,nonstop,3:20 pm – 6:28 pm,Basic Economy,$139
+United Airlines,2023-12-01,4h 04mEWR-DFW,nonstop,2:00 pm – 5:04 pm,Basic Economy,$139
+United Airlines,2023-12-01,4h 03mEWR-DFW,nonstop,6:59 am – 10:02 am,Basic Economy,$139
+American Airlines,2023-12-01,4h 02mEWR-DFW,nonstop,5:29 pm – 8:31 pm,Basic Economy,$139
+Spirit Airlines,2023-12-02,4h 05mEWR-DFW,nonstop,1:10 pm – 4:15 pm,Economy,$63
+Frontier,2023-12-02,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$59
+Spirit Airlines,2023-12-02,4h 05mEWR-DFW,nonstop,1:10 pm – 4:15 pm,Economy,$63
+Spirit Airlines,2023-12-02,4h 04mLGA-DFW,nonstop,1:30 pm – 4:34 pm,Economy,$64
+Delta,2023-12-02,4h 21mJFK-DFW,nonstop,8:36 am – 11:57 am,Basic Economy,$139
+Delta,2023-12-02,4h 21mJFK-DFW,nonstop,5:59 pm – 9:20 pm,Basic Economy,$139
+Delta,2023-12-02,4h 15mLGA-DFW,nonstop,2:10 pm – 5:25 pm,Basic Economy,$139
+Delta,2023-12-02,4h 15mLGA-DFW,nonstop,8:20 am – 11:35 am,Basic Economy,$139
+American Airlines,2023-12-02,4h 11mEWR-DFW,nonstop,1:16 pm – 4:27 pm,Basic Economy,$139
+American Airlines,2023-12-02,4h 10mEWR-DFW,nonstop,4:49 pm – 7:59 pm,Basic Economy,$139
+United Airlines,2023-12-02,4h 08mEWR-DFW,nonstop,6:55 pm – 10:03 pm,Basic Economy,$139
+United Airlines,2023-12-02,4h 04mEWR-DFW,nonstop,2:00 pm – 5:04 pm,Basic Economy,$139
+United Airlines,2023-12-02,4h 03mEWR-DFW,nonstop,6:59 am – 10:02 am,Basic Economy,$139
+American Airlines,2023-12-02,4h 02mEWR-DFW,nonstop,6:07 am – 9:09 am,Basic Economy,$139
+American Airlines,2023-12-02,4h 02mEWR-DFW,nonstop,9:07 am – 12:09 pm,Basic Economy,$139
+American Airlines,2023-12-02,4h 19mLGA-DFW,nonstop,6:00 am – 9:19 am,Basic Economy,$149
+Spirit Airlines,2023-12-03,9h 57mLGA-DFW,1 stop,12:00 pm – 8:57 pm,Economy,$82
+Frontier,2023-12-03,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$121
+"Frontier, Spirit Airlines",2023-12-03,26h 16mLGA-DFW,1 stop,11:09 pm – 12:25 am+2,Economy,$77
+Delta,2023-12-03,4h 10mLGA-DFW,nonstop,6:00 am – 9:10 am,Basic Economy,$139
+American Airlines,2023-12-03,4h 19mLGA-DFW,nonstop,6:00 am – 9:19 am,Basic Economy,$169
+American Airlines,2023-12-03,4h 17mLGA-DFW,nonstop,7:32 am – 10:49 am,Basic Economy,$169
+Spirit Airlines,2023-12-03,4h 04mLGA-DFW,nonstop,1:30 pm – 4:34 pm,Economy,$155
+Spirit Airlines,2023-12-03,4h 05mEWR-DFW,nonstop,11:10 am – 2:15 pm,Economy,$227
+American Airlines,2023-12-03,4h 18mLGA-DFW,nonstop,11:00 am – 2:18 pm,Basic Economy,$249
+American Airlines,2023-12-03,4h 24mJFK-DFW,nonstop,8:00 am – 11:24 am,Basic Economy,$249
+American Airlines,2023-12-03,4h 11mLGA-DFW,nonstop,8:25 am – 11:36 am,Basic Economy,$249
+Delta,2023-12-03,4h 15mLGA-DFW,nonstop,8:20 am – 11:35 am,Main Cabin,$259
+Delta,2023-12-03,4h 21mJFK-DFW,nonstop,8:36 am – 11:57 am,Main Cabin,$279
+American Airlines,2023-12-03,4h 02mEWR-DFW,nonstop,6:07 am – 9:09 am,Main Cabin,$299
+Spirit Airlines,2023-12-03,9h 57mLGA-DFW,1 stop,12:00 pm – 8:57 pm,Economy,$78
+United Airlines,2023-12-03,4h 03mEWR-DFW,nonstop,6:59 am – 10:02 am,Economy,$319
+Delta,2023-12-03,4h 21mLGA-DFW,nonstop,7:45 pm – 11:06 pm,Main Cabin,$319
+Frontier,2023-12-04,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$84
+Frontier,2023-12-04,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$71
+"Spirit Airlines, Frontier",2023-12-04,11h 12mEWR-DFW,1 stop,10:10 pm – 8:22 am+1,Economy,$61
+American Airlines,2023-12-04,4h 02mEWR-DFW,nonstop,5:29 pm – 8:31 pm,Basic Economy,$139
+American Airlines,2023-12-04,4h 02mEWR-DFW,nonstop,9:07 am – 12:09 pm,Basic Economy,$139
+American Airlines,2023-12-04,4h 02mEWR-DFW,nonstop,6:07 am – 9:09 am,Basic Economy,$139
+Spirit Airlines,2023-12-04,4h 11mEWR-DFW,nonstop,11:26 am – 2:37 pm,Economy,$149
+Delta,2023-12-04,4h 21mLGA-DFW,nonstop,7:45 pm – 11:06 pm,Basic Economy,$139
+Spirit Airlines,2023-12-04,7h 47mEWR-DFW,1 stop,2:52 pm – 9:39 pm,Economy,$71
+American Airlines,2023-12-04,4h 10mJFK-DFW,nonstop,4:20 pm – 7:30 pm,Basic Economy,$176
+Spirit Airlines,2023-12-04,7h 40mLGA-DFW,1 stop,2:59 pm – 9:39 pm,Economy,$80
+Spirit Airlines,2023-12-04,6h 41mEWR-DFW,1 stop,2:59 pm – 8:40 pm,Economy,$103
+American Airlines,2023-12-04,4h 24mJFK-DFW,nonstop,8:00 am – 11:24 am,Basic Economy,$176
+American Airlines,2023-12-04,5h 50mEWR-DFW,1 stop,7:44 pm – 12:34 am+1,Basic Economy,$147
+American Airlines,2023-12-04,4h 19mLGA-DFW,nonstop,6:00 am – 9:19 am,Basic Economy,$199
+United Airlines,2023-12-04,4h 08mEWR-DFW,nonstop,6:52 pm – 10:00 pm,Basic Economy,$211
+Spirit Airlines,2023-12-04,9h 15mEWR-DFW,1 stop,2:52 pm – 11:07 pm,Economy,$71
+Frontier,2023-12-05,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$58
+United Airlines,2023-12-05,7h 31mEWR-DFW,1 stop,9:00 am – 3:31 pm,Basic Economy,$109
+Frontier,2023-12-05,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$37
+Spirit Airlines,2023-12-05,4h 12mEWR-DFW,nonstop,1:50 pm – 5:02 pm,Economy,$61
+Spirit Airlines,2023-12-05,4h 12mLGA-DFW,nonstop,12:59 pm – 4:11 pm,Economy,$62
+Delta,2023-12-05,4h 21mJFK-DFW,nonstop,8:36 am – 11:57 am,Basic Economy,$99
+Delta,2023-12-05,4h 21mLGA-DFW,nonstop,7:45 pm – 11:06 pm,Basic Economy,$99
+United Airlines,2023-12-05,4h 32mEWR-DFW,nonstop,8:07 am – 11:39 am,Basic Economy,$99
+Delta,2023-12-05,4h 20mLGA-DFW,nonstop,3:37 pm – 6:57 pm,Basic Economy,$99
+American Airlines,2023-12-05,4h 18mEWR-DFW,nonstop,4:44 pm – 8:02 pm,Basic Economy,$99
+American Airlines,2023-12-05,4h 17mEWR-DFW,nonstop,1:35 pm – 4:52 pm,Basic Economy,$99
+Delta,2023-12-05,4h 10mLGA-DFW,nonstop,6:00 am – 9:10 am,Basic Economy,$99
+American Airlines,2023-12-05,4h 16mEWR-DFW,nonstop,6:00 am – 9:16 am,Basic Economy,$99
+United Airlines,2023-12-05,4h 08mEWR-DFW,nonstop,6:52 pm – 10:00 pm,Basic Economy,$99
+United Airlines,2023-12-05,4h 05mEWR-DFW,nonstop,12:10 pm – 3:15 pm,Basic Economy,$99
+United Airlines,2023-12-05,4h 03mEWR-DFW,nonstop,6:59 am – 10:02 am,Basic Economy,$99
+Frontier,2023-12-06,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$34
+Frontier,2023-12-06,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$29
+Spirit Airlines,2023-12-06,4h 12mEWR-DFW,nonstop,1:50 pm – 5:02 pm,Economy,$61
+Spirit Airlines,2023-12-06,4h 12mLGA-DFW,nonstop,12:59 pm – 4:11 pm,Economy,$62
+United Airlines,2023-12-06,4h 32mEWR-DFW,nonstop,8:07 am – 11:39 am,Basic Economy,$99
+Delta,2023-12-06,4h 21mJFK-DFW,nonstop,5:55 pm – 9:16 pm,Basic Economy,$99
+Delta,2023-12-06,4h 21mLGA-DFW,nonstop,7:45 pm – 11:06 pm,Basic Economy,$99
+American Airlines,2023-12-06,4h 16mEWR-DFW,nonstop,9:00 am – 12:16 pm,Basic Economy,$99
+Delta,2023-12-06,4h 20mLGA-DFW,nonstop,3:37 pm – 6:57 pm,Basic Economy,$99
+Delta,2023-12-06,4h 18mLGA-DFW,nonstop,10:59 am – 2:17 pm,Basic Economy,$99
+Delta,2023-12-06,4h 21mJFK-DFW,nonstop,8:36 am – 11:57 am,Basic Economy,$99
+Delta,2023-12-06,4h 13mLGA-DFW,nonstop,12:57 pm – 4:10 pm,Basic Economy,$99
+Delta,2023-12-06,4h 10mLGA-DFW,nonstop,6:00 am – 9:10 am,Basic Economy,$99
+United Airlines,2023-12-06,4h 08mEWR-DFW,nonstop,3:20 pm – 6:28 pm,Basic Economy,$99
+United Airlines,2023-12-06,4h 08mEWR-DFW,nonstop,6:52 pm – 10:00 pm,Basic Economy,$99
+United Airlines,2023-12-06,4h 05mEWR-DFW,nonstop,12:10 pm – 3:15 pm,Basic Economy,$99
+Frontier,2023-12-07,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$44
+Frontier,2023-12-07,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$39
+Spirit Airlines,2023-12-07,4h 12mEWR-DFW,nonstop,1:50 pm – 5:02 pm,Economy,$60
+Spirit Airlines,2023-12-07,4h 12mLGA-DFW,nonstop,12:59 pm – 4:11 pm,Economy,$61
+Delta,2023-12-07,4h 31mJFK-DFW,nonstop,8:40 am – 12:11 pm,Basic Economy,$109
+Delta,2023-12-07,4h 29mJFK-DFW,nonstop,6:15 pm – 9:44 pm,Basic Economy,$109
+United Airlines,2023-12-07,4h 32mEWR-DFW,nonstop,8:07 am – 11:39 am,Basic Economy,$109
+Delta,2023-12-07,4h 21mLGA-DFW,nonstop,6:00 am – 9:21 am,Basic Economy,$109
+American Airlines,2023-12-07,4h 15mLGA-DFW,nonstop,5:55 am – 9:10 am,Basic Economy,$109
+United Airlines,2023-12-07,4h 04mEWR-DFW,nonstop,2:00 pm – 5:04 pm,Basic Economy,$109
+Delta,2023-12-07,4h 23mLGA-DFW,nonstop,1:15 pm – 4:38 pm,Basic Economy,$129
+Delta,2023-12-07,4h 21mLGA-DFW,nonstop,11:25 am – 2:46 pm,Basic Economy,$129
+American Airlines,2023-12-07,4h 16mEWR-DFW,nonstop,9:00 am – 12:16 pm,Basic Economy,$139
+American Airlines,2023-12-07,4h 16mEWR-DFW,nonstop,6:00 am – 9:16 am,Basic Economy,$139
+American Airlines,2023-12-07,4h 14mEWR-DFW,nonstop,1:16 pm – 4:30 pm,Basic Economy,$139
+United Airlines,2023-12-07,4h 08mEWR-DFW,nonstop,3:20 pm – 6:28 pm,Basic Economy,$149
+Frontier,2023-12-08,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$64
+Spirit Airlines,2023-12-08,4h 12mLGA-DFW,nonstop,12:59 pm – 4:11 pm,Economy,$66
+Frontier,2023-12-08,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$59
+Spirit Airlines,2023-12-08,4h 11mEWR-DFW,nonstop,11:26 am – 2:37 pm,Economy,$117
+Delta,2023-12-08,4h 29mJFK-DFW,nonstop,6:15 pm – 9:44 pm,Basic Economy,$119
+American Airlines,2023-12-08,4h 24mLGA-DFW,nonstop,3:59 pm – 7:23 pm,Basic Economy,$154
+American Airlines,2023-12-08,4h 29mLGA-DFW,nonstop,6:59 pm – 10:28 pm,Basic Economy,$154
+American Airlines,2023-12-08,4h 25mLGA-DFW,nonstop,7:29 am – 10:54 am,Basic Economy,$154
+American Airlines,2023-12-08,4h 26mLGA-DFW,nonstop,9:59 am – 1:25 pm,Basic Economy,$154
+Spirit Airlines,2023-12-08,7h 11mLGA-DFW,1 stop,2:59 pm – 9:10 pm,Economy,$83
+United Airlines,2023-12-08,4h 08mEWR-DFW,nonstop,6:52 pm – 10:00 pm,Basic Economy,$166
+Delta,2023-12-08,4h 29mLGA-DFW,nonstop,7:45 pm – 11:14 pm,Basic Economy,$129
+American Airlines,2023-12-08,4h 14mJFK-DFW,nonstop,2:30 pm – 5:44 pm,Basic Economy,$164
+American Airlines,2023-12-08,4h 28mJFK-DFW,nonstop,8:00 am – 11:28 am,Basic Economy,$164
+United Airlines,2023-12-08,4h 03mEWR-DFW,nonstop,6:59 am – 10:02 am,Basic Economy,$179
+American Airlines,2023-12-08,4h 15mLGA-DFW,nonstop,5:55 am – 9:10 am,Basic Economy,$154
+Frontier,2023-12-09,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$44
+Frontier,2023-12-09,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$39
+Spirit Airlines,2023-12-09,4h 12mEWR-DFW,nonstop,1:10 pm – 4:22 pm,Economy,$60
+Spirit Airlines,2023-12-09,4h 12mLGA-DFW,nonstop,12:59 pm – 4:11 pm,Economy,$61
+Delta,2023-12-09,4h 31mJFK-DFW,nonstop,8:40 am – 12:11 pm,Basic Economy,$99
+United Airlines,2023-12-09,4h 08mEWR-DFW,nonstop,6:55 pm – 10:03 pm,Basic Economy,$99
+Delta,2023-12-09,4h 21mLGA-DFW,nonstop,2:00 pm – 5:21 pm,Basic Economy,$129
+American Airlines,2023-12-09,4h 12mEWR-DFW,nonstop,1:25 pm – 4:37 pm,Basic Economy,$139
+American Airlines,2023-12-09,4h 14mJFK-DFW,nonstop,2:30 pm – 5:44 pm,Basic Economy,$151
+American Airlines,2023-12-09,4h 17mLGA-DFW,nonstop,8:20 am – 11:37 am,Basic Economy,$154
+American Airlines,2023-12-09,4h 15mLGA-DFW,nonstop,5:55 am – 9:10 am,Basic Economy,$154
+American Airlines,2023-12-09,4h 21mLGA-DFW,nonstop,9:29 am – 12:50 pm,Basic Economy,$154
+American Airlines,2023-12-09,4h 25mLGA-DFW,nonstop,7:29 am – 10:54 am,Basic Economy,$154
+American Airlines,2023-12-09,4h 16mJFK-DFW,nonstop,4:20 pm – 7:36 pm,Basic Economy,$159
+American Airlines,2023-12-09,4h 28mJFK-DFW,nonstop,8:00 am – 11:28 am,Basic Economy,$159
+United Airlines,2023-12-09,4h 04mEWR-DFW,nonstop,2:00 pm – 5:04 pm,Basic Economy,$173
+Frontier,2023-12-10,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$123
+Frontier,2023-12-10,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$105
+"Frontier, Spirit Airlines",2023-12-10,26h 16mLGA-DFW,1 stop,11:09 pm – 12:25 am+2,Economy,$77
+Delta,2023-12-10,4h 21mLGA-DFW,nonstop,6:00 am – 9:21 am,Basic Economy,$119
+American Airlines,2023-12-10,4h 26mLGA-DFW,nonstop,6:35 am – 10:01 am,Basic Economy,$164
+Spirit Airlines,2023-12-10,4h 11mEWR-DFW,nonstop,11:10 am – 2:21 pm,Economy,$147
+American Airlines,2023-12-10,4h 15mLGA-DFW,nonstop,5:55 am – 9:10 am,Basic Economy,$164
+Delta,2023-12-10,4h 31mJFK-DFW,nonstop,8:40 am – 12:11 pm,Basic Economy,$199
+American Airlines,2023-12-10,4h 28mJFK-DFW,nonstop,8:00 am – 11:28 am,Basic Economy,$229
+Spirit Airlines,2023-12-10,4h 12mLGA-DFW,nonstop,12:59 pm – 4:11 pm,Economy,$194
+American Airlines,2023-12-10,4h 22mLGA-DFW,nonstop,7:30 am – 10:52 am,Basic Economy,$229
+American Airlines,2023-12-10,4h 17mLGA-DFW,nonstop,8:25 am – 11:42 am,Basic Economy,$229
+United Airlines,2023-12-10,4h 03mEWR-DFW,nonstop,6:59 am – 10:02 am,Basic Economy,$246
+American Airlines,2023-12-10,4h 16mEWR-DFW,nonstop,9:00 am – 12:16 pm,Main Cabin,$299
+Delta,2023-12-10,4h 21mLGA-DFW,nonstop,8:25 am – 11:46 am,Main Cabin,$319
+American Airlines,2023-12-10,4h 20mLGA-DFW,nonstop,5:59 pm – 9:19 pm,Main Cabin,$321
+American Airlines,2023-12-10,4h 21mLGA-DFW,nonstop,9:29 am – 12:50 pm,Main Cabin,$321
+Frontier,2023-12-11,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$39
+Spirit Airlines,2023-12-11,4h 11mEWR-DFW,nonstop,11:26 am – 2:37 pm,Economy,$59
+Spirit Airlines,2023-12-11,7h 32mLGA-DFW,1 stop,4:35 pm – 11:07 pm,Economy,$77
+Spirit Airlines,2023-12-11,7h 40mLGA-DFW,1 stop,2:59 pm – 9:39 pm,Economy,$77
+Spirit Airlines,2023-12-11,7h 47mEWR-DFW,1 stop,2:52 pm – 9:39 pm,Economy,$77
+American Airlines,2023-12-11,5h 50mLGA-DFW,1 stop,6:00 am – 10:50 am,Basic Economy,$119
+Spirit Airlines,2023-12-11,7h 32mEWR-DFW,1 stop,4:38 pm – 11:10 pm,Economy,$90
+United Airlines,2023-12-11,4h 08mEWR-DFW,nonstop,3:20 pm – 6:28 pm,Basic Economy,$149
+Spirit Airlines,2023-12-11,6h 41mEWR-DFW,1 stop,2:59 pm – 8:40 pm,Economy,$108
+American Airlines,2023-12-11,6h 08mEWR-DFW,1 stop,7:34 pm – 12:42 am+1,Basic Economy,$127
+United Airlines,2023-12-11,4h 32mEWR-DFW,nonstop,8:07 am – 11:39 am,Basic Economy,$149
+Spirit Airlines,2023-12-11,9h 15mEWR-DFW,1 stop,2:52 pm – 11:07 pm,Economy,$77
+American Airlines,2023-12-11,4h 29mLGA-DFW,nonstop,6:59 pm – 10:28 pm,Basic Economy,$154
+American Airlines,2023-12-11,4h 25mLGA-DFW,nonstop,7:29 am – 10:54 am,Basic Economy,$154
+Spirit Airlines,2023-12-11,4h 12mLGA-DFW,nonstop,12:59 pm – 4:11 pm,Economy,$152
+Frontier,2023-12-12,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$41
+Frontier,2023-12-12,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$36
+Spirit Airlines,2023-12-12,4h 12mEWR-DFW,nonstop,1:50 pm – 5:02 pm,Economy,$60
+Spirit Airlines,2023-12-12,4h 12mLGA-DFW,nonstop,12:59 pm – 4:11 pm,Economy,$61
+Delta,2023-12-12,4h 31mJFK-DFW,nonstop,8:40 am – 12:11 pm,Basic Economy,$99
+Delta,2023-12-12,4h 29mLGA-DFW,nonstop,3:46 pm – 7:15 pm,Basic Economy,$99
+Delta,2023-12-12,4h 29mLGA-DFW,nonstop,7:45 pm – 11:14 pm,Basic Economy,$99
+United Airlines,2023-12-12,4h 32mEWR-DFW,nonstop,8:07 am – 11:39 am,Basic Economy,$99
+Delta,2023-12-12,4h 23mLGA-DFW,nonstop,1:15 pm – 4:38 pm,Basic Economy,$99
+Delta,2023-12-12,4h 21mLGA-DFW,nonstop,6:00 am – 9:21 am,Basic Economy,$99
+Delta,2023-12-12,4h 21mLGA-DFW,nonstop,8:25 am – 11:46 am,Basic Economy,$99
+American Airlines,2023-12-12,4h 18mEWR-DFW,nonstop,4:44 pm – 8:02 pm,Basic Economy,$99
+American Airlines,2023-12-12,4h 17mEWR-DFW,nonstop,1:35 pm – 4:52 pm,Basic Economy,$99
+American Airlines,2023-12-12,4h 16mEWR-DFW,nonstop,6:00 am – 9:16 am,Basic Economy,$99
+American Airlines,2023-12-12,4h 16mEWR-DFW,nonstop,9:00 am – 12:16 pm,Basic Economy,$99
+United Airlines,2023-12-12,4h 08mEWR-DFW,nonstop,6:52 pm – 10:00 pm,Basic Economy,$99
+Frontier,2023-12-13,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$41
+Frontier,2023-12-13,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$36
+Spirit Airlines,2023-12-13,4h 12mEWR-DFW,nonstop,1:50 pm – 5:02 pm,Economy,$59
+Spirit Airlines,2023-12-13,4h 12mLGA-DFW,nonstop,12:59 pm – 4:11 pm,Economy,$60
+Delta,2023-12-13,4h 31mJFK-DFW,nonstop,8:40 am – 12:11 pm,Basic Economy,$99
+Delta,2023-12-13,4h 29mJFK-DFW,nonstop,6:15 pm – 9:44 pm,Basic Economy,$99
+United Airlines,2023-12-13,4h 32mEWR-DFW,nonstop,8:07 am – 11:39 am,Basic Economy,$99
+Delta,2023-12-13,4h 29mLGA-DFW,nonstop,3:46 pm – 7:15 pm,Basic Economy,$99
+Delta,2023-12-13,4h 23mLGA-DFW,nonstop,1:15 pm – 4:38 pm,Basic Economy,$99
+Delta,2023-12-13,4h 21mLGA-DFW,nonstop,6:00 am – 9:21 am,Basic Economy,$99
+American Airlines,2023-12-13,4h 16mEWR-DFW,nonstop,6:00 am – 9:16 am,Basic Economy,$99
+Delta,2023-12-13,4h 21mLGA-DFW,nonstop,11:25 am – 2:46 pm,Basic Economy,$99
+Delta,2023-12-13,4h 21mLGA-DFW,nonstop,8:25 am – 11:46 am,Basic Economy,$99
+American Airlines,2023-12-13,4h 16mEWR-DFW,nonstop,9:00 am – 12:16 pm,Basic Economy,$99
+United Airlines,2023-12-13,4h 08mEWR-DFW,nonstop,6:52 pm – 10:00 pm,Basic Economy,$99
+United Airlines,2023-12-13,4h 08mEWR-DFW,nonstop,3:20 pm – 6:28 pm,Basic Economy,$99
+Spirit Airlines,2023-12-14,4h 12mEWR-DFW,nonstop,1:50 pm – 5:02 pm,Economy,$63
+Spirit Airlines,2023-12-14,4h 12mEWR-DFW,nonstop,1:50 pm – 5:02 pm,Economy,$59
+Spirit Airlines,2023-12-14,11h 42mEWR-DFW,1 stop,1:43 pm – 12:25 am+1,Economy,$48
+Frontier,2023-12-14,4h 13mLGA-DFW,nonstop,11:01 pm – 2:14 am+1,Economy,$59
+Spirit Airlines,2023-12-14,4h 12mLGA-DFW,nonstop,12:59 pm – 4:11 pm,Economy,$60
+Delta,2023-12-14,4h 29mJFK-DFW,nonstop,6:15 pm – 9:44 pm,Basic Economy,$109
+Delta,2023-12-14,4h 31mJFK-DFW,nonstop,8:40 am – 12:11 pm,Basic Economy,$109
+Delta,2023-12-14,4h 23mLGA-DFW,nonstop,1:15 pm – 4:38 pm,Basic Economy,$109
+Delta,2023-12-14,4h 21mLGA-DFW,nonstop,8:25 am – 11:46 am,Basic Economy,$109
+Delta,2023-12-14,4h 21mLGA-DFW,nonstop,6:00 am – 9:21 am,Basic Economy,$109
+American Airlines,2023-12-14,4h 15mLGA-DFW,nonstop,5:55 am – 9:10 am,Basic Economy,$109
+United Airlines,2023-12-14,4h 03mEWR-DFW,nonstop,7:44 am – 10:47 am,Basic Economy,$109
+American Airlines,2023-12-14,4h 16mEWR-DFW,nonstop,6:00 am – 9:16 am,Basic Economy,$119
+American Airlines,2023-12-14,4h 16mEWR-DFW,nonstop,9:00 am – 12:16 pm,Basic Economy,$119
+Delta,2023-12-14,4h 29mLGA-DFW,nonstop,7:45 pm – 11:14 pm,Basic Economy,$129
+Delta,2023-12-14,4h 29mLGA-DFW,nonstop,3:46 pm – 7:15 pm,Basic Economy,$129
+Delta,2023-12-14,4h 21mLGA-DFW,nonstop,11:25 am – 2:46 pm,Basic Economy,$129
+Frontier,2023-12-15,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$64
+Frontier,2023-12-15,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$59
+Spirit Airlines,2023-12-15,4h 12mLGA-DFW,nonstop,12:59 pm – 4:11 pm,Economy,$64
+Spirit Airlines,2023-12-15,4h 11mEWR-DFW,nonstop,11:26 am – 2:37 pm,Economy,$63
+American Airlines,2023-12-15,4h 16mEWR-DFW,nonstop,6:00 am – 9:16 am,Basic Economy,$119
+Delta,2023-12-15,4h 21mLGA-DFW,nonstop,6:00 am – 9:21 am,Basic Economy,$129
+American Airlines,2023-12-15,4h 18mEWR-DFW,nonstop,5:27 pm – 8:45 pm,Basic Economy,$139
+American Airlines,2023-12-15,4h 17mEWR-DFW,nonstop,1:18 pm – 4:35 pm,Basic Economy,$139
+American Airlines,2023-12-15,4h 26mLGA-DFW,nonstop,9:59 am – 1:25 pm,Basic Economy,$154
+American Airlines,2023-12-15,4h 25mLGA-DFW,nonstop,7:29 am – 10:54 am,Basic Economy,$154
+American Airlines,2023-12-15,4h 24mLGA-DFW,nonstop,3:59 pm – 7:23 pm,Basic Economy,$154
+American Airlines,2023-12-15,4h 21mLGA-DFW,nonstop,1:55 pm – 5:16 pm,Basic Economy,$154
+American Airlines,2023-12-15,4h 19mLGA-DFW,nonstop,12:29 pm – 3:48 pm,Basic Economy,$154
+Delta,2023-12-15,4h 23mLGA-DFW,nonstop,1:15 pm – 4:38 pm,Basic Economy,$159
+Delta,2023-12-15,4h 21mLGA-DFW,nonstop,11:25 am – 2:46 pm,Basic Economy,$159
+American Airlines,2023-12-15,4h 28mJFK-DFW,nonstop,8:00 am – 11:28 am,Basic Economy,$164
+Spirit Airlines,2023-12-16,4h 12mEWR-DFW,nonstop,1:10 pm – 4:22 pm,Economy,$63
+Spirit Airlines,2023-12-16,4h 12mEWR-DFW,nonstop,1:10 pm – 4:22 pm,Economy,$59
+Spirit Airlines,2023-12-16,9h 22mEWR-DFW,1 stop,2:58 pm – 11:20 pm,Economy,$46
+Spirit Airlines,2023-12-16,4h 12mLGA-DFW,nonstop,12:59 pm – 4:11 pm,Economy,$60
+Frontier,2023-12-16,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$69
+United Airlines,2023-12-16,4h 08mEWR-DFW,nonstop,6:55 pm – 10:03 pm,Basic Economy,$99
+American Airlines,2023-12-16,4h 15mLGA-DFW,nonstop,5:55 am – 9:10 am,Basic Economy,$154
+United Airlines,2023-12-16,4h 04mEWR-DFW,nonstop,2:00 pm – 5:04 pm,Basic Economy,$173
+United Airlines,2023-12-16,4h 17mEWR-DFW,nonstop,12:15 pm – 3:32 pm,Basic Economy,$208
+American Airlines,2023-12-16,4h 16mEWR-DFW,nonstop,6:00 am – 9:16 am,Basic Economy,$209
+American Airlines,2023-12-16,4h 17mLGA-DFW,nonstop,8:20 am – 11:37 am,Basic Economy,$209
+American Airlines,2023-12-16,4h 14mJFK-DFW,nonstop,2:30 pm – 5:44 pm,Basic Economy,$219
+Delta,2023-12-16,5h 45mEWR-DFW,1 stop,6:00 am – 10:45 am,Basic Economy,$109
+American Airlines,2023-12-16,6h 12mEWR-DFW,1 stop,5:57 pm – 11:09 pm,Basic Economy,$109
+Spirit Airlines,2023-12-16,10h 53mLGA-DFW,1 stop,9:50 am – 7:43 pm,Economy,$61
+Spirit Airlines,2023-12-16,8h 31mLGA-DFW,1 stop,2:59 pm – 10:30 pm,Economy,$78
+Spirit Airlines,2023-12-17,4h 11mEWR-DFW,nonstop,11:10 am – 2:21 pm,Economy,$67
+Spirit Airlines,2023-12-17,4h 11mEWR-DFW,nonstop,11:10 am – 2:21 pm,Economy,$63
+Frontier,2023-12-17,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$118
+Spirit Airlines,2023-12-17,4h 12mLGA-DFW,nonstop,12:59 pm – 4:11 pm,Economy,$124
+American Airlines,2023-12-17,4h 28mJFK-DFW,nonstop,8:00 am – 11:28 am,Basic Economy,$174
+Delta,2023-12-17,4h 17mLGA-DFW,nonstop,6:00 am – 9:17 am,Basic Economy,$189
+Delta,2023-12-17,4h 21mLGA-DFW,nonstop,8:25 am – 11:46 am,Basic Economy,$219
+American Airlines,2023-12-17,4h 16mEWR-DFW,nonstop,6:00 am – 9:16 am,Basic Economy,$219
+United Airlines,2023-12-17,4h 08mEWR-DFW,nonstop,6:52 pm – 10:00 pm,Basic Economy,$246
+Delta,2023-12-17,4h 26mLGA-DFW,nonstop,11:29 am – 2:55 pm,Main Cabin,$259
+Delta,2023-12-17,4h 26mJFK-DFW,nonstop,9:00 am – 12:26 pm,Main Cabin,$279
+American Airlines,2023-12-17,4h 18mEWR-DFW,nonstop,5:27 pm – 8:45 pm,Main Cabin,$299
+United Airlines,2023-12-17,4h 04mEWR-DFW,nonstop,2:00 pm – 5:04 pm,Economy,$319
+American Airlines,2023-12-17,4h 15mLGA-DFW,nonstop,5:55 am – 9:10 am,Main Cabin,$321
+American Airlines,2023-12-17,4h 17mLGA-DFW,nonstop,8:25 am – 11:42 am,Main Cabin,$321
+American Airlines,2023-12-17,4h 22mLGA-DFW,nonstop,7:30 am – 10:52 am,Main Cabin,$321
+Spirit Airlines,2023-12-18,4h 11mEWR-DFW,nonstop,11:26 am – 2:37 pm,Economy,$63
+Spirit Airlines,2023-12-18,4h 11mEWR-DFW,nonstop,11:26 am – 2:37 pm,Economy,$59
+Spirit Airlines,2023-12-18,11h 28mLGA-DFW,1 stop,8:52 am – 7:20 pm,Economy,$54
+Spirit Airlines,2023-12-18,4h 12mLGA-DFW,nonstop,12:59 pm – 4:11 pm,Economy,$94
+United Airlines,2023-12-18,4h 03mEWR-DFW,nonstop,7:44 am – 10:47 am,Basic Economy,$109
+Frontier,2023-12-18,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$120
+American Airlines,2023-12-18,4h 16mEWR-DFW,nonstop,9:00 am – 12:16 pm,Basic Economy,$139
+Delta,2023-12-18,4h 21mLGA-DFW,nonstop,12:55 pm – 4:16 pm,Basic Economy,$189
+American Airlines,2023-12-18,4h 20mLGA-DFW,nonstop,5:59 pm – 9:19 pm,Basic Economy,$209
+American Airlines,2023-12-18,4h 18mEWR-DFW,nonstop,4:44 pm – 8:02 pm,Basic Economy,$209
+Delta,2023-12-18,4h 21mLGA-DFW,nonstop,8:25 am – 11:46 am,Basic Economy,$219
+Delta,2023-12-18,4h 17mLGA-DFW,nonstop,6:00 am – 9:17 am,Basic Economy,$219
+American Airlines,2023-12-18,4h 25mLGA-DFW,nonstop,7:29 am – 10:54 am,Basic Economy,$256
+American Airlines,2023-12-18,4h 29mLGA-DFW,nonstop,6:59 pm – 10:28 pm,Basic Economy,$256
+American Airlines,2023-12-18,4h 28mJFK-DFW,nonstop,8:00 am – 11:28 am,Main Cabin,$269
+Delta,2023-12-18,4h 26mJFK-DFW,nonstop,9:00 am – 12:26 pm,Main Cabin,$279
+Spirit Airlines,2023-12-19,4h 12mEWR-DFW,nonstop,1:50 pm – 5:02 pm,Economy,$63
+Spirit Airlines,2023-12-19,4h 12mEWR-DFW,nonstop,1:50 pm – 5:02 pm,Economy,$59
+Spirit Airlines,2023-12-19,7h 37mEWR-DFW,1 stop,2:58 pm – 9:35 pm,Economy,$49
+Spirit Airlines,2023-12-19,4h 12mLGA-DFW,nonstop,12:59 pm – 4:11 pm,Economy,$60
+Frontier,2023-12-19,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$118
+Delta,2023-12-19,4h 21mLGA-DFW,nonstop,8:25 am – 11:46 am,Basic Economy,$189
+American Airlines,2023-12-19,4h 21mLGA-DFW,nonstop,1:55 pm – 5:16 pm,Basic Economy,$199
+American Airlines,2023-12-19,4h 19mLGA-DFW,nonstop,12:29 pm – 3:48 pm,Basic Economy,$199
+American Airlines,2023-12-19,4h 17mEWR-DFW,nonstop,1:35 pm – 4:52 pm,Basic Economy,$209
+Delta,2023-12-19,4h 17mLGA-DFW,nonstop,6:00 am – 9:17 am,Basic Economy,$219
+Delta,2023-12-19,4h 26mJFK-DFW,nonstop,9:00 am – 12:26 pm,Basic Economy,$229
+United Airlines,2023-12-19,4h 05mEWR-DFW,nonstop,12:20 pm – 3:25 pm,Basic Economy,$231
+United Airlines,2023-12-19,4h 08mEWR-DFW,nonstop,6:52 pm – 10:00 pm,Basic Economy,$234
+United Airlines,2023-12-19,4h 03mEWR-DFW,nonstop,6:59 am – 10:02 am,Basic Economy,$234
+Delta,2023-12-19,4h 21mLGA-DFW,nonstop,12:55 pm – 4:16 pm,Main Cabin,$259
+American Airlines,2023-12-19,4h 29mLGA-DFW,nonstop,6:59 pm – 10:28 pm,Basic Economy,$256
+Spirit Airlines,2023-12-20,9h 55mLGA-DFW,1 stop,12:00 pm – 8:55 pm,Economy,$99
+Frontier,2023-12-20,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$159
+Spirit Airlines,2023-12-20,9h 55mLGA-DFW,1 stop,12:00 pm – 8:55 pm,Economy,$93
+Spirit Airlines,2023-12-20,4h 12mEWR-DFW,nonstop,1:50 pm – 5:02 pm,Economy,$169
+Spirit Airlines,2023-12-20,4h 12mLGA-DFW,nonstop,12:59 pm – 4:11 pm,Economy,$194
+Delta,2023-12-20,4h 25mLGA-DFW,nonstop,7:25 pm – 10:50 pm,Main Cabin,$259
+United Airlines,2023-12-20,4h 08mEWR-DFW,nonstop,6:52 pm – 10:00 pm,Basic Economy,$234
+American Airlines,2023-12-20,4h 16mLGA-DFW,nonstop,5:59 am – 9:15 am,Main Cabin,$309
+United Airlines,2023-12-20,4h 05mEWR-DFW,nonstop,12:20 pm – 3:25 pm,Economy,$284
+Delta,2023-12-20,4h 26mLGA-DFW,nonstop,11:29 am – 2:55 pm,Main Cabin,$319
+Delta,2023-12-20,4h 21mLGA-DFW,nonstop,8:25 am – 11:46 am,Main Cabin,$319
+Delta,2023-12-20,4h 17mLGA-DFW,nonstop,6:00 am – 9:17 am,Main Cabin,$319
+United Airlines,2023-12-20,4h 04mEWR-DFW,nonstop,2:00 pm – 5:04 pm,Economy,$293
+Delta,2023-12-20,4h 26mJFK-DFW,nonstop,9:00 am – 12:26 pm,Main Cabin,$329
+American Airlines,2023-12-20,4h 24mJFK-DFW,nonstop,8:01 am – 11:25 am,Main Cabin,$374
+Spirit Airlines,2023-12-20,7h 48mEWR-DFW,1 stop,9:52 am – 4:40 pm,Economy,$109
+Spirit Airlines,2023-12-21,4h 12mEWR-DFW,nonstop,1:50 pm – 5:02 pm,Economy,$173
+Spirit Airlines,2023-12-21,4h 12mEWR-DFW,nonstop,1:50 pm – 5:02 pm,Economy,$169
+"Spirit Airlines, Breeze Airways",2023-12-21,14h 15mEWR-DFW,2 stops,9:55 am – 11:10 pm,Economy,$145
+Spirit Airlines,2023-12-21,4h 12mLGA-DFW,nonstop,12:59 pm – 4:11 pm,Economy,$230
+Frontier,2023-12-21,4h 13mLGA-DFW,nonstop,11:01 pm – 2:14 am+1,Economy,$249
+United Airlines,2023-12-21,4h 15mEWR-DFW,nonstop,7:57 am – 11:12 am,Economy,$341
+Spirit Airlines,2023-12-21,6h 47mEWR-DFW,1 stop,9:52 am – 3:39 pm,Economy,$154
+American Airlines,2023-12-21,4h 18mLGA-DFW,nonstop,7:31 am – 10:49 am,Main Cabin,$359
+American Airlines,2023-12-21,4h 24mJFK-DFW,nonstop,8:01 am – 11:25 am,Main Cabin,$374
+United Airlines,2023-12-21,4h 13mEWR-DFW,nonstop,8:30 pm – 11:43 pm,Economy,$375
+American Airlines,2023-12-21,4h 16mEWR-DFW,nonstop,9:01 am – 12:17 pm,Main Cabin,$378
+American Airlines,2023-12-21,4h 14mEWR-DFW,nonstop,6:01 am – 9:15 am,Main Cabin,$378
+United Airlines,2023-12-21,4h 08mEWR-DFW,nonstop,2:15 pm – 5:23 pm,Economy,$375
+Spirit Airlines,2023-12-21,8h 03mLGA-DFW,1 stop,8:52 am – 3:55 pm,Economy,$149
+Delta,2023-12-21,4h 17mLGA-DFW,nonstop,6:00 am – 9:17 am,Main Cabin,$429
+Delta,2023-12-21,4h 21mLGA-DFW,nonstop,8:25 am – 11:46 am,Main Cabin,$429
+Delta,2023-12-21,4h 21mLGA-DFW,nonstop,12:55 pm – 4:16 pm,Main Cabin,$429
+Spirit Airlines,2023-12-22,12h 35mLGA-DFW,1 stop,9:10 pm – 8:45 am+1,Economy,$210
+Spirit Airlines,2023-12-22,4h 11mEWR-DFW,nonstop,11:26 am – 2:37 pm,Economy,$278
+Spirit Airlines,2023-12-22,12h 35mLGA-DFW,1 stop,9:10 pm – 8:45 am+1,Economy,$210
+American Airlines,2023-12-22,4h 14mEWR-DFW,nonstop,6:01 am – 9:15 am,Main Cabin,$289
+Spirit Airlines,2023-12-22,4h 12mLGA-DFW,nonstop,12:59 pm – 4:11 pm,Economy,$290
+Delta,2023-12-22,4h 26mLGA-DFW,nonstop,11:29 am – 2:55 pm,Main Cabin,$379
+Delta,2023-12-22,4h 26mJFK-DFW,nonstop,9:00 am – 12:26 pm,Main Cabin,$389
+United Airlines,2023-12-22,4h 15mEWR-DFW,nonstop,7:57 am – 11:12 am,Economy,$378
+Frontier,2023-12-22,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$439
+Spirit Airlines,2023-12-22,7h 11mLGA-DFW,1 stop,2:59 pm – 9:10 pm,Economy,$241
+Delta,2023-12-22,4h 25mLGA-DFW,nonstop,3:10 pm – 6:35 pm,Main Cabin,$459
+Delta,2023-12-22,4h 25mLGA-DFW,nonstop,7:25 pm – 10:50 pm,Main Cabin,$459
+Delta,2023-12-22,4h 29mJFK-DFW,nonstop,6:15 pm – 9:44 pm,Main Cabin,$459
+Delta,2023-12-22,4h 21mLGA-DFW,nonstop,12:55 pm – 4:16 pm,Main Cabin,$459
+Delta,2023-12-22,4h 21mLGA-DFW,nonstop,8:25 am – 11:46 am,Main Cabin,$459
+Delta,2023-12-22,4h 17mLGA-DFW,nonstop,6:00 am – 9:17 am,Main Cabin,$459
+United Airlines,2023-12-22,4h 13mEWR-DFW,nonstop,7:29 pm – 10:42 pm,Economy,$457
+Spirit Airlines,2023-12-23,4h 12mEWR-DFW,nonstop,1:10 pm – 4:22 pm,Economy,$233
+Spirit Airlines,2023-12-23,4h 12mEWR-DFW,nonstop,1:10 pm – 4:22 pm,Economy,$225
+Spirit Airlines,2023-12-23,9h 01mEWR-DFW,1 stop,3:09 pm – 11:10 pm,Economy,$216
+Frontier,2023-12-23,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$229
+Spirit Airlines,2023-12-23,4h 12mLGA-DFW,nonstop,12:59 pm – 4:11 pm,Economy,$230
+American Airlines,2023-12-23,4h 25mEWR-DFW,nonstop,7:01 am – 10:26 am,Main Cabin,$289
+American Airlines,2023-12-23,4h 14mEWR-DFW,nonstop,6:01 am – 9:15 am,Main Cabin,$289
+American Airlines,2023-12-23,4h 22mEWR-DFW,nonstop,5:37 pm – 8:59 pm,Main Cabin,$378
+American Airlines,2023-12-23,4h 14mJFK-DFW,nonstop,4:21 pm – 7:35 pm,Main Cabin,$374
+American Airlines,2023-12-23,4h 14mJFK-DFW,nonstop,2:31 pm – 5:45 pm,Main Cabin,$374
+United Airlines,2023-12-23,4h 13mEWR-DFW,nonstop,8:30 pm – 11:43 pm,Economy,$375
+American Airlines,2023-12-23,4h 12mEWR-DFW,nonstop,12:43 pm – 3:55 pm,Main Cabin,$378
+Delta,2023-12-23,4h 29mJFK-DFW,nonstop,6:15 pm – 9:44 pm,Main Cabin,$459
+Delta,2023-12-23,4h 29mLGA-DFW,nonstop,3:30 pm – 6:59 pm,Main Cabin,$459
+Delta,2023-12-23,4h 26mJFK-DFW,nonstop,9:00 am – 12:26 pm,Main Cabin,$459
+Delta,2023-12-23,4h 25mLGA-DFW,nonstop,7:25 pm – 10:50 pm,Main Cabin,$459
+Spirit Airlines,2023-12-24,4h 11mEWR-DFW,nonstop,11:10 am – 2:21 pm,Economy,$169
+Spirit Airlines,2023-12-24,13h 43mLGA-DFW,1 stop,8:34 pm – 9:17 am+1,Economy,$152
+Spirit Airlines,2023-12-24,4h 12mLGA-DFW,nonstop,12:59 pm – 4:11 pm,Economy,$194
+United Airlines,2023-12-24,4h 13mEWR-DFW,nonstop,8:30 pm – 11:43 pm,Basic Economy,$246
+Delta,2023-12-24,4h 27mLGA-DFW,nonstop,6:55 pm – 10:22 pm,Main Cabin,$259
+Delta,2023-12-24,4h 29mJFK-DFW,nonstop,6:15 pm – 9:44 pm,Main Cabin,$279
+American Airlines,2023-12-24,4h 12mEWR-DFW,nonstop,12:43 pm – 3:55 pm,Main Cabin,$299
+American Airlines,2023-12-24,4h 14mEWR-DFW,nonstop,6:01 am – 9:15 am,Main Cabin,$299
+United Airlines,2023-12-24,4h 08mEWR-DFW,nonstop,2:15 pm – 5:23 pm,Economy,$317
+Frontier,2023-12-24,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$229
+American Airlines,2023-12-24,4h 17mLGA-DFW,nonstop,2:34 pm – 5:51 pm,Main Cabin,$321
+American Airlines,2023-12-24,4h 24mJFK-DFW,nonstop,8:01 am – 11:25 am,Main Cabin,$329
+United Airlines,2023-12-24,6h 15mEWR-DFW,1 stop,5:45 pm – 11:00 pm,Basic Economy,$260
+United Airlines,2023-12-24,4h 15mEWR-DFW,nonstop,7:50 am – 11:05 am,Economy,$356
+Spirit Airlines,2023-12-24,6h 52mEWR-DFW,1 stop,4:38 pm – 10:30 pm,Economy,$216
+American Airlines,2023-12-24,6h 13mLGA-DFW,1 stop,10:29 am – 3:42 pm,Basic Economy,$276
+Spirit Airlines,2023-12-25,4h 12mLGA-DFW,nonstop,12:59 pm – 4:11 pm,Economy,$154
+Spirit Airlines,2023-12-25,11h 28mLGA-DFW,1 stop,8:52 am – 7:20 pm,Economy,$124
+American Airlines,2023-12-25,4h 22mEWR-DFW,nonstop,5:37 pm – 8:59 pm,Basic Economy,$209
+American Airlines,2023-12-25,4h 14mEWR-DFW,nonstop,6:01 am – 9:15 am,Basic Economy,$209
+American Airlines,2023-12-25,4h 23mEWR-DFW,nonstop,9:01 am – 12:24 pm,Basic Economy,$209
+United Airlines,2023-12-25,4h 15mEWR-DFW,nonstop,7:50 am – 11:05 am,Basic Economy,$219
+United Airlines,2023-12-25,4h 08mEWR-DFW,nonstop,2:15 pm – 5:23 pm,Basic Economy,$246
+United Airlines,2023-12-25,4h 13mEWR-DFW,nonstop,8:30 pm – 11:43 pm,Basic Economy,$219
+Frontier,2023-12-25,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$174
+Delta,2023-12-25,4h 26mLGA-DFW,nonstop,5:25 pm – 8:51 pm,Basic Economy,$219
+Delta,2023-12-25,4h 23mLGA-DFW,nonstop,1:10 pm – 4:33 pm,Main Cabin,$259
+American Airlines,2023-12-25,6h 45mJFK-DFW,1 stop,12:10 pm – 5:55 pm,Basic Economy,$174
+American Airlines,2023-12-25,4h 14mJFK-DFW,nonstop,4:21 pm – 7:35 pm,Main Cabin,$269
+Delta,2023-12-25,4h 26mLGA-DFW,nonstop,7:00 am – 10:26 am,Main Cabin,$259
+American Airlines,2023-12-25,5h 50mLGA-DFW,1 stop,5:00 pm – 9:50 pm,Basic Economy,$219
+American Airlines,2023-12-25,4h 24mJFK-DFW,nonstop,8:01 am – 11:25 am,Main Cabin,$269
+Frontier,2023-12-26,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$155
+Frontier,2023-12-26,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$150
+Spirit Airlines,2023-12-26,4h 12mLGA-DFW,nonstop,12:59 pm – 4:11 pm,Economy,$193
+Spirit Airlines,2023-12-26,4h 12mEWR-DFW,nonstop,1:50 pm – 5:02 pm,Economy,$224
+United Airlines,2023-12-26,4h 13mEWR-DFW,nonstop,8:30 pm – 11:43 pm,Basic Economy,$245
+Delta,2023-12-26,4h 25mLGA-DFW,nonstop,7:25 pm – 10:50 pm,Main Cabin,$319
+Delta,2023-12-26,4h 21mLGA-DFW,nonstop,8:25 am – 11:46 am,Main Cabin,$319
+American Airlines,2023-12-26,4h 16mLGA-DFW,nonstop,5:59 am – 9:15 am,Main Cabin,$359
+United Airlines,2023-12-26,4h 08mEWR-DFW,nonstop,2:15 pm – 5:23 pm,Economy,$341
+American Airlines,2023-12-26,4h 24mJFK-DFW,nonstop,8:01 am – 11:25 am,Main Cabin,$374
+Delta,2023-12-26,4h 31mLGA-DFW,nonstop,10:05 am – 1:36 pm,Main Cabin,$379
+American Airlines,2023-12-26,4h 16mEWR-DFW,nonstop,9:01 am – 12:17 pm,Main Cabin,$378
+American Airlines,2023-12-26,4h 14mJFK-DFW,nonstop,2:31 pm – 5:45 pm,Main Cabin,$374
+American Airlines,2023-12-26,4h 14mJFK-DFW,nonstop,4:21 pm – 7:35 pm,Main Cabin,$374
+Delta,2023-12-26,4h 29mJFK-DFW,nonstop,6:15 pm – 9:44 pm,Main Cabin,$389
+Delta,2023-12-26,4h 27mJFK-DFW,nonstop,8:25 am – 11:52 am,Main Cabin,$389
+Spirit Airlines,2023-12-27,4h 12mEWR-DFW,nonstop,1:50 pm – 5:02 pm,Economy,$173
+Spirit Airlines,2023-12-27,4h 12mEWR-DFW,nonstop,1:50 pm – 5:02 pm,Economy,$169
+Spirit Airlines,2023-12-27,9h 21mEWR-DFW,1 stop,3:44 pm – 12:05 am+1,Economy,$154
+Spirit Airlines,2023-12-27,4h 12mLGA-DFW,nonstop,12:59 pm – 4:11 pm,Economy,$194
+Frontier,2023-12-27,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$229
+Delta,2023-12-27,4h 21mLGA-DFW,nonstop,8:25 am – 11:46 am,Main Cabin,$339
+United Airlines,2023-12-27,4h 13mEWR-DFW,nonstop,8:30 pm – 11:43 pm,Economy,$341
+American Airlines,2023-12-27,4h 24mJFK-DFW,nonstop,8:01 am – 11:25 am,Main Cabin,$374
+United Airlines,2023-12-27,4h 15mEWR-DFW,nonstop,7:57 am – 11:12 am,Economy,$375
+American Airlines,2023-12-27,4h 16mEWR-DFW,nonstop,9:01 am – 12:17 pm,Main Cabin,$378
+American Airlines,2023-12-27,4h 14mEWR-DFW,nonstop,6:01 am – 9:15 am,Main Cabin,$378
+American Airlines,2023-12-27,4h 12mEWR-DFW,nonstop,12:43 pm – 3:55 pm,Main Cabin,$378
+United Airlines,2023-12-27,4h 08mEWR-DFW,nonstop,2:15 pm – 5:23 pm,Economy,$375
+Delta,2023-12-27,4h 25mLGA-DFW,nonstop,7:25 pm – 10:50 pm,Main Cabin,$419
+Delta,2023-12-27,4h 27mJFK-DFW,nonstop,8:25 am – 11:52 am,Main Cabin,$419
+Delta,2023-12-27,4h 29mJFK-DFW,nonstop,6:15 pm – 9:44 pm,Main Cabin,$419
+Spirit Airlines,2023-12-28,4h 12mEWR-DFW,nonstop,1:50 pm – 5:02 pm,Economy,$115
+Delta,2023-12-28,4h 25mLGA-DFW,nonstop,7:25 pm – 10:50 pm,Basic Economy,$119
+Spirit Airlines,2023-12-28,4h 12mLGA-DFW,nonstop,12:59 pm – 4:11 pm,Economy,$154
+Frontier,2023-12-28,4h 13mLGA-DFW,nonstop,11:01 pm – 2:14 am+1,Economy,$141
+American Airlines,2023-12-28,4h 24mJFK-DFW,nonstop,8:01 am – 11:25 am,Main Cabin,$269
+American Airlines,2023-12-28,4h 12mEWR-DFW,nonstop,12:43 pm – 3:55 pm,Main Cabin,$289
+Delta,2023-12-28,4h 27mJFK-DFW,nonstop,8:25 am – 11:52 am,Main Cabin,$279
+United Airlines,2023-12-28,4h 13mEWR-DFW,nonstop,8:30 pm – 11:43 pm,Economy,$296
+American Airlines,2023-12-28,4h 14mEWR-DFW,nonstop,6:01 am – 9:15 am,Main Cabin,$289
+American Airlines,2023-12-28,4h 16mEWR-DFW,nonstop,9:01 am – 12:17 pm,Main Cabin,$289
+United Airlines,2023-12-28,4h 15mEWR-DFW,nonstop,7:57 am – 11:12 am,Economy,$296
+Delta,2023-12-28,4h 21mLGA-DFW,nonstop,8:25 am – 11:46 am,Main Cabin,$319
+Spirit Airlines,2023-12-28,7h 32mEWR-DFW,1 stop,4:38 pm – 11:10 pm,Economy,$154
+Delta,2023-12-28,4h 31mLGA-DFW,nonstop,10:05 am – 1:36 pm,Main Cabin,$319
+Delta,2023-12-28,4h 29mJFK-DFW,nonstop,6:15 pm – 9:44 pm,Main Cabin,$329
+Spirit Airlines,2023-12-29,4h 12mLGA-DFW,nonstop,12:59 pm – 4:11 pm,Economy,$128
+Spirit Airlines,2023-12-29,4h 12mLGA-DFW,nonstop,12:59 pm – 4:11 pm,Economy,$124
+Spirit Airlines,2023-12-29,4h 11mEWR-DFW,nonstop,11:26 am – 2:37 pm,Economy,$147
+Frontier,2023-12-29,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$150
+Delta,2023-12-29,4h 23mLGA-DFW,nonstop,1:15 pm – 4:38 pm,Basic Economy,$219
+American Airlines,2023-12-29,4h 14mEWR-DFW,nonstop,6:01 am – 9:15 am,Basic Economy,$209
+Delta,2023-12-29,4h 31mLGA-DFW,nonstop,10:05 am – 1:36 pm,Main Cabin,$259
+Delta,2023-12-29,4h 25mLGA-DFW,nonstop,7:25 pm – 10:50 pm,Main Cabin,$259
+Delta,2023-12-29,4h 21mLGA-DFW,nonstop,8:25 am – 11:46 am,Main Cabin,$259
+American Airlines,2023-12-29,4h 24mJFK-DFW,nonstop,8:01 am – 11:25 am,Main Cabin,$269
+Delta,2023-12-29,4h 27mJFK-DFW,nonstop,8:25 am – 11:52 am,Main Cabin,$279
+American Airlines,2023-12-29,4h 22mEWR-DFW,nonstop,5:37 pm – 8:59 pm,Main Cabin,$289
+American Airlines,2023-12-29,4h 16mEWR-DFW,nonstop,9:01 am – 12:17 pm,Main Cabin,$289
+American Airlines,2023-12-29,4h 16mLGA-DFW,nonstop,5:59 am – 9:15 am,Main Cabin,$311
+Delta,2023-12-29,4h 29mJFK-DFW,nonstop,6:15 pm – 9:44 pm,Main Cabin,$329
+American Airlines,2023-12-29,4h 14mJFK-DFW,nonstop,4:21 pm – 7:35 pm,Main Cabin,$374
+Spirit Airlines,2023-12-30,4h 12mEWR-DFW,nonstop,1:10 pm – 4:22 pm,Economy,$115
+"Spirit Airlines, Frontier",2023-12-30,11h 33mEWR-DFW,1 stop,10:10 pm – 8:43 am+1,Economy,$102
+Spirit Airlines,2023-12-30,4h 12mLGA-DFW,nonstop,12:59 pm – 4:11 pm,Economy,$124
+Frontier,2023-12-30,4h 13mLGA-DFW,nonstop,10:50 pm – 2:03 am+1,Economy,$118
+Spirit Airlines,2023-12-30,7h 37mEWR-DFW,1 stop,10:03 am – 4:40 pm,Economy,$113
+Delta,2023-12-30,4h 25mLGA-DFW,nonstop,7:25 pm – 10:50 pm,Main Cabin,$259
+American Airlines,2023-12-30,4h 14mJFK-DFW,nonstop,4:21 pm – 7:35 pm,Main Cabin,$269
+Spirit Airlines,2023-12-30,9h 01mEWR-DFW,1 stop,3:09 pm – 11:10 pm,Economy,$113
+American Airlines,2023-12-30,4h 24mJFK-DFW,nonstop,8:01 am – 11:25 am,Main Cabin,$269
+American Airlines,2023-12-30,4h 14mEWR-DFW,nonstop,6:01 am – 9:15 am,Main Cabin,$275
+Delta,2023-12-30,4h 29mJFK-DFW,nonstop,6:15 pm – 9:44 pm,Main Cabin,$279
+Spirit Airlines,2023-12-30,8h 49mLGA-DFW,1 stop,10:59 am – 6:48 pm,Economy,$130
+Delta,2023-12-30,4h 27mJFK-DFW,nonstop,8:25 am – 11:52 am,Main Cabin,$279
+United Airlines,2023-12-30,4h 13mEWR-DFW,nonstop,8:30 pm – 11:43 pm,Economy,$296
+Spirit Airlines,2023-12-30,9h 45mEWR-DFW,1 stop,10:03 am – 6:48 pm,Economy,$113
+United Airlines,2023-12-30,4h 15mEWR-DFW,nonstop,7:50 am – 11:05 am,Economy,$296
+Alaska Airlines,2023-12-01,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Saver,$194
+Delta,2023-12-01,5h 50mSFO-BOS,nonstop,10:40 pm – 7:30 am+1,Basic Economy,$169
+"Frontier, Spirit Airlines",2023-12-01,29h 39mSFO-BOS,1 stop,10:23 pm – 7:02 am+2,Economy,$104
+Delta,2023-12-01,5h 43mSFO-BOS,nonstop,1:15 pm – 9:58 pm,Basic Economy,$169
+United Airlines,2023-12-01,5h 36mSFO-BOS,nonstop,8:25 pm – 5:01 am+1,Basic Economy,$169
+United Airlines,2023-12-01,5h 36mSFO-BOS,nonstop,2:00 pm – 10:36 pm,Basic Economy,$169
+United Airlines,2023-12-01,5h 36mSFO-BOS,nonstop,8:30 am – 5:06 pm,Basic Economy,$169
+United Airlines,2023-12-01,5h 35mSFO-BOS,nonstop,11:25 pm – 8:00 am+1,Basic Economy,$169
+JetBlue,2023-12-01,5h 34mSFO-BOS,nonstop,12:22 pm – 8:56 pm,Blue Basic,$169
+JetBlue,2023-12-01,5h 32mSFO-BOS,nonstop,11:55 pm – 8:27 am+1,Blue Basic,$169
+JetBlue,2023-12-01,5h 31mSFO-BOS,nonstop,1:45 pm – 10:16 pm,Blue Basic,$169
+Alaska Airlines,2023-12-01,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Saver,$194
+JetBlue,2023-12-01,5h 38mSFO-BOS,nonstop,11:20 am – 7:58 pm,Blue Basic,$194
+United Airlines,2023-12-01,5h 36mSFO-BOS,nonstop,11:10 am – 7:46 pm,Basic Economy,$221
+American Airlines,2023-12-01,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Main Cabin,$239
+United Airlines,2023-12-01,7h 20mSFO-BOS,1 stop,8:25 am – 6:45 pm,Basic Economy,$179
+United Airlines,2023-12-01,7h 27mSFO-BOS,1 stop,11:40 pm – 10:07 am+1,Basic Economy,$179
+Alaska Airlines,2023-12-02,24h 40mSFO-BOS,2 stops,2:10 pm – 5:50 pm+1,Saver,$269
+Delta,2023-12-02,5h 50mSFO-BOS,nonstop,10:40 pm – 7:30 am+1,Basic Economy,$169
+"Frontier, Spirit Airlines",2023-12-02,19h 02mSFO-BOS,2 stops,9:00 am – 7:02 am+1,Economy,$125
+Delta,2023-12-02,5h 43mSFO-BOS,nonstop,1:15 pm – 9:58 pm,Basic Economy,$169
+United Airlines,2023-12-02,5h 36mSFO-BOS,nonstop,2:00 pm – 10:36 pm,Basic Economy,$169
+United Airlines,2023-12-02,5h 36mSFO-BOS,nonstop,11:10 am – 7:46 pm,Basic Economy,$169
+United Airlines,2023-12-02,5h 36mSFO-BOS,nonstop,8:30 am – 5:06 pm,Basic Economy,$169
+United Airlines,2023-12-02,5h 35mSFO-BOS,nonstop,11:25 pm – 8:00 am+1,Basic Economy,$169
+JetBlue,2023-12-02,5h 34mSFO-BOS,nonstop,12:22 pm – 8:56 pm,Blue Basic,$169
+JetBlue,2023-12-02,5h 34mSFO-BOS,nonstop,7:00 am – 3:34 pm,Blue Basic,$169
+American Airlines,2023-12-02,7h 40mSFO-BOS,1 stop,11:44 am – 10:24 pm,Basic Economy,$179
+American Airlines,2023-12-02,7h 28mSFO-BOS,1 stop,6:25 am – 4:53 pm,Basic Economy,$179
+United Airlines,2023-12-02,7h 31mSFO-BOS,1 stop,11:59 pm – 10:30 am+1,Basic Economy,$179
+United Airlines,2023-12-02,7h 42mSFO-BOS,1 stop,1:00 pm – 11:42 pm,Basic Economy,$179
+American Airlines,2023-12-02,7h 33mSFO-BOS,1 stop,11:50 pm – 10:23 am+1,Basic Economy,$179
+United Airlines,2023-12-02,7h 50mSFO-BOS,1 stop,6:30 am – 5:20 pm,Basic Economy,$174
+American Airlines,2023-12-02,7h 57mSFO-BOS,1 stop,12:52 pm – 11:49 pm,Basic Economy,$179
+Alaska Airlines,2023-12-03,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Saver,$169
+Delta,2023-12-03,5h 50mSFO-BOS,nonstop,10:40 pm – 7:30 am+1,Basic Economy,$169
+"Frontier, Spirit Airlines",2023-12-03,29h 27mSFO-BOS,1 stop,10:23 pm – 6:50 am+2,Economy,$97
+Delta,2023-12-03,5h 43mSFO-BOS,nonstop,1:15 pm – 9:58 pm,Basic Economy,$169
+Alaska Airlines,2023-12-03,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Saver,$169
+United Airlines,2023-12-03,5h 36mSFO-BOS,nonstop,8:25 pm – 5:01 am+1,Basic Economy,$169
+United Airlines,2023-12-03,5h 36mSFO-BOS,nonstop,2:00 pm – 10:36 pm,Basic Economy,$169
+JetBlue,2023-12-03,5h 34mSFO-BOS,nonstop,12:22 pm – 8:56 pm,Blue Basic,$169
+United Airlines,2023-12-03,5h 36mSFO-BOS,nonstop,8:30 am – 5:06 pm,Basic Economy,$169
+United Airlines,2023-12-03,5h 35mSFO-BOS,nonstop,11:25 pm – 8:00 am+1,Basic Economy,$169
+United Airlines,2023-12-03,5h 36mSFO-BOS,nonstop,11:10 am – 7:46 pm,Basic Economy,$169
+JetBlue,2023-12-03,5h 32mSFO-BOS,nonstop,11:55 pm – 8:27 am+1,Blue Basic,$169
+JetBlue,2023-12-03,5h 31mSFO-BOS,nonstop,1:45 pm – 10:16 pm,Blue Basic,$169
+JetBlue,2023-12-03,5h 38mSFO-BOS,nonstop,11:20 am – 7:58 pm,Blue Basic,$194
+American Airlines,2023-12-03,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Main Cabin,$214
+United Airlines,2023-12-03,7h 42mSFO-BOS,1 stop,11:40 pm – 10:22 am+1,Basic Economy,$179
+American Airlines,2023-12-03,7h 33mSFO-BOS,1 stop,11:50 pm – 10:23 am+1,Basic Economy,$189
+JetBlue,2023-12-04,5h 31mSFO-BOS,nonstop,1:45 pm – 10:16 pm,Blue Basic,$169
+"Frontier, Spirit Airlines",2023-12-04,29h 27mSFO-BOS,1 stop,10:23 pm – 6:50 am+2,Economy,$97
+United Airlines,2023-12-04,5h 36mSFO-BOS,nonstop,8:25 pm – 5:01 am+1,Basic Economy,$169
+JetBlue,2023-12-04,5h 34mSFO-BOS,nonstop,12:22 pm – 8:56 pm,Blue Basic,$169
+United Airlines,2023-12-04,5h 36mSFO-BOS,nonstop,2:00 pm – 10:36 pm,Basic Economy,$169
+JetBlue,2023-12-04,5h 38mSFO-BOS,nonstop,11:20 am – 7:58 pm,Blue Basic,$169
+Alaska Airlines,2023-12-04,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Saver,$169
+Delta,2023-12-04,5h 43mSFO-BOS,nonstop,1:15 pm – 9:58 pm,Basic Economy,$169
+American Airlines,2023-12-04,7h 28mSFO-BOS,1 stop,6:25 am – 4:53 pm,Basic Economy,$179
+American Airlines,2023-12-04,7h 40mSFO-BOS,1 stop,11:44 am – 10:24 pm,Basic Economy,$179
+American Airlines,2023-12-04,7h 42mSFO-BOS,1 stop,6:05 am – 4:47 pm,Basic Economy,$179
+American Airlines,2023-12-04,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Main Cabin,$214
+American Airlines,2023-12-04,7h 57mSFO-BOS,1 stop,1:32 pm – 12:29 am+1,Basic Economy,$177
+American Airlines,2023-12-04,7h 57mSFO-BOS,1 stop,6:50 pm – 5:47 am+1,Basic Economy,$179
+JetBlue,2023-12-04,5h 32mSFO-BOS,nonstop,11:55 pm – 8:27 am+1,Blue Basic,$169
+United Airlines,2023-12-04,5h 35mSFO-BOS,nonstop,11:25 pm – 8:00 am+1,Basic Economy,$169
+JetBlue,2023-12-05,5h 31mSFO-BOS,nonstop,1:45 pm – 10:16 pm,Blue Basic,$112
+JetBlue,2023-12-05,5h 34mSFO-BOS,nonstop,12:22 pm – 8:56 pm,Blue Basic,$112
+United Airlines,2023-12-05,5h 36mSFO-BOS,nonstop,2:00 pm – 10:36 pm,Basic Economy,$112
+United Airlines,2023-12-05,5h 36mSFO-BOS,nonstop,11:10 am – 7:46 pm,Basic Economy,$112
+JetBlue,2023-12-05,5h 38mSFO-BOS,nonstop,11:20 am – 7:58 pm,Blue Basic,$112
+Alaska Airlines,2023-12-05,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Saver,$112
+Delta,2023-12-05,5h 43mSFO-BOS,nonstop,1:15 pm – 9:58 pm,Basic Economy,$112
+United Airlines,2023-12-05,5h 36mSFO-BOS,nonstop,8:30 am – 5:06 pm,Basic Economy,$150
+American Airlines,2023-12-05,7h 32mSFO-BOS,1 stop,7:00 am – 5:32 pm,Basic Economy,$120
+United Airlines,2023-12-05,7h 52mSFO-BOS,1 stop,6:30 am – 5:22 pm,Basic Economy,$117
+American Airlines,2023-12-05,7h 46mSFO-BOS,1 stop,1:00 pm – 11:46 pm,Basic Economy,$122
+United Airlines,2023-12-05,7h 49mSFO-BOS,1 stop,1:10 pm – 11:59 pm,Basic Economy,$122
+American Airlines,2023-12-05,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Main Cabin,$157
+JetBlue,2023-12-05,5h 32mSFO-BOS,nonstop,11:55 pm – 8:27 am+1,Blue Basic,$112
+American Airlines,2023-12-05,7h 53mSFO-BOS,1 stop,12:43 pm – 11:36 pm,Basic Economy,$122
+JetBlue,2023-12-06,5h 31mSFO-BOS,nonstop,1:45 pm – 10:16 pm,Blue Basic,$112
+JetBlue,2023-12-06,5h 34mSFO-BOS,nonstop,12:22 pm – 8:56 pm,Blue Basic,$112
+Alaska Airlines,2023-12-01,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Saver,$194
+Delta,2023-12-01,5h 50mSFO-BOS,nonstop,10:40 pm – 7:30 am+1,Basic Economy,$169
+"Frontier, Spirit Airlines",2023-12-01,29h 39mSFO-BOS,1 stop,10:23 pm – 7:02 am+2,Economy,$104
+Delta,2023-12-01,5h 43mSFO-BOS,nonstop,1:15 pm – 9:58 pm,Basic Economy,$169
+United Airlines,2023-12-01,5h 36mSFO-BOS,nonstop,8:25 pm – 5:01 am+1,Basic Economy,$169
+United Airlines,2023-12-01,5h 36mSFO-BOS,nonstop,2:00 pm – 10:36 pm,Basic Economy,$169
+United Airlines,2023-12-01,5h 36mSFO-BOS,nonstop,8:30 am – 5:06 pm,Basic Economy,$169
+United Airlines,2023-12-01,5h 35mSFO-BOS,nonstop,11:25 pm – 8:00 am+1,Basic Economy,$169
+JetBlue,2023-12-01,5h 34mSFO-BOS,nonstop,12:22 pm – 8:56 pm,Blue Basic,$169
+JetBlue,2023-12-01,5h 32mSFO-BOS,nonstop,11:55 pm – 8:27 am+1,Blue Basic,$169
+JetBlue,2023-12-01,5h 31mSFO-BOS,nonstop,1:45 pm – 10:16 pm,Blue Basic,$169
+Alaska Airlines,2023-12-01,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Saver,$194
+JetBlue,2023-12-01,5h 38mSFO-BOS,nonstop,11:20 am – 7:58 pm,Blue Basic,$194
+United Airlines,2023-12-01,5h 36mSFO-BOS,nonstop,11:10 am – 7:46 pm,Basic Economy,$221
+American Airlines,2023-12-01,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Main Cabin,$239
+United Airlines,2023-12-01,7h 20mSFO-BOS,1 stop,8:25 am – 6:45 pm,Basic Economy,$179
+United Airlines,2023-12-01,7h 27mSFO-BOS,1 stop,11:40 pm – 10:07 am+1,Basic Economy,$179
+Alaska Airlines,2023-12-02,18h 15mSFO-BOS,1 stop,7:35 pm – 4:50 pm+1,Saver,$315
+Delta,2023-12-02,5h 50mSFO-BOS,nonstop,10:40 pm – 7:30 am+1,Basic Economy,$169
+"Frontier, Spirit Airlines",2023-12-02,19h 02mSFO-BOS,2 stops,9:00 am – 7:02 am+1,Economy,$125
+Delta,2023-12-02,5h 43mSFO-BOS,nonstop,1:15 pm – 9:58 pm,Basic Economy,$169
+United Airlines,2023-12-02,5h 36mSFO-BOS,nonstop,2:00 pm – 10:36 pm,Basic Economy,$169
+United Airlines,2023-12-02,5h 36mSFO-BOS,nonstop,11:10 am – 7:46 pm,Basic Economy,$169
+United Airlines,2023-12-02,5h 36mSFO-BOS,nonstop,8:30 am – 5:06 pm,Basic Economy,$169
+United Airlines,2023-12-02,5h 35mSFO-BOS,nonstop,11:25 pm – 8:00 am+1,Basic Economy,$169
+JetBlue,2023-12-02,5h 34mSFO-BOS,nonstop,12:22 pm – 8:56 pm,Blue Basic,$169
+JetBlue,2023-12-02,5h 34mSFO-BOS,nonstop,7:00 am – 3:34 pm,Blue Basic,$169
+American Airlines,2023-12-02,7h 40mSFO-BOS,1 stop,11:44 am – 10:24 pm,Basic Economy,$179
+American Airlines,2023-12-02,7h 28mSFO-BOS,1 stop,6:25 am – 4:53 pm,Basic Economy,$179
+United Airlines,2023-12-02,7h 31mSFO-BOS,1 stop,11:59 pm – 10:30 am+1,Basic Economy,$179
+United Airlines,2023-12-02,7h 42mSFO-BOS,1 stop,1:00 pm – 11:42 pm,Basic Economy,$179
+American Airlines,2023-12-02,7h 33mSFO-BOS,1 stop,11:50 pm – 10:23 am+1,Basic Economy,$179
+United Airlines,2023-12-02,7h 50mSFO-BOS,1 stop,6:30 am – 5:20 pm,Basic Economy,$174
+American Airlines,2023-12-02,7h 57mSFO-BOS,1 stop,12:52 pm – 11:49 pm,Basic Economy,$179
+Alaska Airlines,2023-12-03,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Saver,$169
+Delta,2023-12-03,5h 50mSFO-BOS,nonstop,10:40 pm – 7:30 am+1,Basic Economy,$169
+"Frontier, Spirit Airlines",2023-12-03,29h 27mSFO-BOS,1 stop,10:23 pm – 6:50 am+2,Economy,$97
+Delta,2023-12-03,5h 43mSFO-BOS,nonstop,1:15 pm – 9:58 pm,Basic Economy,$169
+Alaska Airlines,2023-12-03,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Saver,$169
+United Airlines,2023-12-03,5h 36mSFO-BOS,nonstop,8:25 pm – 5:01 am+1,Basic Economy,$169
+United Airlines,2023-12-03,5h 36mSFO-BOS,nonstop,2:00 pm – 10:36 pm,Basic Economy,$169
+JetBlue,2023-12-03,5h 34mSFO-BOS,nonstop,12:22 pm – 8:56 pm,Blue Basic,$169
+United Airlines,2023-12-03,5h 36mSFO-BOS,nonstop,8:30 am – 5:06 pm,Basic Economy,$169
+United Airlines,2023-12-03,5h 35mSFO-BOS,nonstop,11:25 pm – 8:00 am+1,Basic Economy,$169
+United Airlines,2023-12-03,5h 36mSFO-BOS,nonstop,11:10 am – 7:46 pm,Basic Economy,$169
+JetBlue,2023-12-03,5h 32mSFO-BOS,nonstop,11:55 pm – 8:27 am+1,Blue Basic,$169
+JetBlue,2023-12-03,5h 31mSFO-BOS,nonstop,1:45 pm – 10:16 pm,Blue Basic,$169
+JetBlue,2023-12-03,5h 38mSFO-BOS,nonstop,11:20 am – 7:58 pm,Blue Basic,$194
+American Airlines,2023-12-03,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Main Cabin,$214
+United Airlines,2023-12-03,7h 42mSFO-BOS,1 stop,11:40 pm – 10:22 am+1,Basic Economy,$179
+American Airlines,2023-12-03,7h 33mSFO-BOS,1 stop,11:50 pm – 10:23 am+1,Basic Economy,$189
+Alaska Airlines,2023-12-04,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Saver,$169
+Delta,2023-12-04,5h 50mSFO-BOS,nonstop,10:40 pm – 7:30 am+1,Basic Economy,$169
+"Frontier, Spirit Airlines",2023-12-04,14h 02mSFO-BOS,1 stop,1:48 pm – 6:50 am+1,Economy,$97
+Delta,2023-12-04,5h 43mSFO-BOS,nonstop,1:15 pm – 9:58 pm,Basic Economy,$169
+Alaska Airlines,2023-12-04,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Saver,$169
+JetBlue,2023-12-04,5h 38mSFO-BOS,nonstop,11:20 am – 7:58 pm,Blue Basic,$169
+United Airlines,2023-12-04,5h 36mSFO-BOS,nonstop,8:25 pm – 5:01 am+1,Basic Economy,$169
+United Airlines,2023-12-04,5h 36mSFO-BOS,nonstop,2:00 pm – 10:36 pm,Basic Economy,$169
+United Airlines,2023-12-04,5h 35mSFO-BOS,nonstop,11:25 pm – 8:00 am+1,Basic Economy,$169
+JetBlue,2023-12-04,5h 34mSFO-BOS,nonstop,12:22 pm – 8:56 pm,Blue Basic,$169
+JetBlue,2023-12-04,5h 32mSFO-BOS,nonstop,11:55 pm – 8:27 am+1,Blue Basic,$169
+JetBlue,2023-12-04,5h 31mSFO-BOS,nonstop,1:45 pm – 10:16 pm,Blue Basic,$169
+American Airlines,2023-12-04,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Main Cabin,$214
+United Airlines,2023-12-04,5h 36mSFO-BOS,nonstop,8:30 am – 5:06 pm,Basic Economy,$221
+American Airlines,2023-12-04,7h 40mSFO-BOS,1 stop,11:44 am – 10:24 pm,Basic Economy,$179
+United Airlines,2023-12-04,7h 31mSFO-BOS,1 stop,11:59 pm – 10:30 am+1,Basic Economy,$179
+Alaska Airlines,2023-12-05,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Saver,$112
+Delta,2023-12-05,5h 50mSFO-BOS,nonstop,10:40 pm – 7:30 am+1,Basic Economy,$112
+"Frontier, Spirit Airlines",2023-12-05,15h 41mSFO-BOS,1 stop,12:09 pm – 6:50 am+1,Economy,$84
+Delta,2023-12-05,5h 43mSFO-BOS,nonstop,1:15 pm – 9:58 pm,Basic Economy,$112
+Alaska Airlines,2023-12-05,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Saver,$112
+JetBlue,2023-12-05,5h 38mSFO-BOS,nonstop,11:20 am – 7:58 pm,Blue Basic,$112
+United Airlines,2023-12-05,5h 36mSFO-BOS,nonstop,2:00 pm – 10:36 pm,Basic Economy,$112
+United Airlines,2023-12-05,5h 36mSFO-BOS,nonstop,11:10 am – 7:46 pm,Basic Economy,$112
+United Airlines,2023-12-05,5h 35mSFO-BOS,nonstop,11:25 pm – 8:00 am+1,Basic Economy,$112
+JetBlue,2023-12-05,5h 34mSFO-BOS,nonstop,12:22 pm – 8:56 pm,Blue Basic,$112
+JetBlue,2023-12-05,5h 32mSFO-BOS,nonstop,11:55 pm – 8:27 am+1,Blue Basic,$112
+JetBlue,2023-12-05,5h 31mSFO-BOS,nonstop,1:45 pm – 10:16 pm,Blue Basic,$112
+United Airlines,2023-12-05,5h 36mSFO-BOS,nonstop,8:30 am – 5:06 pm,Basic Economy,$150
+American Airlines,2023-12-05,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Main Cabin,$157
+American Airlines,2023-12-05,7h 32mSFO-BOS,1 stop,7:00 am – 5:32 pm,Basic Economy,$120
+American Airlines,2023-12-05,7h 22mSFO-BOS,1 stop,11:59 pm – 10:21 am+1,Basic Economy,$122
+United Airlines,2023-12-05,7h 31mSFO-BOS,1 stop,11:59 pm – 10:30 am+1,Basic Economy,$122
+Alaska Airlines,2023-12-06,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Saver,$112
+Delta,2023-12-06,5h 50mSFO-BOS,nonstop,10:40 pm – 7:30 am+1,Basic Economy,$112
+"Frontier, Spirit Airlines",2023-12-06,14h 56mSFO-BOS,1 stop,12:54 pm – 6:50 am+1,Economy,$84
+Delta,2023-12-06,5h 43mSFO-BOS,nonstop,1:15 pm – 9:58 pm,Basic Economy,$112
+Alaska Airlines,2023-12-06,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Saver,$112
+United Airlines,2023-12-06,5h 36mSFO-BOS,nonstop,11:10 am – 7:46 pm,Basic Economy,$112
+United Airlines,2023-12-06,5h 36mSFO-BOS,nonstop,8:30 am – 5:06 pm,Basic Economy,$112
+JetBlue,2023-12-06,5h 34mSFO-BOS,nonstop,12:22 pm – 8:56 pm,Blue Basic,$112
+United Airlines,2023-12-06,5h 35mSFO-BOS,nonstop,11:25 pm – 8:00 am+1,Basic Economy,$112
+United Airlines,2023-12-06,5h 36mSFO-BOS,nonstop,2:00 pm – 10:36 pm,Basic Economy,$112
+JetBlue,2023-12-06,5h 32mSFO-BOS,nonstop,11:55 pm – 8:27 am+1,Blue Basic,$112
+JetBlue,2023-12-06,5h 31mSFO-BOS,nonstop,1:45 pm – 10:16 pm,Blue Basic,$112
+JetBlue,2023-12-06,5h 38mSFO-BOS,nonstop,11:20 am – 7:58 pm,Blue Basic,$139
+American Airlines,2023-12-06,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Main Cabin,$157
+American Airlines,2023-12-06,7h 32mSFO-BOS,1 stop,7:00 am – 5:32 pm,Basic Economy,$120
+United Airlines,2023-12-06,7h 20mSFO-BOS,1 stop,8:25 am – 6:45 pm,Basic Economy,$122
+United Airlines,2023-12-06,7h 31mSFO-BOS,1 stop,11:59 pm – 10:30 am+1,Basic Economy,$122
+JetBlue,2023-12-07,5h 31mSFO-BOS,nonstop,1:45 pm – 10:16 pm,Blue Basic,$112
+United Airlines,2023-12-07,5h 36mSFO-BOS,nonstop,8:25 pm – 5:01 am+1,Basic Economy,$112
+JetBlue,2023-12-07,5h 34mSFO-BOS,nonstop,12:22 pm – 8:56 pm,Blue Basic,$112
+United Airlines,2023-12-07,5h 36mSFO-BOS,nonstop,2:00 pm – 10:36 pm,Basic Economy,$112
+United Airlines,2023-12-07,5h 36mSFO-BOS,nonstop,11:10 am – 7:46 pm,Basic Economy,$112
+JetBlue,2023-12-07,5h 38mSFO-BOS,nonstop,11:20 am – 7:58 pm,Blue Basic,$139
+Alaska Airlines,2023-12-07,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Saver,$139
+Delta,2023-12-07,5h 46mSFO-BOS,nonstop,1:20 pm – 10:06 pm,Basic Economy,$112
+American Airlines,2023-12-07,7h 32mSFO-BOS,1 stop,7:00 am – 5:32 pm,Basic Economy,$120
+United Airlines,2023-12-07,7h 49mSFO-BOS,1 stop,1:10 pm – 11:59 pm,Basic Economy,$122
+American Airlines,2023-12-07,7h 57mSFO-BOS,1 stop,6:50 pm – 5:47 am+1,Basic Economy,$122
+American Airlines,2023-12-07,7h 54mSFO-BOS,1 stop,1:01 pm – 11:55 pm,Basic Economy,$122
+American Airlines,2023-12-07,7h 54mSFO-BOS,1 stop,11:25 am – 10:19 pm,Basic Economy,$122
+United Airlines,2023-12-07,5h 35mSFO-BOS,nonstop,11:25 pm – 8:00 am+1,Basic Economy,$112
+United Airlines,2023-12-07,5h 36mSFO-BOS,nonstop,8:30 am – 5:06 pm,Basic Economy,$169
+JetBlue,2023-12-08,5h 31mSFO-BOS,nonstop,1:45 pm – 10:16 pm,Blue Basic,$112
+United Airlines,2023-12-08,5h 36mSFO-BOS,nonstop,8:25 pm – 5:01 am+1,Basic Economy,$112
+United Airlines,2023-12-08,5h 36mSFO-BOS,nonstop,2:00 pm – 10:36 pm,Basic Economy,$112
+JetBlue,2023-12-08,5h 34mSFO-BOS,nonstop,12:22 pm – 8:56 pm,Blue Basic,$139
+Alaska Airlines,2023-12-08,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Saver,$112
+Delta,2023-12-08,5h 46mSFO-BOS,nonstop,1:20 pm – 10:06 pm,Basic Economy,$112
+American Airlines,2023-12-08,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Main Cabin,$157
+American Airlines,2023-12-08,7h 46mSFO-BOS,1 stop,1:00 pm – 11:46 pm,Basic Economy,$122
+American Airlines,2023-12-08,7h 53mSFO-BOS,1 stop,12:43 pm – 11:36 pm,Basic Economy,$122
+JetBlue,2023-12-08,5h 32mSFO-BOS,nonstop,11:55 pm – 8:27 am+1,Blue Basic,$112
+United Airlines,2023-12-08,5h 35mSFO-BOS,nonstop,11:25 pm – 8:00 am+1,Basic Economy,$112
+American Airlines,2023-12-08,8h 16mSFO-BOS,1 stop,1:37 pm – 12:53 am+1,Basic Economy,$120
+United Airlines,2023-12-08,8h 40mSFO-BOS,1 stop,7:45 pm – 7:25 am+1,Basic Economy,$122
+American Airlines,2023-12-08,8h 56mSFO-BOS,1 stop,7:00 am – 6:56 pm,Basic Economy,$120
+United Airlines,2023-12-08,5h 36mSFO-BOS,nonstop,11:10 am – 7:46 pm,Basic Economy,$209
+Alaska Airlines,2023-12-09,18h 55mSFO-BOS,1 stop,7:55 pm – 5:50 pm+1,Saver,$187
+Delta,2023-12-09,5h 50mSFO-BOS,nonstop,10:40 pm – 7:30 am+1,Basic Economy,$112
+"Frontier, Spirit Airlines",2023-12-09,14h 02mSFO-BOS,1 stop,1:48 pm – 6:50 am+1,Economy,$96
+Delta,2023-12-09,5h 46mSFO-BOS,nonstop,1:20 pm – 10:06 pm,Basic Economy,$112
+United Airlines,2023-12-09,5h 36mSFO-BOS,nonstop,2:00 pm – 10:36 pm,Basic Economy,$112
+United Airlines,2023-12-09,5h 36mSFO-BOS,nonstop,11:10 am – 7:46 pm,Basic Economy,$112
+United Airlines,2023-12-09,5h 36mSFO-BOS,nonstop,8:30 am – 5:06 pm,Basic Economy,$112
+United Airlines,2023-12-09,5h 35mSFO-BOS,nonstop,11:25 pm – 8:00 am+1,Basic Economy,$112
+JetBlue,2023-12-09,5h 34mSFO-BOS,nonstop,12:22 pm – 8:56 pm,Blue Basic,$112
+JetBlue,2023-12-09,5h 34mSFO-BOS,nonstop,7:00 am – 3:34 pm,Blue Basic,$112
+American Airlines,2023-12-09,7h 32mSFO-BOS,1 stop,7:00 am – 5:32 pm,Basic Economy,$120
+American Airlines,2023-12-09,7h 38mSFO-BOS,1 stop,11:45 pm – 10:23 am+1,Basic Economy,$122
+United Airlines,2023-12-09,7h 50mSFO-BOS,1 stop,6:30 am – 5:20 pm,Basic Economy,$117
+American Airlines,2023-12-09,7h 53mSFO-BOS,1 stop,12:43 pm – 11:36 pm,Basic Economy,$122
+United Airlines,2023-12-09,7h 42mSFO-BOS,1 stop,11:40 pm – 10:22 am+1,Basic Economy,$122
+American Airlines,2023-12-09,8h 10mSFO-BOS,1 stop,12:45 pm – 11:55 pm,Basic Economy,$122
+American Airlines,2023-12-09,8h 06mSFO-BOS,1 stop,10:08 am – 9:14 pm,Basic Economy,$122
+Delta,2023-12-10,5h 50mSFO-BOS,nonstop,10:40 pm – 7:30 am+1,Basic Economy,$112
+Delta,2023-12-10,5h 50mSFO-BOS,nonstop,10:40 pm – 7:30 am+1,Basic Economy,$112
+"Frontier, Spirit Airlines",2023-12-10,29h 27mSFO-BOS,1 stop,10:23 pm – 6:50 am+2,Economy,$90
+Delta,2023-12-10,5h 46mSFO-BOS,nonstop,1:20 pm – 10:06 pm,Basic Economy,$112
+Alaska Airlines,2023-12-10,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Saver,$112
+United Airlines,2023-12-10,5h 36mSFO-BOS,nonstop,8:25 pm – 5:01 am+1,Basic Economy,$112
+United Airlines,2023-12-10,5h 36mSFO-BOS,nonstop,2:00 pm – 10:36 pm,Basic Economy,$112
+JetBlue,2023-12-10,5h 34mSFO-BOS,nonstop,12:22 pm – 8:56 pm,Blue Basic,$112
+United Airlines,2023-12-10,5h 35mSFO-BOS,nonstop,11:25 pm – 8:00 am+1,Basic Economy,$112
+United Airlines,2023-12-10,5h 36mSFO-BOS,nonstop,8:30 am – 5:06 pm,Basic Economy,$112
+JetBlue,2023-12-10,5h 32mSFO-BOS,nonstop,11:55 pm – 8:27 am+1,Blue Basic,$112
+JetBlue,2023-12-10,5h 31mSFO-BOS,nonstop,1:45 pm – 10:16 pm,Blue Basic,$112
+JetBlue,2023-12-10,5h 38mSFO-BOS,nonstop,11:20 am – 7:58 pm,Blue Basic,$139
+American Airlines,2023-12-10,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Main Cabin,$157
+United Airlines,2023-12-10,5h 36mSFO-BOS,nonstop,11:10 am – 7:46 pm,Basic Economy,$169
+United Airlines,2023-12-10,7h 31mSFO-BOS,1 stop,11:59 pm – 10:30 am+1,Basic Economy,$122
+United Airlines,2023-12-10,7h 42mSFO-BOS,1 stop,11:40 pm – 10:22 am+1,Basic Economy,$122
+Delta,2023-12-11,5h 50mSFO-BOS,nonstop,10:40 pm – 7:30 am+1,Basic Economy,$112
+Delta,2023-12-11,5h 50mSFO-BOS,nonstop,10:40 pm – 7:30 am+1,Basic Economy,$112
+"Frontier, Spirit Airlines",2023-12-11,14h 02mSFO-BOS,1 stop,1:48 pm – 6:50 am+1,Economy,$90
+Delta,2023-12-11,5h 46mSFO-BOS,nonstop,1:20 pm – 10:06 pm,Basic Economy,$112
+Alaska Airlines,2023-12-11,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Saver,$112
+United Airlines,2023-12-11,5h 36mSFO-BOS,nonstop,8:25 pm – 5:01 am+1,Basic Economy,$112
+United Airlines,2023-12-11,5h 36mSFO-BOS,nonstop,2:00 pm – 10:36 pm,Basic Economy,$112
+United Airlines,2023-12-11,5h 35mSFO-BOS,nonstop,11:25 pm – 8:00 am+1,Basic Economy,$112
+JetBlue,2023-12-11,5h 34mSFO-BOS,nonstop,12:22 pm – 8:56 pm,Blue Basic,$112
+JetBlue,2023-12-11,5h 32mSFO-BOS,nonstop,11:55 pm – 8:27 am+1,Blue Basic,$112
+JetBlue,2023-12-11,5h 31mSFO-BOS,nonstop,1:45 pm – 10:16 pm,Blue Basic,$112
+JetBlue,2023-12-11,5h 38mSFO-BOS,nonstop,11:20 am – 7:58 pm,Blue Basic,$139
+American Airlines,2023-12-11,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Main Cabin,$157
+United Airlines,2023-12-11,5h 36mSFO-BOS,nonstop,11:10 am – 7:46 pm,Basic Economy,$190
+United Airlines,2023-12-11,5h 36mSFO-BOS,nonstop,8:30 am – 5:06 pm,Basic Economy,$233
+American Airlines,2023-12-11,7h 32mSFO-BOS,1 stop,7:00 am – 5:32 pm,Basic Economy,$120
+United Airlines,2023-12-11,7h 31mSFO-BOS,1 stop,11:59 pm – 10:30 am+1,Basic Economy,$122
+JetBlue,2023-12-12,5h 31mSFO-BOS,nonstop,1:45 pm – 10:16 pm,Blue Basic,$112
+JetBlue,2023-12-12,5h 34mSFO-BOS,nonstop,12:22 pm – 8:56 pm,Blue Basic,$112
+United Airlines,2023-12-12,5h 36mSFO-BOS,nonstop,2:00 pm – 10:36 pm,Basic Economy,$112
+United Airlines,2023-12-12,5h 36mSFO-BOS,nonstop,11:10 am – 7:46 pm,Basic Economy,$112
+United Airlines,2023-12-12,5h 36mSFO-BOS,nonstop,8:30 am – 5:06 pm,Basic Economy,$112
+JetBlue,2023-12-12,5h 38mSFO-BOS,nonstop,11:20 am – 7:58 pm,Blue Basic,$112
+Alaska Airlines,2023-12-12,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Saver,$112
+Delta,2023-12-12,5h 46mSFO-BOS,nonstop,1:20 pm – 10:06 pm,Basic Economy,$112
+United Airlines,2023-12-12,7h 20mSFO-BOS,1 stop,8:25 am – 6:45 pm,Basic Economy,$122
+American Airlines,2023-12-12,7h 32mSFO-BOS,1 stop,7:00 am – 5:32 pm,Basic Economy,$120
+United Airlines,2023-12-12,7h 52mSFO-BOS,1 stop,6:30 am – 5:22 pm,Basic Economy,$117
+American Airlines,2023-12-12,7h 46mSFO-BOS,1 stop,1:00 pm – 11:46 pm,Basic Economy,$122
+United Airlines,2023-12-12,7h 49mSFO-BOS,1 stop,1:10 pm – 11:59 pm,Basic Economy,$122
+JetBlue,2023-12-12,5h 32mSFO-BOS,nonstop,11:55 pm – 8:27 am+1,Blue Basic,$112
+American Airlines,2023-12-12,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Main Cabin,$157
+JetBlue,2023-12-13,5h 31mSFO-BOS,nonstop,1:45 pm – 10:16 pm,Blue Basic,$112
+JetBlue,2023-12-13,5h 34mSFO-BOS,nonstop,12:22 pm – 8:56 pm,Blue Basic,$112
+United Airlines,2023-12-13,5h 36mSFO-BOS,nonstop,2:00 pm – 10:36 pm,Basic Economy,$112
+United Airlines,2023-12-13,5h 36mSFO-BOS,nonstop,11:10 am – 7:46 pm,Basic Economy,$112
+United Airlines,2023-12-13,5h 36mSFO-BOS,nonstop,8:30 am – 5:06 pm,Basic Economy,$112
+JetBlue,2023-12-13,5h 38mSFO-BOS,nonstop,11:20 am – 7:58 pm,Blue Basic,$139
+Alaska Airlines,2023-12-13,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Saver,$112
+Delta,2023-12-13,5h 46mSFO-BOS,nonstop,1:20 pm – 10:06 pm,Basic Economy,$112
+American Airlines,2023-12-13,7h 32mSFO-BOS,1 stop,7:00 am – 5:32 pm,Basic Economy,$120
+United Airlines,2023-12-13,7h 52mSFO-BOS,1 stop,6:30 am – 5:22 pm,Basic Economy,$117
+United Airlines,2023-12-13,7h 42mSFO-BOS,1 stop,11:10 am – 9:52 pm,Basic Economy,$122
+United Airlines,2023-12-13,7h 49mSFO-BOS,1 stop,1:10 pm – 11:59 pm,Basic Economy,$122
+JetBlue,2023-12-13,5h 32mSFO-BOS,nonstop,11:55 pm – 8:27 am+1,Blue Basic,$112
+American Airlines,2023-12-13,5h 40mSFO-BOS,nonstop,7:40 am – 4:20 pm,Main Cabin,$157
+United Airlines,2023-12-13,5h 35mSFO-BOS,nonstop,11:25 pm – 8:00 am+1,Basic Economy,$112
+JetBlue,2023-12-14,5h 31mSFO-BOS,nonstop,1:45 pm – 10:16 pm,Blue Basic,$112
+JetBlue,2023-12-14,5h 34mSFO-BOS,nonstop,12:22 pm – 8:56 pm,Blue Basic,$112
+United Airlines,2023-12-14,5h 36mSFO-BOS,nonstop,2:20 pm – 10:56 pm,Basic Economy,$112
+JetBlue,2023-12-14,5h 38mSFO-BOS,nonstop,11:20 am – 7:58 pm,Blue Basic,$139
+United Airlines,2023-12-14,5h 36mSFO-BOS,nonstop,11:10 am – 7:46 pm,Basic Economy,$144
+Alaska Airlines,2023-12-14,5h 41mSFO-BOS,nonstop,7:40 am – 4:21 pm,Saver,$112
+Delta,2023-12-14,5h 46mSFO-BOS,nonstop,1:20 pm – 10:06 pm,Basic Economy,$112
+American Airlines,2023-12-14,5h 41mSFO-BOS,nonstop,7:40 am – 4:21 pm,Main Cabin,$157
+United Airlines,2023-12-14,7h 49mSFO-BOS,1 stop,6:30 am – 5:19 pm,Basic Economy,$117
+United Airlines,2023-12-14,5h 36mSFO-BOS,nonstop,8:25 pm – 5:01 am+1,Basic Economy,$169
+United Airlines,2023-12-14,5h 36mSFO-BOS,nonstop,8:30 am – 5:06 pm,Basic Economy,$169
+American Airlines,2023-12-14,7h 46mSFO-BOS,1 stop,1:00 pm – 11:46 pm,Basic Economy,$132
+American Airlines,2023-12-14,7h 57mSFO-BOS,1 stop,6:50 pm – 5:47 am+1,Basic Economy,$132
+JetBlue,2023-12-14,5h 32mSFO-BOS,nonstop,11:55 pm – 8:27 am+1,Blue Basic,$139
+American Airlines,2023-12-14,7h 54mSFO-BOS,1 stop,6:00 am – 4:54 pm,Basic Economy,$159
+American Airlines,2023-12-15,7h 56mSFO-BOS,1 stop,11:25 am – 10:21 pm,Basic Economy,$122
+United Airlines,2023-12-15,5h 36mSFO-BOS,nonstop,8:25 pm – 5:01 am+1,Basic Economy,$209
+Alaska Airlines,2023-12-15,5h 41mSFO-BOS,nonstop,7:40 am – 4:21 pm,Saver,$204
+United Airlines,2023-12-15,5h 36mSFO-BOS,nonstop,2:20 pm – 10:56 pm,Basic Economy,$209
+JetBlue,2023-12-15,5h 33mSFO-BOS,nonstop,3:21 pm – 11:54 pm,Blue Basic,$214
+American Airlines,2023-12-15,9h 21mSFO-BOS,1 stop,11:25 am – 11:46 pm,Basic Economy,$122
+American Airlines,2023-12-15,5h 41mSFO-BOS,nonstop,7:40 am – 4:21 pm,Main Cabin,$249
+United Airlines,2023-12-15,5h 36mSFO-BOS,nonstop,11:10 am – 7:46 pm,Basic Economy,$252
+JetBlue,2023-12-15,5h 38mSFO-BOS,nonstop,10:25 pm – 7:03 am+1,Blue Basic,$194
+JetBlue,2023-12-15,5h 30mSFO-BOS,nonstop,8:25 am – 4:55 pm,Blue Basic,$269
+American Airlines,2023-12-15,7h 57mSFO-BOS,1 stop,6:50 pm – 5:47 am+1,Basic Economy,$209
+JetBlue,2023-12-15,5h 39mSFO-BOS,nonstop,12:35 pm – 9:14 pm,Blue Basic,$269
+Delta,2023-12-15,5h 46mSFO-BOS,nonstop,1:20 pm – 10:06 pm,Basic Economy,$239
+United Airlines,2023-12-15,5h 35mSFO-BOS,nonstop,11:25 pm – 8:00 am+1,Basic Economy,$209
+United Airlines,2023-12-15,5h 36mSFO-BOS,nonstop,8:30 am – 5:06 pm,Basic Economy,$283
+JetBlue,2023-12-16,5h 33mSFO-BOS,nonstop,2:30 pm – 11:03 pm,Blue Basic,$194
+"Frontier, Spirit Airlines",2023-12-16,29h 27mSFO-BOS,1 stop,10:23 pm – 6:50 am+2,Economy,$121
+United Airlines,2023-12-16,5h 36mSFO-BOS,nonstop,2:20 pm – 10:56 pm,Basic Economy,$209
+United Airlines,2023-12-16,5h 36mSFO-BOS,nonstop,8:30 am – 5:06 pm,Basic Economy,$252
+Delta,2023-12-16,5h 46mSFO-BOS,nonstop,1:25 pm – 10:11 pm,Basic Economy,$239
+United Airlines,2023-12-16,5h 36mSFO-BOS,nonstop,11:10 am – 7:46 pm,Basic Economy,$283
+American Airlines,2023-12-16,5h 45mSFO-BOS,nonstop,10:10 am – 6:55 pm,Main Cabin,$289
+JetBlue,2023-12-16,5h 30mSFO-BOS,nonstop,8:25 am – 4:55 pm,Blue Basic,$304
+United Airlines,2023-12-16,5h 35mSFO-BOS,nonstop,11:25 pm – 8:00 am+1,Basic Economy,$252
+Alaska Airlines,2023-12-16,5h 45mSFO-BOS,nonstop,10:10 am – 6:55 pm,Main,$289
+Sun Country Air,2023-12-16,13h 40mSFO-BOS,1 stop,6:00 pm – 10:40 am+1,Economy,$150
+United Airlines,2023-12-16,7h 54mSFO-BOS,1 stop,6:30 am – 5:24 pm,Basic Economy,$277
+United Airlines,2023-12-16,9h 10mSFO-BOS,1 stop,11:59 pm – 12:09 pm+1,Basic Economy,$199
+United Airlines,2023-12-16,8h 37mSFO-BOS,1 stop,7:45 pm – 7:22 am+1,Basic Economy,$282
+United Airlines,2023-12-16,8h 37mSFO-BOS,1 stop,12:32 am – 12:09 pm,Basic Economy,$242
+JetBlue,2023-12-16,7h 23mSFO-BOS,1 stop,11:59 pm – 10:22 am+1,Blue Basic,$249
+Delta,2023-12-17,5h 45mSFO-BOS,nonstop,7:10 am – 3:55 pm,Basic Economy,$139
+Delta,2023-12-17,5h 45mSFO-BOS,nonstop,7:10 am – 3:55 pm,Basic Economy,$139
+United Airlines,2023-12-17,5h 36mSFO-BOS,nonstop,8:25 pm – 5:01 am+1,Basic Economy,$144
+United Airlines,2023-12-17,5h 35mSFO-BOS,nonstop,11:25 pm – 8:00 am+1,Basic Economy,$161
+Alaska Airlines,2023-12-17,5h 41mSFO-BOS,nonstop,7:40 am – 4:21 pm,Saver,$174
+JetBlue,2023-12-17,5h 39mSFO-BOS,nonstop,12:35 pm – 9:14 pm,Blue Basic,$194
+American Airlines,2023-12-17,5h 41mSFO-BOS,nonstop,7:40 am – 4:21 pm,Main Cabin,$219
+Delta,2023-12-17,5h 46mSFO-BOS,nonstop,1:20 pm – 10:06 pm,Basic Economy,$239
+United Airlines,2023-12-17,5h 36mSFO-BOS,nonstop,8:30 am – 5:06 pm,Basic Economy,$209
+United Airlines,2023-12-17,5h 36mSFO-BOS,nonstop,2:20 pm – 10:56 pm,Basic Economy,$209
+JetBlue,2023-12-17,5h 30mSFO-BOS,nonstop,8:25 am – 4:55 pm,Blue Basic,$194
+JetBlue,2023-12-17,5h 33mSFO-BOS,nonstop,3:21 pm – 11:54 pm,Blue Basic,$214
+JetBlue,2023-12-17,5h 38mSFO-BOS,nonstop,10:25 pm – 7:03 am+1,Blue Basic,$239
+United Airlines,2023-12-17,5h 36mSFO-BOS,nonstop,11:10 am – 7:46 pm,Basic Economy,$233
+JetBlue,2023-12-17,5h 34mSFO-BOS,nonstop,11:15 am – 7:49 pm,Blue Basic,$239
+Sun Country Air,2023-12-17,7h 41mSFO-BOS,1 stop,11:59 pm – 10:40 am+1,Economy,$150
+Alaska Airlines,2023-12-18,5h 41mSFO-BOS,nonstop,7:40 am – 4:21 pm,Saver,$159
+United Airlines,2023-12-18,5h 36mSFO-BOS,nonstop,8:25 pm – 5:01 am+1,Basic Economy,$112
+United Airlines,2023-12-18,5h 36mSFO-BOS,nonstop,2:20 pm – 10:56 pm,Basic Economy,$112
+Delta,2023-12-18,5h 45mSFO-BOS,nonstop,7:10 am – 3:55 pm,Basic Economy,$139
+JetBlue,2023-12-18,5h 34mSFO-BOS,nonstop,11:15 am – 7:49 pm,Blue Basic,$174
+JetBlue,2023-12-18,5h 39mSFO-BOS,nonstop,12:35 pm – 9:14 pm,Blue Basic,$174
+American Airlines,2023-12-18,5h 41mSFO-BOS,nonstop,7:40 am – 4:21 pm,Main Cabin,$184
+Alaska Airlines,2023-12-18,5h 41mSFO-BOS,nonstop,7:40 am – 4:21 pm,Saver,$159
+JetBlue,2023-12-18,5h 33mSFO-BOS,nonstop,3:21 pm – 11:54 pm,Blue Basic,$194
+JetBlue,2023-12-18,5h 30mSFO-BOS,nonstop,8:25 am – 4:55 pm,Blue Basic,$194
+Delta,2023-12-18,5h 46mSFO-BOS,nonstop,1:20 pm – 10:06 pm,Basic Economy,$174
+United Airlines,2023-12-18,5h 36mSFO-BOS,nonstop,11:10 am – 7:46 pm,Basic Economy,$209
+United Airlines,2023-12-18,5h 36mSFO-BOS,nonstop,8:30 am – 5:06 pm,Basic Economy,$209
+United Airlines,2023-12-18,5h 35mSFO-BOS,nonstop,11:25 pm – 8:00 am+1,Basic Economy,$169
+American Airlines,2023-12-18,7h 54mSFO-BOS,1 stop,1:01 pm – 11:55 pm,Basic Economy,$184
+United Airlines,2023-12-18,8h 59mSFO-BOS,1 stop,5:20 am – 5:19 pm,Basic Economy,$122
+Delta,2023-12-19,5h 45mSFO-BOS,nonstop,7:10 am – 3:55 pm,Basic Economy,$174
+Delta,2023-12-19,5h 45mSFO-BOS,nonstop,7:10 am – 3:55 pm,Basic Economy,$174
+"Frontier, Spirit Airlines",2023-12-19,29h 27mSFO-BOS,1 stop,10:23 pm – 6:50 am+2,Economy,$100
+United Airlines,2023-12-19,5h 36mSFO-BOS,nonstop,2:20 pm – 10:56 pm,Basic Economy,$169
+Delta,2023-12-19,5h 46mSFO-BOS,nonstop,1:20 pm – 10:06 pm,Basic Economy,$239
+JetBlue,2023-12-19,5h 30mSFO-BOS,nonstop,8:25 am – 4:55 pm,Blue Basic,$214
+Alaska Airlines,2023-12-19,5h 41mSFO-BOS,nonstop,7:40 am – 4:21 pm,Saver,$244
+JetBlue,2023-12-19,5h 38mSFO-BOS,nonstop,10:25 pm – 7:03 am+1,Blue Basic,$269
+American Airlines,2023-12-19,5h 41mSFO-BOS,nonstop,7:40 am – 4:21 pm,Main Cabin,$289
+JetBlue,2023-12-19,5h 33mSFO-BOS,nonstop,3:21 pm – 11:54 pm,Blue Basic,$269
+United Airlines,2023-12-19,5h 36mSFO-BOS,nonstop,8:30 am – 5:06 pm,Basic Economy,$283
+United Airlines,2023-12-19,5h 36mSFO-BOS,nonstop,11:10 am – 7:46 pm,Basic Economy,$283
+JetBlue,2023-12-19,5h 39mSFO-BOS,nonstop,12:35 pm – 9:14 pm,Blue Basic,$304
+United Airlines,2023-12-19,5h 35mSFO-BOS,nonstop,11:25 pm – 8:00 am+1,Basic Economy,$325
+American Airlines,2023-12-19,9h 47mSFO-BOS,1 stop,6:00 am – 6:47 pm,Basic Economy,$159
+American Airlines,2023-12-19,8h 21mSFO-BOS,1 stop,11:25 am – 10:46 pm,Basic Economy,$184
+American Airlines,2023-12-19,9h 22mSFO-BOS,1 stop,11:25 am – 11:47 pm,Basic Economy,$184
+Alaska Airlines,2023-12-20,5h 41mSFO-BOS,nonstop,7:40 am – 4:21 pm,Saver,$354
+Delta,2023-12-20,5h 46mSFO-BOS,nonstop,1:20 pm – 10:06 pm,Basic Economy,$269
+"Frontier, Spirit Airlines",2023-12-20,18h 50mSFO-BOS,2 stops,9:00 am – 6:50 am+1,Economy,$129
+JetBlue,2023-12-20,5h 39mSFO-BOS,nonstop,12:35 pm – 9:14 pm,Blue Basic,$269
+JetBlue,2023-12-20,5h 33mSFO-BOS,nonstop,3:21 pm – 11:54 pm,Blue Basic,$269
+United Airlines,2023-12-20,5h 36mSFO-BOS,nonstop,2:20 pm – 10:56 pm,Basic Economy,$273
+Delta,2023-12-20,5h 45mSFO-BOS,nonstop,7:10 am – 3:55 pm,Basic Economy,$319
+United Airlines,2023-12-20,5h 36mSFO-BOS,nonstop,11:10 am – 7:46 pm,Basic Economy,$325
+Alaska Airlines,2023-12-20,5h 41mSFO-BOS,nonstop,7:40 am – 4:21 pm,Saver,$354
+American Airlines,2023-12-20,5h 41mSFO-BOS,nonstop,7:40 am – 4:21 pm,Main Cabin,$399
+JetBlue,2023-12-20,5h 38mSFO-BOS,nonstop,10:25 pm – 7:03 am+1,Blue Basic,$394
+JetBlue,2023-12-20,5h 34mSFO-BOS,nonstop,11:15 am – 7:49 pm,Blue Basic,$394
+United Airlines,2023-12-20,5h 36mSFO-BOS,nonstop,8:30 am – 5:06 pm,Economy,$411
+JetBlue,2023-12-20,5h 30mSFO-BOS,nonstop,8:25 am – 4:55 pm,Blue Basic,$394
+United Airlines,2023-12-20,5h 35mSFO-BOS,nonstop,11:25 pm – 8:00 am+1,Economy,$411
+"Frontier, Spirit Airlines",2023-12-20,14h 02mSFO-BOS,1 stop,1:48 pm – 6:50 am+1,Economy,$164
+Delta,2023-12-20,7h 55mSFO-BOS,1 stop,12:20 am – 11:15 am,Basic Economy,$289
+JetBlue,2023-12-21,5h 33mSFO-BOS,nonstop,3:21 pm – 11:54 pm,Blue Basic,$344
+"Frontier, Spirit Airlines",2023-12-21,18h 50mSFO-BOS,2 stops,9:00 am – 6:50 am+1,Economy,$299
+Delta,2023-12-21,5h 46mSFO-BOS,nonstop,1:20 pm – 10:06 pm,Main Cabin,$369
+JetBlue,2023-12-21,5h 34mSFO-BOS,nonstop,11:15 am – 7:49 pm,Blue Basic,$394
+United Airlines,2023-12-21,5h 35mSFO-BOS,nonstop,1:18 pm – 9:53 pm,Economy,$417
+United Airlines,2023-12-21,5h 37mSFO-BOS,nonstop,8:30 am – 5:07 pm,Economy,$417
+Delta,2023-12-21,5h 45mSFO-BOS,nonstop,7:10 am – 3:55 pm,Main Cabin,$429
+United Airlines,2023-12-21,5h 42mSFO-BOS,nonstop,11:05 am – 7:47 pm,Economy,$469
+JetBlue,2023-12-21,5h 30mSFO-BOS,nonstop,8:25 am – 4:55 pm,Blue Basic,$498
+JetBlue,2023-12-21,5h 39mSFO-BOS,nonstop,12:35 pm – 9:14 pm,Blue Basic,$498
+Alaska Airlines,2023-12-21,5h 41mSFO-BOS,nonstop,7:40 am – 4:21 pm,Main,$534
+American Airlines,2023-12-21,5h 41mSFO-BOS,nonstop,7:40 am – 4:21 pm,Main Cabin,$534
+American Airlines,2023-12-21,7h 33mSFO-BOS,1 stop,6:50 pm – 5:23 am+1,Main Cabin,$479
+American Airlines,2023-12-21,7h 34mSFO-BOS,1 stop,6:25 am – 4:59 pm,Main Cabin,$479
+American Airlines,2023-12-21,7h 53mSFO-BOS,1 stop,1:00 pm – 11:53 pm,Main Cabin,$479
+American Airlines,2023-12-21,7h 59mSFO-BOS,1 stop,1:35 pm – 12:34 am+1,Main Cabin,$477
+Delta,2023-12-22,5h 46mSFO-BOS,nonstop,1:20 pm – 10:06 pm,Main Cabin,$489
+United Airlines,2023-12-22,5h 37mSFO-BOS,nonstop,8:30 am – 5:07 pm,Economy,$469
+"Frontier, Spirit Airlines",2023-12-22,42h 50mSFO-BOS,2 stops,9:00 am – 6:50 am+2,Economy,$246
+United Airlines,2023-12-22,5h 35mSFO-BOS,nonstop,1:18 pm – 9:53 pm,Economy,$469
+Delta,2023-12-22,5h 46mSFO-BOS,nonstop,1:20 pm – 10:06 pm,Main Cabin,$489
+Delta,2023-12-22,5h 45mSFO-BOS,nonstop,7:10 am – 3:55 pm,Main Cabin,$489
+JetBlue,2023-12-22,5h 39mSFO-BOS,nonstop,12:35 pm – 9:14 pm,Blue Basic,$520
+JetBlue,2023-12-22,5h 34mSFO-BOS,nonstop,11:15 am – 7:49 pm,Blue Basic,$520
+JetBlue,2023-12-22,5h 30mSFO-BOS,nonstop,8:25 am – 4:55 pm,Blue Basic,$520
+United Airlines,2023-12-22,5h 42mSFO-BOS,nonstop,11:05 am – 7:47 pm,Economy,$570
+JetBlue,2023-12-22,5h 38mSFO-BOS,nonstop,10:25 pm – 7:03 am+1,Blue Basic,$606
+United Airlines,2023-12-22,5h 36mSFO-BOS,nonstop,11:25 pm – 8:01 am+1,Economy,$613
+JetBlue,2023-12-22,5h 33mSFO-BOS,nonstop,3:21 pm – 11:54 pm,Blue Basic,$606
+Alaska Airlines,2023-12-22,5h 41mSFO-BOS,nonstop,7:40 am – 4:21 pm,Main,$649
+JetBlue,2023-12-22,7h 56mSFO-BOS,1 stop,5:25 am – 4:21 pm,Blue Basic,$404
+American Airlines,2023-12-22,5h 41mSFO-BOS,nonstop,7:40 am – 4:21 pm,Basic Economy,$649
+Sun Country Air,2023-12-22,7h 41mSFO-BOS,1 stop,11:59 pm – 10:40 am+1,Economy,$439
+Alaska Airlines,2023-12-23,25h 23mSFO-BOS,1 stop,7:35 pm – 11:58 pm+1,Saver,$308
+United Airlines,2023-12-23,5h 36mSFO-BOS,nonstop,11:25 pm – 8:01 am+1,Basic Economy,$340
+"Frontier, Spirit Airlines",2023-12-23,33h 16mSFO-BOS,3 stops,7:07 pm – 7:23 am+2,Economy,$264
+Delta,2023-12-23,5h 46mSFO-BOS,nonstop,1:20 pm – 10:06 pm,Main Cabin,$429
+JetBlue,2023-12-23,5h 33mSFO-BOS,nonstop,2:30 pm – 11:03 pm,Blue Basic,$394
+United Airlines,2023-12-23,5h 35mSFO-BOS,nonstop,1:18 pm – 9:53 pm,Economy,$439
+Delta,2023-12-23,5h 45mSFO-BOS,nonstop,7:10 am – 3:55 pm,Main Cabin,$489
+Alaska Airlines,2023-12-23,5h 45mSFO-BOS,nonstop,10:10 am – 6:55 pm,Main,$534
+American Airlines,2023-12-23,5h 45mSFO-BOS,nonstop,10:10 am – 6:55 pm,Main Cabin,$534
+United Airlines,2023-12-23,5h 42mSFO-BOS,nonstop,11:05 am – 7:47 pm,Economy,$566
+United Airlines,2023-12-23,5h 37mSFO-BOS,nonstop,8:30 am – 5:07 pm,Economy,$570
+JetBlue,2023-12-23,5h 30mSFO-BOS,nonstop,8:25 am – 4:55 pm,Blue Basic,$581
+Sun Country Air,2023-12-23,11h 07mSFO-BOS,1 stop,7:00 pm – 9:07 am+1,Economy,$326
+Sun Country Air,2023-12-23,7h 41mSFO-BOS,1 stop,11:59 pm – 10:40 am+1,Economy,$380
+American Airlines,2023-12-23,7h 33mSFO-BOS,1 stop,6:50 pm – 5:23 am+1,Main Cabin,$399
+Sun Country Air,2023-12-23,12h 40mSFO-BOS,1 stop,7:00 pm – 10:40 am+1,Economy,$341
+United Airlines,2023-12-23,8h 32mSFO-BOS,1 stop,9:30 pm – 9:02 am+1,Economy,$420
+Alaska Airlines,2023-12-24,5h 41mSFO-BOS,nonstop,7:40 am – 4:21 pm,Saver,$204
+United Airlines,2023-12-24,5h 35mSFO-BOS,nonstop,1:18 pm – 9:53 pm,Basic Economy,$169
+Sun Country Air,2023-12-24,7h 41mSFO-BOS,1 stop,11:59 pm – 10:40 am+1,Economy,$150
+United Airlines,2023-12-24,5h 42mSFO-BOS,nonstop,11:05 am – 7:47 pm,Basic Economy,$190
+JetBlue,2023-12-24,5h 38mSFO-BOS,nonstop,10:25 pm – 7:03 am+1,Blue Basic,$194
+Alaska Airlines,2023-12-24,5h 41mSFO-BOS,nonstop,7:40 am – 4:21 pm,Saver,$204
+Delta,2023-12-24,5h 45mSFO-BOS,nonstop,7:10 am – 3:55 pm,Basic Economy,$239
+United Airlines,2023-12-24,5h 37mSFO-BOS,nonstop,8:30 am – 5:07 pm,Basic Economy,$233
+JetBlue,2023-12-24,5h 39mSFO-BOS,nonstop,12:35 pm – 9:14 pm,Blue Basic,$239
+American Airlines,2023-12-24,5h 41mSFO-BOS,nonstop,7:40 am – 4:21 pm,Main Cabin,$249
+JetBlue,2023-12-24,5h 34mSFO-BOS,nonstop,11:15 am – 7:49 pm,Blue Basic,$239
+JetBlue,2023-12-24,5h 30mSFO-BOS,nonstop,8:25 am – 4:55 pm,Blue Basic,$239
+United Airlines,2023-12-24,8h 32mSFO-BOS,1 stop,9:30 pm – 9:02 am+1,Basic Economy,$153
+United Airlines,2023-12-24,9h 29mSFO-BOS,1 stop,11:45 pm – 12:14 pm+1,Basic Economy,$153
+United Airlines,2023-12-24,7h 38mSFO-BOS,1 stop,11:38 pm – 10:16 am+1,Basic Economy,$206
+JetBlue,2023-12-24,7h 28mSFO-BOS,1 stop,11:59 pm – 10:27 am+1,Blue Basic,$224
+United Airlines,2023-12-25,5h 35mSFO-BOS,nonstop,1:18 pm – 9:53 pm,Basic Economy,$112
+JetBlue,2023-12-25,5h 33mSFO-BOS,nonstop,3:20 pm – 11:53 pm,Blue Basic,$139
+JetBlue,2023-12-25,5h 30mSFO-BOS,nonstop,8:25 am – 4:55 pm,Blue Basic,$139
+JetBlue,2023-12-25,5h 39mSFO-BOS,nonstop,12:35 pm – 9:14 pm,Blue Basic,$139
+United Airlines,2023-12-25,5h 37mSFO-BOS,nonstop,8:30 am – 5:07 pm,Basic Economy,$144
+United Airlines,2023-12-25,5h 42mSFO-BOS,nonstop,11:05 am – 7:47 pm,Basic Economy,$169
+Delta,2023-12-25,5h 45mSFO-BOS,nonstop,7:10 am – 3:55 pm,Basic Economy,$139
+United Airlines,2023-12-25,7h 42mSFO-BOS,1 stop,7:08 pm – 5:50 am+1,Basic Economy,$122
+Alaska Airlines,2023-12-25,5h 41mSFO-BOS,nonstop,7:40 am – 4:21 pm,Saver,$159
+American Airlines,2023-12-25,5h 41mSFO-BOS,nonstop,7:40 am – 4:21 pm,Main Cabin,$207
+United Airlines,2023-12-25,7h 48mSFO-BOS,1 stop,1:10 pm – 11:58 pm,Basic Economy,$153
+American Airlines,2023-12-25,8h 01mSFO-BOS,1 stop,9:05 am – 8:06 pm,Basic Economy,$159
+United Airlines,2023-12-25,9h 38mSFO-BOS,1 stop,11:20 am – 11:58 pm,Basic Economy,$122
+United Airlines,2023-12-25,7h 57mSFO-BOS,1 stop,11:03 am – 10:00 pm,Basic Economy,$179
+United Airlines,2023-12-25,7h 26mSFO-BOS,1 stop,8:50 am – 7:16 pm,Basic Economy,$210
+Alaska Airlines,2023-12-26,5h 41mSFO-BOS,nonstop,7:40 am – 4:21 pm,Saver,$244
+Delta,2023-12-26,5h 46mSFO-BOS,nonstop,1:20 pm – 10:06 pm,Basic Economy,$174
+JetBlue,2023-12-26,5h 33mSFO-BOS,nonstop,3:20 pm – 11:53 pm,Blue Basic,$194
+United Airlines,2023-12-26,5h 36mSFO-BOS,nonstop,11:25 pm – 8:01 am+1,Basic Economy,$209
+JetBlue,2023-12-26,5h 39mSFO-BOS,nonstop,12:35 pm – 9:14 pm,Blue Basic,$214
+JetBlue,2023-12-26,5h 34mSFO-BOS,nonstop,11:15 am – 7:49 pm,Blue Basic,$214
+Delta,2023-12-26,5h 45mSFO-BOS,nonstop,7:10 am – 3:55 pm,Basic Economy,$239
+Alaska Airlines,2023-12-26,5h 41mSFO-BOS,nonstop,7:40 am – 4:21 pm,Saver,$244
+United Airlines,2023-12-26,5h 42mSFO-BOS,nonstop,11:05 am – 7:47 pm,Basic Economy,$252
+United Airlines,2023-12-26,5h 35mSFO-BOS,nonstop,1:18 pm – 9:53 pm,Basic Economy,$252
+American Airlines,2023-12-26,5h 41mSFO-BOS,nonstop,7:40 am – 4:21 pm,Main Cabin,$289
+United Airlines,2023-12-26,5h 37mSFO-BOS,nonstop,8:30 am – 5:07 pm,Basic Economy,$283
+JetBlue,2023-12-26,5h 38mSFO-BOS,nonstop,10:25 pm – 7:03 am+1,Blue Basic,$304
+JetBlue,2023-12-26,5h 30mSFO-BOS,nonstop,8:25 am – 4:55 pm,Blue Basic,$304
+United Airlines,2023-12-26,8h 40mSFO-BOS,1 stop,12:59 am – 12:39 pm,Basic Economy,$216
+United Airlines,2023-12-26,7h 42mSFO-BOS,1 stop,7:08 pm – 5:50 am+1,Basic Economy,$299
+Alaska Airlines,2023-12-27,5h 41mSFO-BOS,nonstop,7:40 am – 4:21 pm,Saver,$294
+United Airlines,2023-12-27,5h 36mSFO-BOS,nonstop,11:25 pm – 8:01 am+1,Basic Economy,$209
+"Frontier, Spirit Airlines",2023-12-27,34h 02mSFO-BOS,2 stops,10:23 pm – 11:25 am+2,Economy,$177
+Delta,2023-12-27,5h 46mSFO-BOS,nonstop,1:20 pm – 10:06 pm,Basic Economy,$269
+Delta,2023-12-27,5h 45mSFO-BOS,nonstop,7:10 am – 3:55 pm,Basic Economy,$269
+United Airlines,2023-12-27,5h 35mSFO-BOS,nonstop,1:18 pm – 9:53 pm,Basic Economy,$252
+United Airlines,2023-12-27,5h 42mSFO-BOS,nonstop,11:05 am – 7:47 pm,Basic Economy,$283
+JetBlue,2023-12-27,5h 33mSFO-BOS,nonstop,3:20 pm – 11:53 pm,Blue Basic,$269
+United Airlines,2023-12-27,5h 37mSFO-BOS,nonstop,8:30 am – 5:07 pm,Basic Economy,$283
+Alaska Airlines,2023-12-27,5h 41mSFO-BOS,nonstop,7:40 am – 4:21 pm,Saver,$294
+JetBlue,2023-12-27,5h 39mSFO-BOS,nonstop,12:35 pm – 9:14 pm,Blue Basic,$304
+JetBlue,2023-12-27,5h 38mSFO-BOS,nonstop,10:25 pm – 7:03 am+1,Blue Basic,$304
+American Airlines,2023-12-27,5h 41mSFO-BOS,nonstop,7:40 am – 4:21 pm,Main Cabin,$339
+JetBlue,2023-12-27,5h 34mSFO-BOS,nonstop,11:15 am – 7:49 pm,Blue Basic,$344
+JetBlue,2023-12-27,5h 30mSFO-BOS,nonstop,8:25 am – 4:55 pm,Blue Basic,$344
+United Airlines,2023-12-27,7h 42mSFO-BOS,1 stop,7:08 pm – 5:50 am+1,Basic Economy,$299
+Sun Country Air,2023-12-27,7h 41mSFO-BOS,1 stop,11:59 pm – 10:40 am+1,Economy,$316
+Spirit Airlines,2023-12-01,13h 25mDFW-LGA,1 stop,6:35 pm – 9:00 am+1,Economy,$79
+Frontier,2023-12-01,3h 19mDFW-LGA,nonstop,5:41 pm – 10:00 pm,Economy,$119
+"Spirit Airlines, Frontier",2023-12-01,24h 40mDFW-LGA,1 stop,8:20 pm – 10:00 pm+1,Economy,$65
+Spirit Airlines,2023-12-01,3h 13mDFW-LGA,nonstop,5:52 am – 10:05 am,Economy,$126
+Delta,2023-12-01,3h 31mDFW-LGA,nonstop,7:00 pm – 11:31 pm,Basic Economy,$139
+United Airlines,2023-12-01,3h 28mDFW-EWR,nonstop,7:24 pm – 11:52 pm,Basic Economy,$139
+United Airlines,2023-12-01,3h 24mDFW-EWR,nonstop,12:47 pm – 5:11 pm,Basic Economy,$139
+Spirit Airlines,2023-12-01,3h 21mDFW-EWR,nonstop,5:30 am – 9:51 am,Economy,$149
+American Airlines,2023-12-01,3h 27mDFW-LGA,nonstop,7:18 pm – 11:45 pm,Basic Economy,$159
+Delta,2023-12-01,3h 24mDFW-LGA,nonstop,5:05 pm – 9:29 pm,Basic Economy,$159
+American Airlines,2023-12-01,3h 21mDFW-LGA,nonstop,6:00 pm – 10:21 pm,Basic Economy,$159
+American Airlines,2023-12-01,3h 20mDFW-LGA,nonstop,4:38 pm – 8:58 pm,Basic Economy,$159
+American Airlines,2023-12-01,3h 19mDFW-LGA,nonstop,1:40 pm – 5:59 pm,Basic Economy,$159
+Delta,2023-12-01,3h 30mDFW-LGA,nonstop,12:59 pm – 5:29 pm,Basic Economy,$189
+Delta,2023-12-01,3h 25mDFW-LGA,nonstop,3:35 pm – 8:00 pm,Basic Economy,$189
+Delta,2023-12-01,3h 23mDFW-LGA,nonstop,6:00 am – 10:23 am,Basic Economy,$189
+Delta,2023-12-01,3h 29mDFW-JFK,nonstop,12:30 pm – 4:59 pm,Basic Economy,$199
+Delta,2023-12-11,3h 29mDFW-LGA,nonstop,7:00 pm – 11:29 pm,Basic Economy,$109
+Frontier,2023-12-11,6h 54mDFW-LGA,1 stop,9:35 am – 5:29 pm,Economy,$181
+Frontier,2023-12-11,3h 19mDFW-LGA,nonstop,5:41 pm – 10:00 pm,Economy,$62
+Delta,2023-12-11,3h 29mDFW-LGA,nonstop,7:00 pm – 11:29 pm,Basic Economy,$109
+Spirit Airlines,2023-12-11,3h 17mDFW-LGA,nonstop,5:52 am – 10:09 am,Economy,$94
+American Airlines,2023-12-11,3h 32mDFW-JFK,nonstop,8:57 am – 1:29 pm,Basic Economy,$151
+Spirit Airlines,2023-12-11,3h 26mDFW-EWR,nonstop,6:00 am – 10:26 am,Economy,$147
+American Airlines,2023-12-11,3h 26mDFW-LGA,nonstop,7:20 pm – 11:46 pm,Basic Economy,$154
+American Airlines,2023-12-11,3h 30mDFW-JFK,nonstop,5:11 pm – 9:41 pm,Basic Economy,$164
+American Airlines,2023-12-11,3h 20mDFW-LGA,nonstop,4:39 pm – 8:59 pm,Basic Economy,$154
+American Airlines,2023-12-11,3h 19mDFW-LGA,nonstop,1:41 pm – 6:00 pm,Basic Economy,$154
+American Airlines,2023-12-11,3h 19mDFW-LGA,nonstop,5:41 pm – 10:00 pm,Basic Economy,$154
+Delta,2023-12-11,3h 27mDFW-LGA,nonstop,6:03 am – 10:30 am,Basic Economy,$189
+Delta,2023-12-11,3h 33mDFW-JFK,nonstop,7:00 am – 11:33 am,Basic Economy,$199
+American Airlines,2023-12-11,3h 19mDFW-LGA,nonstop,3:36 pm – 7:55 pm,Basic Economy,$199
+American Airlines,2023-12-11,3h 19mDFW-LGA,nonstop,6:11 am – 10:30 am,Basic Economy,$199
+Frontier,2023-12-12,3h 19mDFW-LGA,nonstop,5:41 pm – 10:00 pm,Economy,$39
+Spirit Airlines,2023-12-12,3h 25mDFW-EWR,nonstop,8:30 am – 12:55 pm,Economy,$59
+Spirit Airlines,2023-12-12,3h 17mDFW-LGA,nonstop,5:52 am – 10:09 am,Economy,$60
+American Airlines,2023-12-12,3h 22mDFW-EWR,nonstop,7:09 pm – 11:31 pm,Basic Economy,$99
+United Airlines,2023-12-12,3h 19mDFW-EWR,nonstop,6:00 am – 10:19 am,Basic Economy,$99
+United Airlines,2023-12-12,3h 24mDFW-EWR,nonstop,12:47 pm – 5:11 pm,Basic Economy,$99
+United Airlines,2023-12-12,3h 28mDFW-EWR,nonstop,7:24 pm – 11:52 pm,Basic Economy,$99
+United Airlines,2023-12-12,3h 30mDFW-EWR,nonstop,4:15 pm – 8:45 pm,Basic Economy,$99
+American Airlines,2023-12-12,3h 19mDFW-LGA,nonstop,3:36 pm – 7:55 pm,Basic Economy,$109
+American Airlines,2023-12-12,3h 20mDFW-LGA,nonstop,4:39 pm – 8:59 pm,Basic Economy,$109
+American Airlines,2023-12-12,3h 19mDFW-LGA,nonstop,6:11 am – 10:30 am,Basic Economy,$109
+American Airlines,2023-12-12,3h 13mDFW-EWR,nonstop,11:34 am – 3:47 pm,Basic Economy,$119
+American Airlines,2023-12-12,3h 17mDFW-EWR,nonstop,2:43 pm – 7:00 pm,Basic Economy,$119
+American Airlines,2023-12-12,3h 18mDFW-EWR,nonstop,8:19 am – 12:37 pm,Basic Economy,$119
+Delta,2023-12-12,3h 21mDFW-LGA,nonstop,10:25 am – 2:46 pm,Basic Economy,$99
+Frontier,2023-12-13,3h 19mDFW-LGA,nonstop,5:41 pm – 10:00 pm,Economy,$58
+Frontier,2023-12-13,3h 19mDFW-LGA,nonstop,5:41 pm – 10:00 pm,Economy,$53
+Spirit Airlines,2023-12-13,7h 26mDFW-EWR,1 stop,1:08 pm – 9:34 pm,Economy,$49
+Spirit Airlines,2023-12-13,3h 25mDFW-EWR,nonstop,8:30 am – 12:55 pm,Economy,$59
+Spirit Airlines,2023-12-13,3h 17mDFW-LGA,nonstop,5:52 am – 10:09 am,Economy,$60
+Delta,2023-12-13,3h 27mDFW-LGA,nonstop,6:03 am – 10:30 am,Basic Economy,$99
+United Airlines,2023-12-13,3h 25mDFW-EWR,nonstop,9:58 am – 2:23 pm,Basic Economy,$99
+United Airlines,2023-12-13,3h 24mDFW-EWR,nonstop,12:47 pm – 5:11 pm,Basic Economy,$99
+United Airlines,2023-12-13,3h 24mDFW-EWR,nonstop,12:15 pm – 4:39 pm,Basic Economy,$99
+United Airlines,2023-12-13,3h 19mDFW-EWR,nonstop,6:00 am – 10:19 am,Basic Economy,$99
+American Airlines,2023-12-13,3h 13mDFW-EWR,nonstop,11:34 am – 3:47 pm,Basic Economy,$99
+American Airlines,2023-12-13,3h 19mDFW-LGA,nonstop,3:36 pm – 7:55 pm,Basic Economy,$109
+Delta,2023-12-13,3h 29mDFW-LGA,nonstop,7:00 pm – 11:29 pm,Basic Economy,$129
+American Airlines,2023-12-13,3h 18mDFW-EWR,nonstop,8:19 am – 12:37 pm,Basic Economy,$119
+American Airlines,2023-12-13,3h 17mDFW-EWR,nonstop,2:43 pm – 7:00 pm,Basic Economy,$119
+Delta,2023-12-13,3h 27mDFW-LGA,nonstop,1:07 pm – 5:34 pm,Basic Economy,$129
+Delta,2023-12-13,3h 33mDFW-JFK,nonstop,7:00 am – 11:33 am,Basic Economy,$139
+Delta,2023-12-14,3h 26mDFW-LGA,nonstop,5:33 pm – 9:59 pm,Basic Economy,$109
+Spirit Airlines,2023-12-14,9h 07mDFW-LGA,2 stops,10:13 am – 8:20 pm,Economy,$90
+Spirit Airlines,2023-12-14,3h 25mDFW-EWR,nonstop,8:30 am – 12:55 pm,Economy,$59
+Spirit Airlines,2023-12-14,3h 17mDFW-LGA,nonstop,5:52 am – 10:09 am,Economy,$60
+Delta,2023-12-14,3h 26mDFW-LGA,nonstop,5:33 pm – 9:59 pm,Basic Economy,$109
+Frontier,2023-12-14,3h 19mDFW-LGA,nonstop,5:43 pm – 10:02 pm,Economy,$118
+Delta,2023-12-14,3h 27mDFW-LGA,nonstop,6:03 am – 10:30 am,Basic Economy,$129
+American Airlines,2023-12-14,3h 26mDFW-LGA,nonstop,7:20 pm – 11:46 pm,Basic Economy,$154
+Delta,2023-12-14,3h 29mDFW-LGA,nonstop,7:00 pm – 11:29 pm,Basic Economy,$189
+Delta,2023-12-14,3h 24mDFW-LGA,nonstop,3:41 pm – 8:05 pm,Basic Economy,$189
+United Airlines,2023-12-14,3h 19mDFW-EWR,nonstop,6:00 am – 10:19 am,Basic Economy,$197
+American Airlines,2023-12-14,3h 19mDFW-LGA,nonstop,3:36 pm – 7:55 pm,Basic Economy,$199
+American Airlines,2023-12-14,3h 19mDFW-LGA,nonstop,6:11 am – 10:30 am,Basic Economy,$199
+American Airlines,2023-12-14,3h 19mDFW-LGA,nonstop,1:41 pm – 6:00 pm,Basic Economy,$209
+American Airlines,2023-12-14,3h 19mDFW-LGA,nonstop,5:41 pm – 10:00 pm,Basic Economy,$209
+American Airlines,2023-12-14,3h 30mDFW-JFK,nonstop,5:11 pm – 9:41 pm,Basic Economy,$219
+Spirit Airlines,2023-12-16,3h 25mDFW-EWR,nonstop,7:00 am – 11:25 am,Economy,$60
+Frontier,2023-12-16,3h 19mDFW-LGA,nonstop,5:41 pm – 10:00 pm,Economy,$108
+American Airlines,2023-12-16,3h 26mDFW-LGA,nonstop,7:20 pm – 11:46 pm,Basic Economy,$154
+Spirit Airlines,2023-12-16,3h 17mDFW-LGA,nonstop,5:52 am – 10:09 am,Economy,$126
+United Airlines,2023-12-16,5h 44mDFW-EWR,1 stop,6:00 pm – 12:44 am+1,Basic Economy,$109
+Spirit Airlines,2023-12-16,6h 37mDFW-EWR,1 stop,9:56 am – 5:33 pm,Economy,$77
+United Airlines,2023-12-16,4h 46mDFW-LGA,1 stop,5:37 pm – 11:23 pm,Basic Economy,$140
+Spirit Airlines,2023-12-16,6h 18mDFW-EWR,1 stop,5:30 am – 12:48 pm,Economy,$77
+American Airlines,2023-12-16,3h 20mDFW-LGA,nonstop,5:10 pm – 9:30 pm,Basic Economy,$199
+American Airlines,2023-12-16,3h 19mDFW-LGA,nonstop,3:36 pm – 7:55 pm,Basic Economy,$199
+United Airlines,2023-12-16,4h 52mDFW-EWR,1 stop,5:37 pm – 11:29 pm,Basic Economy,$159
+Spirit Airlines,2023-12-16,6h 53mDFW-LGA,1 stop,11:11 am – 7:04 pm,Economy,$97
+Spirit Airlines,2023-12-16,6h 08mDFW-LGA,1 stop,9:40 am – 4:48 pm,Economy,$117
+United Airlines,2023-12-16,5h 08mDFW-LGA,1 stop,7:45 am – 1:53 pm,Basic Economy,$159
+Spirit Airlines,2023-12-16,7h 26mDFW-EWR,1 stop,1:08 pm – 9:34 pm,Economy,$96
+Spirit Airlines,2023-12-17,3h 24mDFW-EWR,nonstop,5:45 am – 10:09 am,Economy,$67
+Spirit Airlines,2023-12-17,3h 24mDFW-EWR,nonstop,5:45 am – 10:09 am,Economy,$63
+Spirit Airlines,2023-12-17,3h 17mDFW-LGA,nonstop,5:52 am – 10:09 am,Economy,$64
+Frontier,2023-12-17,3h 19mDFW-LGA,nonstop,5:41 pm – 10:00 pm,Economy,$107
+Delta,2023-12-17,3h 29mDFW-LGA,nonstop,7:00 pm – 11:29 pm,Basic Economy,$159
+American Airlines,2023-12-17,3h 26mDFW-LGA,nonstop,7:20 pm – 11:46 pm,Basic Economy,$164
+American Airlines,2023-12-17,3h 25mDFW-LGA,nonstop,7:09 am – 11:34 am,Basic Economy,$164
+American Airlines,2023-12-17,3h 19mDFW-LGA,nonstop,5:41 pm – 10:00 pm,Basic Economy,$164
+American Airlines,2023-12-17,3h 19mDFW-LGA,nonstop,3:36 pm – 7:55 pm,Basic Economy,$164
+American Airlines,2023-12-17,3h 19mDFW-LGA,nonstop,6:11 am – 10:30 am,Basic Economy,$164
+Delta,2023-12-17,3h 28mDFW-LGA,nonstop,5:30 pm – 9:58 pm,Basic Economy,$189
+Delta,2023-12-17,3h 27mDFW-LGA,nonstop,6:00 am – 10:27 am,Basic Economy,$189
+Delta,2023-12-17,3h 32mDFW-JFK,nonstop,6:40 am – 11:12 am,Basic Economy,$199
+American Airlines,2023-12-17,3h 31mDFW-LGA,nonstop,10:28 am – 2:59 pm,Basic Economy,$219
+American Airlines,2023-12-17,3h 26mDFW-LGA,nonstop,8:33 am – 12:59 pm,Basic Economy,$219
+Delta,2023-12-17,3h 23mDFW-LGA,nonstop,10:17 am – 2:40 pm,Basic Economy,$219
+Spirit Airlines,2023-12-18,3h 26mDFW-EWR,nonstop,6:00 am – 10:26 am,Economy,$58
+Spirit Airlines,2023-12-18,3h 17mDFW-LGA,nonstop,5:52 am – 10:09 am,Economy,$59
+American Airlines,2023-12-18,3h 20mDFW-LGA,nonstop,4:39 pm – 8:59 pm,Basic Economy,$109
+American Airlines,2023-12-18,3h 19mDFW-LGA,nonstop,3:36 pm – 7:55 pm,Basic Economy,$109
+Frontier,2023-12-18,3h 19mDFW-LGA,nonstop,5:41 pm – 10:00 pm,Economy,$97
+American Airlines,2023-12-18,3h 19mDFW-LGA,nonstop,6:11 am – 10:30 am,Basic Economy,$109
+Delta,2023-12-18,3h 29mDFW-LGA,nonstop,7:00 pm – 11:29 pm,Basic Economy,$109
+Delta,2023-12-18,3h 28mDFW-LGA,nonstop,5:30 pm – 9:58 pm,Basic Economy,$109
+American Airlines,2023-12-18,3h 19mDFW-LGA,nonstop,5:41 pm – 10:00 pm,Basic Economy,$154
+American Airlines,2023-12-18,3h 19mDFW-LGA,nonstop,1:41 pm – 6:00 pm,Basic Economy,$154
+United Airlines,2023-12-18,4h 46mDFW-LGA,1 stop,5:37 pm – 11:23 pm,Basic Economy,$119
+American Airlines,2023-12-18,3h 26mDFW-LGA,nonstop,7:20 pm – 11:46 pm,Basic Economy,$154
+American Airlines,2023-12-18,3h 23mDFW-LGA,nonstop,12:37 pm – 5:00 pm,Basic Economy,$154
+United Airlines,2023-12-18,4h 52mDFW-EWR,1 stop,5:37 pm – 11:29 pm,Basic Economy,$119
+American Airlines,2023-12-18,3h 32mDFW-JFK,nonstop,8:57 am – 1:29 pm,Basic Economy,$151
+Spirit Airlines,2023-12-19,3h 25mDFW-EWR,nonstop,8:30 am – 12:55 pm,Economy,$63
+Spirit Airlines,2023-12-19,3h 25mDFW-EWR,nonstop,8:30 am – 12:55 pm,Economy,$63
+Spirit Airlines,2023-12-19,3h 17mDFW-LGA,nonstop,5:52 am – 10:09 am,Economy,$64
+Frontier,2023-12-19,3h 19mDFW-LGA,nonstop,5:41 pm – 10:00 pm,Economy,$81
+Delta,2023-12-19,3h 32mDFW-JFK,nonstop,6:40 am – 11:12 am,Basic Economy,$99
+Delta,2023-12-19,3h 28mDFW-LGA,nonstop,5:30 pm – 9:58 pm,Basic Economy,$99
+Delta,2023-12-19,3h 23mDFW-LGA,nonstop,1:21 pm – 5:44 pm,Basic Economy,$99
+Delta,2023-12-19,3h 29mDFW-LGA,nonstop,7:00 pm – 11:29 pm,Basic Economy,$129
+Delta,2023-12-19,3h 28mDFW-LGA,nonstop,3:51 pm – 8:19 pm,Basic Economy,$129
+American Airlines,2023-12-19,3h 32mDFW-JFK,nonstop,8:57 am – 1:29 pm,Basic Economy,$131
+Delta,2023-12-19,3h 27mDFW-LGA,nonstop,6:00 am – 10:27 am,Basic Economy,$129
+Delta,2023-12-19,3h 37mDFW-JFK,nonstop,12:43 pm – 5:20 pm,Basic Economy,$139
+United Airlines,2023-12-19,3h 19mDFW-EWR,nonstop,6:00 am – 10:19 am,Basic Economy,$131
+American Airlines,2023-12-19,3h 31mDFW-LGA,nonstop,10:28 am – 2:59 pm,Basic Economy,$154
+American Airlines,2023-12-19,3h 26mDFW-LGA,nonstop,8:33 am – 12:59 pm,Basic Economy,$154
+American Airlines,2023-12-19,3h 25mDFW-LGA,nonstop,7:09 am – 11:34 am,Basic Economy,$154
+Spirit Airlines,2023-12-20,3h 17mDFW-LGA,nonstop,5:52 am – 10:09 am,Economy,$64
+Spirit Airlines,2023-12-20,3h 17mDFW-LGA,nonstop,5:52 am – 10:09 am,Economy,$60
+Spirit Airlines,2023-12-20,3h 25mDFW-EWR,nonstop,8:30 am – 12:55 pm,Economy,$114
+Frontier,2023-12-20,3h 19mDFW-LGA,nonstop,5:41 pm – 10:00 pm,Economy,$118
+Delta,2023-12-20,3h 27mDFW-LGA,nonstop,6:00 am – 10:27 am,Basic Economy,$129
+American Airlines,2023-12-20,3h 31mDFW-JFK,nonstop,5:10 pm – 9:41 pm,Basic Economy,$159
+Delta,2023-12-20,3h 37mDFW-JFK,nonstop,12:43 pm – 5:20 pm,Basic Economy,$165
+Delta,2023-12-20,3h 28mDFW-LGA,nonstop,3:51 pm – 8:19 pm,Basic Economy,$159
+Delta,2023-12-20,3h 23mDFW-LGA,nonstop,1:21 pm – 5:44 pm,Basic Economy,$159
+American Airlines,2023-12-20,3h 17mDFW-LGA,nonstop,3:43 pm – 8:00 pm,Basic Economy,$154
+United Airlines,2023-12-20,3h 30mDFW-EWR,nonstop,4:25 pm – 8:55 pm,Basic Economy,$173
+United Airlines,2023-12-20,3h 24mDFW-EWR,nonstop,12:15 pm – 4:39 pm,Basic Economy,$173
+Delta,2023-12-20,3h 29mDFW-LGA,nonstop,7:00 pm – 11:29 pm,Basic Economy,$189
+Delta,2023-12-20,3h 28mDFW-LGA,nonstop,5:30 pm – 9:58 pm,Basic Economy,$189
+United Airlines,2023-12-20,3h 25mDFW-EWR,nonstop,8:04 am – 12:29 pm,Basic Economy,$198
+American Airlines,2023-12-20,3h 21mDFW-LGA,nonstop,7:17 am – 11:38 am,Basic Economy,$199
+Spirit Airlines,2023-12-21,12h 34mDFW-LGA,1 stop,6:10 am – 7:44 pm,Economy,$85
+Frontier,2023-12-21,3h 19mDFW-LGA,nonstop,5:43 pm – 10:02 pm,Economy,$139
+Spirit Airlines,2023-12-21,12h 34mDFW-LGA,1 stop,6:10 am – 7:44 pm,Economy,$85
+Spirit Airlines,2023-12-21,3h 25mDFW-EWR,nonstop,8:30 am – 12:55 pm,Economy,$147
+Spirit Airlines,2023-12-21,3h 17mDFW-LGA,nonstop,5:52 am – 10:09 am,Economy,$154
+Delta,2023-12-21,3h 28mDFW-LGA,nonstop,5:30 pm – 9:58 pm,Basic Economy,$189
+Spirit Airlines,2023-12-21,6h 18mDFW-EWR,1 stop,5:30 am – 12:48 pm,Economy,$91
+Delta,2023-12-21,3h 29mDFW-LGA,nonstop,7:00 pm – 11:29 pm,Basic Economy,$219
+Delta,2023-12-21,3h 28mDFW-LGA,nonstop,3:51 pm – 8:19 pm,Basic Economy,$219
+American Airlines,2023-12-21,3h 17mDFW-LGA,nonstop,7:29 pm – 11:46 pm,Basic Economy,$209
+United Airlines,2023-12-21,3h 09mDFW-EWR,nonstop,7:45 am – 11:54 am,Basic Economy,$209
+Delta,2023-12-21,3h 37mDFW-JFK,nonstop,12:43 pm – 5:20 pm,Basic Economy,$239
+Delta,2023-12-21,3h 32mDFW-JFK,nonstop,6:40 am – 11:12 am,Basic Economy,$239
+American Airlines,2023-12-21,3h 22mDFW-LGA,nonstop,12:43 pm – 5:05 pm,Basic Economy,$256
+American Airlines,2023-12-21,3h 21mDFW-LGA,nonstop,7:17 am – 11:38 am,Basic Economy,$256
+American Airlines,2023-12-21,3h 18mDFW-LGA,nonstop,9:20 am – 1:38 pm,Basic Economy,$256
+American Airlines,2023-12-21,3h 17mDFW-LGA,nonstop,3:43 pm – 8:00 pm,Basic Economy,$256
+Spirit Airlines,2023-12-22,3h 26mDFW-EWR,nonstop,6:00 am – 10:26 am,Economy,$87
+Delta,2023-12-22,3h 29mDFW-LGA,nonstop,7:00 pm – 11:29 pm,Basic Economy,$129
+Frontier,2023-12-22,3h 19mDFW-LGA,nonstop,5:41 pm – 10:00 pm,Economy,$150
+Spirit Airlines,2023-12-22,3h 17mDFW-LGA,nonstop,5:52 am – 10:09 am,Economy,$93
+Delta,2023-12-22,3h 32mDFW-JFK,nonstop,6:40 am – 11:12 am,Basic Economy,$199
+United Airlines,2023-12-22,3h 28mDFW-EWR,nonstop,6:32 pm – 11:00 pm,Basic Economy,$246
+American Airlines,2023-12-22,3h 31mDFW-JFK,nonstop,5:10 pm – 9:41 pm,Main Cabin,$269
+Spirit Airlines,2023-12-22,6h 08mDFW-LGA,1 stop,9:40 am – 4:48 pm,Economy,$144
+American Airlines,2023-12-22,3h 20mDFW-EWR,nonstop,7:09 pm – 11:29 pm,Main Cabin,$289
+American Airlines,2023-12-22,3h 20mDFW-EWR,nonstop,2:50 pm – 7:10 pm,Main Cabin,$289
+American Airlines,2023-12-22,5h 08mDFW-LGA,1 stop,12:53 pm – 7:01 pm,Basic Economy,$219
+United Airlines,2023-12-22,3h 09mDFW-EWR,nonstop,7:45 am – 11:54 am,Economy,$306
+American Airlines,2023-12-22,3h 17mDFW-LGA,nonstop,7:29 pm – 11:46 pm,Main Cabin,$311
+United Airlines,2023-12-22,5h 11mDFW-LGA,1 stop,7:00 am – 1:11 pm,Basic Economy,$233
+American Airlines,2023-12-22,3h 21mDFW-LGA,nonstop,7:17 am – 11:38 am,Main Cabin,$311
+Delta,2023-12-23,3h 29mDFW-LGA,nonstop,7:00 pm – 11:29 pm,Basic Economy,$99
+Spirit Airlines,2023-12-23,3h 17mDFW-LGA,nonstop,5:52 am – 10:09 am,Economy,$94
+Delta,2023-12-23,3h 37mDFW-JFK,nonstop,12:43 pm – 5:20 pm,Basic Economy,$99
+Frontier,2023-12-23,3h 19mDFW-LGA,nonstop,5:41 pm – 10:00 pm,Economy,$139
+Spirit Airlines,2023-12-23,3h 25mDFW-EWR,nonstop,7:00 am – 11:25 am,Economy,$147
+American Airlines,2023-12-23,3h 17mDFW-LGA,nonstop,7:29 pm – 11:46 pm,Basic Economy,$209
+United Airlines,2023-12-23,3h 28mDFW-EWR,nonstop,6:32 pm – 11:00 pm,Basic Economy,$209
+American Airlines,2023-12-23,3h 31mDFW-JFK,nonstop,5:10 pm – 9:41 pm,Basic Economy,$219
+United Airlines,2023-12-23,3h 28mDFW-EWR,nonstop,1:00 pm – 5:28 pm,Basic Economy,$246
+Spirit Airlines,2023-12-23,6h 08mDFW-LGA,1 stop,9:40 am – 4:48 pm,Economy,$121
+American Airlines,2023-12-23,3h 38mDFW-JFK,nonstop,12:21 pm – 4:59 pm,Main Cabin,$269
+American Airlines,2023-12-23,3h 20mDFW-EWR,nonstop,7:09 pm – 11:29 pm,Main Cabin,$289
+American Airlines,2023-12-23,3h 20mDFW-EWR,nonstop,2:50 pm – 7:10 pm,Main Cabin,$289
+United Airlines,2023-12-23,3h 09mDFW-EWR,nonstop,7:45 am – 11:54 am,Economy,$296
+American Airlines,2023-12-23,3h 18mDFW-EWR,nonstop,7:34 am – 11:52 am,Main Cabin,$289
+Frontier,2023-12-24,3h 19mDFW-LGA,nonstop,5:41 pm – 10:00 pm,Economy,$91
+American Airlines,2023-12-24,3h 20mDFW-EWR,nonstop,2:50 pm – 7:10 pm,Basic Economy,$149
+Delta,2023-12-24,3h 23mDFW-LGA,nonstop,1:30 pm – 5:53 pm,Basic Economy,$119
+Delta,2023-12-24,3h 28mDFW-LGA,nonstop,5:30 pm – 9:58 pm,Basic Economy,$119
+United Airlines,2023-12-24,3h 28mDFW-EWR,nonstop,6:32 pm – 11:00 pm,Basic Economy,$165
+Delta,2023-12-24,3h 28mDFW-LGA,nonstop,3:51 pm – 8:19 pm,Basic Economy,$159
+Delta,2023-12-24,4h 58mDAL-EWR,1 stop,6:40 pm – 12:38 am+1,Economy,$129
+United Airlines,2023-12-24,3h 09mDFW-EWR,nonstop,7:45 am – 11:54 am,Basic Economy,$209
+Spirit Airlines,2023-12-24,3h 17mDFW-LGA,nonstop,5:52 am – 10:09 am,Economy,$123
+United Airlines,2023-12-24,3h 28mDFW-EWR,nonstop,1:00 pm – 5:28 pm,Basic Economy,$209
+American Airlines,2023-12-24,3h 17mDFW-EWR,nonstop,11:47 am – 4:04 pm,Basic Economy,$219
+American Airlines,2023-12-24,3h 18mDFW-EWR,nonstop,7:34 am – 11:52 am,Basic Economy,$219
+American Airlines,2023-12-24,3h 21mDFW-LGA,nonstop,7:17 am – 11:38 am,Basic Economy,$219
+Delta,2023-12-24,3h 30mDFW-LGA,nonstop,7:35 am – 12:05 pm,Basic Economy,$189
+American Airlines,2023-12-24,4h 46mDFW-LGA,1 stop,11:05 am – 4:51 pm,Basic Economy,$174
+Spirit Airlines,2023-12-25,3h 17mDFW-LGA,nonstop,5:52 am – 10:09 am,Economy,$94
+Frontier,2023-12-25,3h 19mDFW-LGA,nonstop,5:41 pm – 10:00 pm,Economy,$174
+Delta,2023-12-25,3h 27mDFW-LGA,nonstop,11:30 am – 3:57 pm,Basic Economy,$159
+United Airlines,2023-12-25,3h 09mDFW-EWR,nonstop,7:45 am – 11:54 am,Basic Economy,$209
+Delta,2023-12-25,3h 26mDFW-LGA,nonstop,3:55 pm – 8:21 pm,Basic Economy,$189
+American Airlines,2023-12-25,3h 31mDFW-JFK,nonstop,5:10 pm – 9:41 pm,Basic Economy,$219
+Delta,2023-12-25,3h 27mDFW-LGA,nonstop,6:00 am – 10:27 am,Basic Economy,$189
+American Airlines,2023-12-25,3h 35mDFW-JFK,nonstop,8:54 am – 1:29 pm,Basic Economy,$219
+American Airlines,2023-12-25,3h 38mDFW-JFK,nonstop,12:21 pm – 4:59 pm,Basic Economy,$219
+Delta,2023-12-25,3h 37mDFW-JFK,nonstop,12:43 pm – 5:20 pm,Basic Economy,$199
+Delta,2023-12-25,3h 28mDFW-LGA,nonstop,5:30 pm – 9:58 pm,Basic Economy,$219
+American Airlines,2023-12-25,3h 18mDFW-LGA,nonstop,9:20 am – 1:38 pm,Basic Economy,$256
+United Airlines,2023-12-25,5h 39mDFW-EWR,1 stop,2:20 pm – 8:59 pm,Basic Economy,$176
+Delta,2023-12-25,4h 58mDAL-EWR,1 stop,6:40 pm – 12:38 am+1,Economy,$209
+United Airlines,2023-12-25,6h 05mDFW-EWR,1 stop,5:35 pm – 12:40 am+1,Basic Economy,$166
+Spirit Airlines,2023-12-26,3h 17mDFW-LGA,nonstop,5:52 am – 10:09 am,Economy,$98
+Spirit Airlines,2023-12-26,3h 17mDFW-LGA,nonstop,5:52 am – 10:09 am,Economy,$94
+Spirit Airlines,2023-12-26,3h 25mDFW-EWR,nonstop,8:30 am – 12:55 pm,Economy,$147
+Frontier,2023-12-26,3h 19mDFW-LGA,nonstop,5:41 pm – 10:00 pm,Economy,$231
+Delta,2023-12-26,3h 32mDFW-JFK,nonstop,6:40 am – 11:12 am,Basic Economy,$299
+United Airlines,2023-12-26,3h 28mDFW-EWR,nonstop,6:32 pm – 11:00 pm,Economy,$296
+American Airlines,2023-12-26,3h 18mDFW-EWR,nonstop,7:34 am – 11:52 am,Main Cabin,$289
+American Airlines,2023-12-26,3h 35mDFW-JFK,nonstop,8:54 am – 1:29 pm,Main Cabin,$319
+American Airlines,2023-12-26,3h 31mDFW-JFK,nonstop,5:10 pm – 9:41 pm,Main Cabin,$319
+Delta,2023-12-26,3h 33mDFW-JFK,nonstop,12:47 pm – 5:20 pm,Main Cabin,$339
+Spirit Airlines,2023-12-26,6h 18mDFW-EWR,1 stop,5:30 am – 12:48 pm,Economy,$120
+United Airlines,2023-12-26,3h 09mDFW-EWR,nonstop,7:45 am – 11:54 am,Economy,$341
+American Airlines,2023-12-26,3h 17mDFW-LGA,nonstop,7:29 pm – 11:46 pm,Main Cabin,$359
+American Airlines,2023-12-26,3h 17mDFW-LGA,nonstop,3:38 pm – 7:55 pm,Main Cabin,$359
+American Airlines,2023-12-26,3h 38mDFW-JFK,nonstop,12:21 pm – 4:59 pm,Main Cabin,$374
+United Airlines,2023-12-26,3h 28mDFW-EWR,nonstop,1:00 pm – 5:28 pm,Economy,$375
+Spirit Airlines,2023-12-27,3h 17mDFW-LGA,nonstop,5:52 am – 10:09 am,Economy,$98
+Spirit Airlines,2023-12-27,3h 25mDFW-EWR,nonstop,8:30 am – 12:55 pm,Economy,$115
+Spirit Airlines,2023-12-27,3h 17mDFW-LGA,nonstop,5:52 am – 10:09 am,Economy,$94
+Spirit Airlines,2023-12-27,6h 08mDFW-EWR,1 stop,11:58 am – 7:06 pm,Economy,$120
+American Airlines,2023-12-27,3h 20mDFW-EWR,nonstop,7:09 pm – 11:29 pm,Main Cabin,$275
+American Airlines,2023-12-27,3h 31mDFW-JFK,nonstop,5:10 pm – 9:41 pm,Main Cabin,$269
+Spirit Airlines,2023-12-27,6h 54mDFW-EWR,1 stop,3:26 pm – 11:20 pm,Economy,$112
+Spirit Airlines,2023-12-27,6h 08mDFW-LGA,1 stop,9:40 am – 4:48 pm,Economy,$145
+United Airlines,2023-12-27,3h 09mDFW-EWR,nonstop,7:45 am – 11:54 am,Economy,$296
+United Airlines,2023-12-27,3h 28mDFW-EWR,nonstop,6:32 pm – 11:00 pm,Economy,$296
+American Airlines,2023-12-27,3h 17mDFW-LGA,nonstop,7:29 pm – 11:46 pm,Main Cabin,$311
+Delta,2023-12-27,3h 32mDFW-JFK,nonstop,6:40 am – 11:12 am,Main Cabin,$299
+Spirit Airlines,2023-12-27,7h 13mDFW-LGA,1 stop,1:58 pm – 10:11 pm,Economy,$145
+Spirit Airlines,2023-12-27,6h 18mDFW-EWR,1 stop,5:30 am – 12:48 pm,Economy,$120
+Spirit Airlines,2023-12-27,8h 10mDFW-EWR,1 stop,9:56 am – 7:06 pm,Economy,$120
+Spirit Airlines,2023-12-27,8h 33mDFW-EWR,1 stop,3:26 pm – 12:59 am+1,Economy,$112
+Spirit Airlines,2023-12-28,6h 18mDFW-EWR,1 stop,5:30 am – 12:48 pm,Economy,$135
+Spirit Airlines,2023-12-28,3h 17mDFW-LGA,nonstop,5:52 am – 10:09 am,Economy,$194
+Spirit Airlines,2023-12-28,7h 52mDFW-EWR,1 stop,5:30 am – 2:22 pm,Economy,$124
+Spirit Airlines,2023-12-28,3h 25mDFW-EWR,nonstop,8:30 am – 12:55 pm,Economy,$197
+Delta,2023-12-28,3h 32mDFW-JFK,nonstop,6:40 am – 11:12 am,Basic Economy,$239
+Frontier,2023-12-28,3h 19mDFW-LGA,nonstop,5:43 pm – 10:02 pm,Economy,$229
+Delta,2023-12-28,3h 33mDFW-JFK,nonstop,12:47 pm – 5:20 pm,Main Cabin,$279
+Spirit Airlines,2023-12-28,6h 18mDFW-EWR,1 stop,5:30 am – 12:48 pm,Economy,$130
+American Airlines,2023-12-28,3h 35mDFW-JFK,nonstop,8:54 am – 1:29 pm,Main Cabin,$319
+Delta,2023-12-28,3h 28mDFW-LGA,nonstop,5:35 pm – 10:03 pm,Main Cabin,$319
+Delta,2023-12-28,3h 27mDFW-LGA,nonstop,6:00 am – 10:27 am,Main Cabin,$319
+United Airlines,2023-12-28,3h 28mDFW-EWR,nonstop,6:32 pm – 11:00 pm,Economy,$341
+Spirit Airlines,2023-12-28,6h 09mDFW-EWR,1 stop,4:50 pm – 11:59 pm,Economy,$139
+American Airlines,2023-12-28,3h 38mDFW-JFK,nonstop,12:21 pm – 4:59 pm,Main Cabin,$374
+American Airlines,2023-12-28,3h 21mDFW-LGA,nonstop,7:17 am – 11:38 am,Main Cabin,$359
+American Airlines,2023-12-28,3h 31mDFW-JFK,nonstop,5:10 pm – 9:41 pm,Main Cabin,$374
+Spirit Airlines,2023-12-29,3h 26mDFW-EWR,nonstop,6:00 am – 10:26 am,Economy,$148
+Spirit Airlines,2023-12-29,6h 18mDFW-EWR,1 stop,5:30 am – 12:48 pm,Economy,$130
+Spirit Airlines,2023-12-29,3h 17mDFW-LGA,nonstop,5:52 am – 10:09 am,Economy,$155
+Frontier,2023-12-29,3h 19mDFW-LGA,nonstop,5:41 pm – 10:00 pm,Economy,$231
+American Airlines,2023-12-29,3h 20mDFW-EWR,nonstop,2:50 pm – 7:10 pm,Main Cabin,$289
+Delta,2023-12-29,3h 33mDFW-JFK,nonstop,12:47 pm – 5:20 pm,Main Cabin,$279
+Delta,2023-12-29,3h 32mDFW-JFK,nonstop,6:40 am – 11:12 am,Main Cabin,$279
+United Airlines,2023-12-29,3h 09mDFW-EWR,nonstop,7:45 am – 11:54 am,Economy,$306
+Delta,2023-12-29,3h 28mDFW-LGA,nonstop,5:35 pm – 10:03 pm,Main Cabin,$319
+Delta,2023-12-29,3h 27mDFW-LGA,nonstop,6:00 am – 10:27 am,Main Cabin,$319
+American Airlines,2023-12-29,3h 21mDFW-LGA,nonstop,7:17 am – 11:38 am,Main Cabin,$359
+American Airlines,2023-12-29,3h 18mDFW-EWR,nonstop,7:34 am – 11:52 am,Main Cabin,$378
+United Airlines,2023-12-29,3h 28mDFW-EWR,nonstop,6:32 pm – 11:00 pm,Economy,$378
+American Airlines,2023-12-29,3h 31mDFW-JFK,nonstop,5:10 pm – 9:41 pm,Main Cabin,$374
+Spirit Airlines,2023-12-29,6h 08mDFW-LGA,1 stop,9:40 am – 4:48 pm,Economy,$145
+Spirit Airlines,2023-12-29,6h 04mDFW-EWR,1 stop,9:56 am – 5:00 pm,Economy,$154
+Spirit Airlines,2023-12-30,3h 25mDFW-EWR,nonstop,7:00 am – 11:25 am,Economy,$169
+Spirit Airlines,2023-12-30,6h 08mDFW-LGA,1 stop,9:40 am – 4:48 pm,Economy,$145
+Frontier,2023-12-30,3h 19mDFW-LGA,nonstop,5:41 pm – 10:00 pm,Economy,$229
+United Airlines,2023-12-30,3h 28mDFW-EWR,nonstop,6:32 pm – 11:00 pm,Basic Economy,$246
+Spirit Airlines,2023-12-30,3h 17mDFW-LGA,nonstop,5:52 am – 10:09 am,Economy,$194
+American Airlines,2023-12-30,3h 18mDFW-EWR,nonstop,7:34 am – 11:52 am,Main Cabin,$275
+Delta,2023-12-30,3h 32mDFW-JFK,nonstop,6:40 am – 11:12 am,Basic Economy,$239
+United Airlines,2023-12-30,3h 09mDFW-EWR,nonstop,7:45 am – 11:54 am,Economy,$341
+American Airlines,2023-12-30,3h 35mDFW-JFK,nonstop,8:54 am – 1:29 pm,Main Cabin,$319
+American Airlines,2023-12-30,3h 21mDFW-LGA,nonstop,7:13 am – 11:34 am,Main Cabin,$359
+American Airlines,2023-12-30,3h 20mDFW-EWR,nonstop,7:09 pm – 11:29 pm,Main Cabin,$378
+American Airlines,2023-12-30,3h 17mDFW-EWR,nonstop,11:34 am – 3:51 pm,Main Cabin,$378
+American Airlines,2023-12-30,3h 31mDFW-JFK,nonstop,5:10 pm – 9:41 pm,Main Cabin,$374
+United Airlines,2023-12-30,3h 28mDFW-EWR,nonstop,1:00 pm – 5:28 pm,Economy,$375
+American Airlines,2023-12-30,3h 38mDFW-JFK,nonstop,12:21 pm – 4:59 pm,Main Cabin,$374
